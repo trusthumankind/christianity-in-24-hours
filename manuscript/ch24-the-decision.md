@@ -49,13 +49,11 @@ Here is the real wager — the one the mission actually asks you to make.
 
 Will you give your life to something bigger than yourself, knowing it will cost you?
 
-Not: will you gain something by believing? Not: will your life be better, easier, more blessed? The mission does not promise you a better life. Jesus was crucified. The disciples were martyred. The prophets were ignored, exiled, killed. Paul was beaten, shipwrecked, imprisoned. None of them lived an easy life. None of them were rewarded with comfort. The "better life" that mainstream Christianity sells — personal peace, earthly blessing, eternal security in exchange for Sunday attendance — is a sweet poison. It is the opposite of what the mission demands.
+Not: will you gain something by believing? Not: will your life be better, easier, more blessed? The mission does not promise you a comfortable life. Jesus was crucified. The disciples were martyred. The prophets were ignored, exiled, killed. Paul was beaten, shipwrecked, imprisoned. None of them lived an easy life. None of them were rewarded with comfort. The "better life" that mainstream Christianity sells — earthly blessing, eternal security in exchange for Sunday attendance — is a sweet poison. It is the opposite of what the mission demands. The mission does produce personal peace — the peace of knowing what you are for and giving yourself fully to it — but that peace accompanies the hardest work you will ever do, not a shortcut around it.
 
 The mission demands everything. And humanity needs you to carry it anyway.
 
 Abraham left everything familiar — not because it would make his life better, but because something larger required it. Moses spent forty years in the wilderness — not for personal fulfillment, but because a people needed leading. Jesus went to the cross — not because it served him, but because the mission required someone to prove it could be carried to the end.
-
-The wager is not: will believing benefit me? The wager is: does humanity need saving? And if it does — if injustice is real, if suffering is real, if the world genuinely needs people who will choose love over comfort and justice over self-interest — then the question is whether you will be one of those people. Not for your sake. For everyone else's.
 
 That is belief. Not a proclamation. A life spent on others.
 
@@ -87,7 +85,9 @@ These are not utopian fantasies. They are the logical conclusions of "love your 
 
 And the promise is that the endpoint is real — that one day the mission is complete, the celebration happens, and every person who carried it across every generation is present for it.
 
-That is the reward. Not a comfortable life now. A seat at the table then — with everyone who ever chose the mission over themselves.
+And part of that endpoint — part of the reward — is the honest conversation. The debrief with God. Why this test? Why the suffering? Why the silence? Why did humanity have to prove itself at all? And with Satan — the skeptic who wagered that we would fail, that given freedom we would always choose ourselves. The reward is not just reunion. It is understanding. Full clarity about what the test was, what it cost, and why it was worth it.
+
+That is the reward. Not a comfortable life now. A seat at the table then — with everyone who ever chose the mission over themselves. And the answers to every question you carried in faith.
 
 ## The decision
 
@@ -101,6 +101,8 @@ You have the tools: prayer for honesty, community for accountability, giving for
 
 You have the honest reckoning: the church has failed repeatedly. The Bible has been misused. Hard questions remain unanswered. Doubt is permanent. None of that invalidates the mission. It means carrying it requires more courage than the institution ever told you — and more honesty than most Sunday sermons will give you.
 
+You have the victory conditions: one country, one currency, food and housing for every human being, education without gatekeepers. Measurable. Achievable. The logical conclusions of "love your neighbor as yourself" — extended across generations until the mission is complete.
+
 And you have a choice. The same choice that has defined every chapter of this story: will you carry the mission or walk away?
 
 No one can make this choice for you. Not a pastor, not a parent, not a book. The decision is yours — and it is yours every single day. Not once, at an altar call. Not once, in a prayer. Every morning. Every interaction. Every moment you choose love over indifference, courage over comfort, the mission over yourself.
@@ -108,11 +110,7 @@ No one can make this choice for you. Not a pastor, not a parent, not a book. The
 > "I call heaven and earth to witness against you today, that I have set before you life and death, blessing and curse. Therefore choose life."
 — [Deuteronomy 30:19 ESV][1]
 
-Choose life. Not once. Today. And tomorrow. And the day after that.
-
-The story of humanity growing up is not finished. The Bible recorded the first chapters. The last twenty-three hours traced the arc. But the next chapter is yours.
-
-Write it well.
+Choose life. Today. And tomorrow. And the day after that.
 
 ## Questions to sit with
 
