@@ -7,7 +7,13 @@ A: You decide. That was always the point.
 
 Hour 1 opened with a question: why did God create humanity? The answer: to prove we can get this right. Twenty-three hours later, the question returns — but now it's personal. Not whether humanity can get it right. Whether *you* will.
 
-You've been through the full arc. God creates. Humanity stumbles. The Law provides guardrails. The prophets redirect. Jesus lives the mission without faltering. The early church carries it forward, imperfectly. The institution corrupts it. Hard questions remain unanswered. The Bible tells one story — humanity growing up — and you're in it.
+You've been through the full arc. God creates. Humanity stumbles. The Law provides guardrails. The prophets redirect. Jesus lives the mission without faltering. The early church carries it forward, imperfectly. The institution corrupts it — trading the mission for power, comfort, and control.
+
+But here is what's different now: you can see it. You can see the corruption clearly because humanity has grown enough to name it. The Crusades, the forced assimilation, the prosperity gospel, the political co-option — these are visible to you in a way they were not visible to the people living inside them. That clarity is itself evidence of the maturation. Humanity has grown up enough to diagnose its own failures.
+
+And you don't need the institution to carry the mission. You have the text. You have the example. You have the two commandments. For most of Christian history, access to Scripture required a priest, literacy required privilege, and the mission was filtered through gatekeepers who shaped it to serve themselves. That era is over. You can read the story yourself. You can see where the institution deviated from it. And you can carry the mission without repeating those mistakes — not because you're better, but because you've inherited the hard lessons of everyone who came before you.
+
+That is why there is more reason for hope now than at any point in this story. Not because the world is fixed — it isn't. But because you have more clarity, more access, and more honest reckoning with failure than any previous generation of people who tried to carry this mission. Hard questions remain unanswered. The Bible tells one story — humanity growing up — and you're in it. But you're in it with open eyes.
 
 Everything has been building to this hour. Not to a conclusion — to a decision.
 
