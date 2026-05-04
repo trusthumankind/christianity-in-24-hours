@@ -71,15 +71,21 @@ That is the celebration at the end. And before it, a thorough reckoning — not 
 
 But what are the conditions that get us there? What does the mission require of humanity — collectively, across generations — to reach that endpoint?
 
-**Justice becomes the norm, not the exception.** The prophets demanded it. Jesus lived it. Currently, justice is the thing we fight for against entrenched systems. The victory condition is a world where justice is not the exception requiring courage but the default requiring no defense.
+Not abstractions. Measurable conditions. Here is what "love your neighbor" looks like when it is fully realized:
 
-**Every person is seen.** "The least of these" — the hungry, the imprisoned, the stranger, the sick — are not categories to serve but neighbors to know. The victory condition is a world where no one is invisible. Where the question "who is my neighbor?" has only one answer: everyone.
+**One country.** No borders. No passports. No artificial lines drawn to separate humanity into competing tribes. God created all people without bias toward favored ethnicities (Hour 20). Countries are human fabrications designed to concentrate power and define who is *not* your neighbor. The victory condition is a world where no Palestinian is trapped behind a wall, no refugee drowns crossing a sea, and no human being is illegal for standing on the wrong patch of earth. Free movement of all people, everywhere.
 
-**Love costs nothing because it is everything.** Right now, love is sacrificial — it costs because selfishness is the default. The victory condition is a world where love is the default and selfishness is the aberration. Where choosing the other over yourself is not heroic but ordinary.
+**One currency.** No financial arbitrage. No system where one nation's money exploits another nation's labor. Currency differences are mechanisms of power — they allow the wealthy to extract value from the poor across invisible lines. The victory condition is a single global economy — or no currency at all — where the free flow of goods and services is not gated by exchange rates designed to keep some rich and others desperate.
 
-**Humanity carries the mission without being asked.** No prophets needed. No correction. No exile to force the lesson. The Law was for children. The prophets were for adolescents. The victory condition is adulthood — humanity carrying the mission because it has internalized the two commandments so deeply they no longer need stating.
+**Food security for every human being.** The world already produces enough food to feed ten billion people. The problem is not scarcity — it is distribution shaped by profit. "I was hungry and you gave me food" ([Matthew 25:35][3]) is not a suggestion. The victory condition is zero hunger — not as charity, but as a systemic guarantee. No one starves while food exists.
 
-We may not see that day. Generations before us didn't. But every act of love, every moment of justice, every sacrifice that chooses others over self moves humanity closer. And the promise is that the endpoint is real — that one day the mission is complete, the celebration happens, and every person who carried it across every generation is present for it.
+**Housing security for every human being.** No one sleeps outside because the system failed them. "I was a stranger and you welcomed me" ([Matthew 25:35][3]). If someone chooses to wander, that is their freedom. But homelessness as a systemic condition — people without shelter because shelter is a commodity rather than a right — is incompatible with the two commandments. The victory condition is a world where every person has a safe place to live.
+
+**Education without gatekeepers.** No pay-to-win private schools that guarantee advantage to the wealthy. No overpriced school districts that sort children by their parents' income before they are old enough to read. Knowledge is not a commodity. The victory condition is a world where the quality of your education has nothing to do with the wealth of your family — where every child has equal access to grow into their full capacity.
+
+These are not utopian fantasies. They are the logical conclusions of "love your neighbor as yourself." Every one of them is measurable. Every one of them is achievable — not today, not this generation, perhaps not for many generations. But each act of love, each stand for justice, each sacrifice that chooses others over self moves humanity closer.
+
+And the promise is that the endpoint is real — that one day the mission is complete, the celebration happens, and every person who carried it across every generation is present for it.
 
 That is the reward. Not a comfortable life now. A seat at the table then — with everyone who ever chose the mission over themselves.
 
