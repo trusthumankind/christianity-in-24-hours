@@ -43,7 +43,7 @@ So what does spiritual maturity actually look like? Not what the church usually 
 
 Pascal's famous argument was a calculation: believe in God because the expected value is better. If God exists and you believe, you gain everything. If God doesn't exist and you believe, you lose nothing. Therefore, believing is the rational bet.
 
-The wager is valid. But what does "believe" mean? In Pascal's era, belief meant professing a creed, getting baptized, attending Mass. The entry ticket was cheap. What twenty-three hours of this story have clarified is that belief is not a statement — it is a life. Belief is carrying the mission. And carrying the mission is not cheap. It costs everything.
+The wager is valid. But what does "believe" mean? In Pascal's era, belief meant professing a creed, getting baptized, attending Mass. The entry ticket was cheap. The last twenty-three hours have clarified that belief is not a statement — it is a life. Belief is carrying the mission. And carrying the mission is not cheap. It costs everything.
 
 Here is the real wager — the one the mission actually asks you to make.
 
