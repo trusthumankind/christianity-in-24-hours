@@ -43,21 +43,21 @@ So what does spiritual maturity actually look like? Not what the church usually 
 
 Pascal's famous argument was a calculation: believe in God because the expected value is better. If God exists and you believe, you gain everything. If God doesn't exist and you believe, you lose nothing. Therefore, believing is the rational bet.
 
-That wager was built on a version of Christianity this book has spent twenty-three hours dismantling. A version where belief is the entry ticket, where heaven is the payoff, and where the afterlife is the whole point.
+The wager is valid. But what does "believe" mean? In Pascal's era, belief meant professing a creed, getting baptized, attending Mass. The entry ticket was cheap. What twenty-three hours of this story have clarified is that belief is not a statement — it is a life. Belief is carrying the mission. And carrying the mission is not cheap. It costs everything.
 
 Here is the real wager — the one the mission actually asks you to make.
 
-Does living as though love, justice, mercy, and faithfulness matter produce a better life than the alternative?
+Will you give your life to something bigger than yourself, knowing it will cost you?
 
-Not a better afterlife. A better life. Right now. Today. This week.
+Not: will you gain something by believing? Not: will your life be better, easier, more blessed? The mission does not promise you a better life. Jesus was crucified. The disciples were martyred. The prophets were ignored, exiled, killed. Paul was beaten, shipwrecked, imprisoned. None of them lived an easy life. None of them were rewarded with comfort. The "better life" that mainstream Christianity sells — personal peace, earthly blessing, eternal security in exchange for Sunday attendance — is a sweet poison. It is the opposite of what the mission demands.
 
-Look at the evidence across twenty-three hours. The people who carried the mission — who loved sacrificially, who forgave at cost, who chose courage over comfort, who sat with suffering instead of running — were they diminished by it? Abraham left everything familiar and built a nation. Moses spent forty years in the wilderness and led a people to freedom. The prophets spoke truth to power and changed the course of history. Jesus went to the cross and the mission survived. Peter denied everything and rebuilt. Paul persecuted the church and became its greatest advocate.
+The mission demands everything. And humanity needs you to carry it anyway.
 
-Every one of them suffered. None of them lived an easy life. But ask yourself honestly: would you trade their lives for a comfortable, unchallenged existence where nothing you did mattered? Would you trade a life of genuine love — messy, costly, painful — for a life of safety where you never risked anything for anyone?
+Abraham left everything familiar — not because it would make his life better, but because something larger required it. Moses spent forty years in the wilderness — not for personal fulfillment, but because a people needed leading. Jesus went to the cross — not because it served him, but because the mission required someone to prove it could be carried to the end.
 
-That's the wager. Not whether God exists. Whether the mission is worth your life. Whether love, honestly pursued, is better than self-preservation, comfortably maintained.
+The wager is not: will believing benefit me? The wager is: does humanity need saving? And if it does — if injustice is real, if suffering is real, if the world genuinely needs people who will choose love over comfort and justice over self-interest — then the question is whether you will be one of those people. Not for your sake. For everyone else's.
 
-The evidence says yes. Twenty-three hours of evidence. Three thousand years of story. And the testimony of every human being who has ever chosen sacrifice over comfort and found that the sacrifice was the thing that made them alive.
+That is belief. Not a proclamation. A life spent on others.
 
 ## The decision
 
