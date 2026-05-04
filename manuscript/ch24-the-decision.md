@@ -59,6 +59,30 @@ The wager is not: will believing benefit me? The wager is: does humanity need sa
 
 That is belief. Not a proclamation. A life spent on others.
 
+But not without hope. The reward is real — it is just not what mainstream Christianity advertises, and it may not arrive in your lifetime. The mission is generational. Abraham never saw the nation. Moses never entered the land. The prophets never saw the justice they demanded. They carried the mission knowing that future generations would inherit what they built. And the promise — the one that runs from Genesis through Revelation — is that the mission has an endpoint. Not a metaphorical one. A real one.
+
+## The victory conditions
+
+What does winning look like?
+
+Hour 23 described it: restoration. Not souls floating to heaven. Not the destruction of the world. The full renewal of creation — every tear wiped away, death itself overcome, and all of humanity reunited in God's presence ([Revelation 21:3-4][2]).
+
+That is the celebration at the end. And before it, a thorough reckoning — not punishment but clarity. Every life understood. Every wound acknowledged. Every act of love remembered and every failure honestly faced. A debrief in the truest sense: what happened, what it cost, and what it produced.
+
+But what are the conditions that get us there? What does the mission require of humanity — collectively, across generations — to reach that endpoint?
+
+**Justice becomes the norm, not the exception.** The prophets demanded it. Jesus lived it. Currently, justice is the thing we fight for against entrenched systems. The victory condition is a world where justice is not the exception requiring courage but the default requiring no defense.
+
+**Every person is seen.** "The least of these" — the hungry, the imprisoned, the stranger, the sick — are not categories to serve but neighbors to know. The victory condition is a world where no one is invisible. Where the question "who is my neighbor?" has only one answer: everyone.
+
+**Love costs nothing because it is everything.** Right now, love is sacrificial — it costs because selfishness is the default. The victory condition is a world where love is the default and selfishness is the aberration. Where choosing the other over yourself is not heroic but ordinary.
+
+**Humanity carries the mission without being asked.** No prophets needed. No correction. No exile to force the lesson. The Law was for children. The prophets were for adolescents. The victory condition is adulthood — humanity carrying the mission because it has internalized the two commandments so deeply they no longer need stating.
+
+We may not see that day. Generations before us didn't. But every act of love, every moment of justice, every sacrifice that chooses others over self moves humanity closer. And the promise is that the endpoint is real — that one day the mission is complete, the celebration happens, and every person who carried it across every generation is present for it.
+
+That is the reward. Not a comfortable life now. A seat at the table then — with everyone who ever chose the mission over themselves.
+
 ## The decision
 
 You have everything you need.
