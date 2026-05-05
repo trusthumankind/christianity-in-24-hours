@@ -3,7 +3,7 @@ part1.md
 ch01-god.md
 ch02-the-bible.md
 ch03-sin.md
-SAVED.md
+ch04-salvation.md
 ch05-faith.md
 ch06-holy-spirit.md
 part2.md
