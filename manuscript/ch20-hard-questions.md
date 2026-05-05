@@ -86,6 +86,35 @@ The honest answer: if God has stepped back and the world operates on its own law
 
 This is unsatisfying. It should be. If you want a God who intervenes on request, the framework of these twenty hours is not going to give you that God. What it gives you instead is a God who trusted you enough to let the outcome depend on you — and a practice of prayer that builds the capacity to face whatever comes.
 
+## What about abortion?
+
+Few topics generate more heat and less honesty than this one. The institutional church treats it as a litmus test — the single issue that determines whether you're a real Christian. The political world treats it the same way from the opposite side. Both camps demand a one-word answer. The Bible doesn't give one.
+
+Scripture says remarkably little about abortion directly. The passages most often cited:
+
+> "For you formed my inward parts; you knitted me together in my mother's womb."
+— [Psalm 139:13 ESV][5]
+
+This is a poem about God's intimate knowledge of a person. It is not legislation. Jeremiah 1:5 — "Before I formed you in the womb I knew you" — describes God's foreknowledge of a specific prophet, not a universal policy statement. These verses affirm that life is sacred. They do not define the moment it begins or settle what a woman should do when every option in front of her involves suffering.
+
+Meanwhile, Exodus 21:22-25 prescribes different penalties for harming a pregnant woman versus causing the loss of her pregnancy — a distinction the text draws without commentary. And Numbers 5 describes a ritual administered by a priest to a woman suspected of adultery, the outcome of which may terminate a pregnancy. It is prescribed by God, in the text. These passages don't settle the debate either, but they complicate the claim that Scripture speaks with one voice on the subject.
+
+Here is what Scripture *does* say clearly: love your neighbor.
+
+Consider a real situation. A couple with two children agrees their family is complete. They're not always careful. One month, a scare — she might be pregnant. She tells her husband plainly: if the test is positive, she's ending the pregnancy. She asks how he'd feel.
+
+He tells her he understands. He respects her decision. All he says is that he'd prefer she keep the child.
+
+No lecture. No scripture quoted. No ultimatum. Just a preference stated with honesty, and a woman's autonomy respected with love. That interaction — quiet, mutual, agonizing — is closer to what faith looks like in practice than any political platform or protest sign.
+
+But notice what's missing from that story: a community. If a village of people living the mission surrounded that family — sharing the cost of childcare, guaranteeing healthcare, ensuring no family drowns under the weight of another mouth to feed — the calculus changes. Not the woman's right to choose. The pressure that makes the choice feel impossible.
+
+This is where the institutional church fails most visibly. The same voices that say "abortion is murder" overwhelmingly oppose universal healthcare, paid family leave, free childcare, and the social infrastructure that would make keeping an unplanned child survivable. They demand the birth and then disappear. That is not pro-life. It is pro-birth. And the difference is the entire mission.
+
+The honest framework: life is sacred, and so is the woman carrying it. She is your neighbor. Her impossible choice is not a political talking point — it is a failure of the community that was supposed to be there and wasn't. The grown-up response to abortion is not to police individual decisions. It is to build the world where fewer people face the decision at all — and to love, without judgment, the ones who do.
+
+This is why the mission matters. The victory conditions from Hour 24 — food security, housing security, education, a community that actually carries each other — are not abstractions. They are the answer to this question. Build the village, and the impossible choices get fewer.
+
 ## The question behind the questions
 
 Every hard question has the same thing underneath it: *can I trust this?*
