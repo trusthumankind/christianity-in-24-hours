@@ -1,8 +1,11 @@
 title: Christianity in 24 Hours
 description: The Bible tells one story. Humanity growing up.
-remote_theme: pages-themes/minimal@v0.2.0
+theme: jekyll-theme-minimal
 plugins:
-  - jekyll-remote-theme
+  - jekyll-relative-links
+
+relative_links:
+  enabled: true
 
 defaults:
   - scope:
