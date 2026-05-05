@@ -25,5 +25,6 @@ ch19-fake-faith.md
 ch20-hard-questions.md
 ch21-christianity-and-the-world.md
 ch22-reading-the-bible.md
-ch23-life-of-faith.md
-ch24-pascals-wager.md
+ch23-death-and-afterlife.md
+ch24-the-decision.md
+epilogue.md
