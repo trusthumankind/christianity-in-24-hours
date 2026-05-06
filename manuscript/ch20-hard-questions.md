@@ -115,6 +115,38 @@ The honest framework: life is sacred, and so is the woman carrying it. She is yo
 
 This is why the mission matters. The victory conditions from Hour 24 — food security, housing security, education, a community that actually carries each other — are not abstractions. They are the answer to this question. Build the village, and the impossible choices get fewer.
 
+## What about marriage?
+
+The institutional church treats marriage as the default expectation for adult life — and often as the prerequisite for legitimate sex, partnership, and full participation in church community. Singles ministries exist, but they're usually holding pens for people who haven't paired up yet. The unspoken message: being single is a phase. Marriage is the destination.
+
+Paul disagreed.
+
+> I wish that all were as I myself am. But each has his own gift from God, one of one kind and one of another. To the unmarried and the widows I say that it is good for them to remain single, as I am.
+— [1 Corinthians 7:7-8 ESV][9]
+
+Paul actively recommended singleness — not as a consolation prize, but as a better position for carrying the mission. His reasoning was practical: married people divide their attention between the mission and their spouse. Single people can give the mission their full focus. Jesus never married. Neither did Paul. The two most influential figures in Christianity chose singleness, and the church somehow turned marriage into a requirement.
+
+None of this means marriage is wrong. Marriage is a covenant between two people to carry the mission together — to build a household oriented toward love of God and love of neighbor. At its best, a marriage is a two-person community (Hour 15) practicing vulnerability, accountability, and showing up for each other every day. At its worst, it's a private fortress — two people turning inward, building comfort, and using "family first" as an excuse to opt out of the broader mission.
+
+The question is not whether you should get married. The question is what your marriage — or your singleness — is pointed toward. A single person carrying the mission is living more faithfully than a married couple accumulating comfort behind a locked front door.
+
+## Should Christians have children?
+
+"Be fruitful and multiply" ([Genesis 1:28][10]) is the verse most often used to argue that Christians should have children. It was spoken to the first humans on an empty earth. There are now eight billion people. The instruction has been fulfilled. Treating it as an eternal command for every individual believer misreads the context by four thousand years and several billion people.
+
+Jesus didn't have children. Paul didn't have children. Paul recommended singleness. Jesus said anyone who follows him must be willing to leave family behind ([Luke 14:26][11]). The New Testament consistently prioritizes the mission over the biological family — not against it, but above it.
+
+> "Who is my mother, and who are my brothers?" And stretching out his hand toward his disciples, he said, "Here are my mother and my brothers! For whoever does the will of my Father in heaven is my brother and sister and mother."
+— [Matthew 12:48-50 ESV][12]
+
+Jesus redefined family as the people carrying the mission. Blood relation is not the primary bond. Shared commitment is.
+
+So should you have children? That's between you, your partner, and your honest assessment of what you're building. If you're having children because you want to raise people who carry the mission — who learn to love their neighbor, question injustice, and hold their lives with open hands — that's a reason. If you're having children because it's expected, because your parents want grandchildren, because you want someone to take care of you when you're old — examine whether those reasons serve the mission or serve yourself.
+
+And if you choose not to have children — because the mission needs your full attention, because the world you'd bring them into isn't ready, because you know yourself well enough to know parenthood isn't your calling — that is not a failure of faith. It may be the clearest expression of it.
+
+The mission needs parents who raise children for the world, not for themselves. It also needs people who give everything to the mission without the weight of family obligations. Both paths serve. Neither is default.
+
 ## The question behind the questions
 
 Every hard question has the same thing underneath it: *can I trust this?*
@@ -139,3 +171,7 @@ The questions don't go away. A faith that requires them to go away is fragile. A
 [6]: https://www.esv.org/Romans+3/
 [7]: https://www.esv.org/James+2/
 [8]: https://www.esv.org/John+14/
+[9]: https://www.esv.org/1+Corinthians+7/
+[10]: https://www.esv.org/Genesis+1/
+[11]: https://www.esv.org/Luke+14/
+[12]: https://www.esv.org/Matthew+12/
