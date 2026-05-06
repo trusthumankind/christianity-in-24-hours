@@ -11,9 +11,9 @@ This chapter is about what happened next. But before we get there, a framing tha
 
 Traditional Christianity teaches that Jesus died as a sacrifice — that God required a payment for humanity's sin, and Jesus was the payment. This is called substitutionary atonement, and it is the dominant framework in most churches. It says: you owed a debt you couldn't pay, Jesus paid it, and now you're free.
 
-This book takes a different path.
+There is a different path.
 
-Not because the sacrificial language isn't in the Bible — it is. But because within the framework we've built across ten chapters, the cross means something more specific than a cosmic transaction. Jesus was a prophet with gifts no one else had, who carried the mission without faltering where every prophet before him had broken. His death wasn't a payment. It was the final proof that faithful mission-carrying is possible — even when the cost is everything.
+Not because the sacrificial language isn't in the Bible — it is. But because within the framework built across the last ten hours, the cross means something more specific than a cosmic transaction. Jesus was a prophet with gifts no one else had, who carried the mission without faltering where every prophet before him had broken. His death wasn't a payment. It was the final proof that faithful mission-carrying is possible — even when the cost is everything.
 
 ## The last days
 
@@ -75,7 +75,7 @@ Crucifixion was designed to be the worst death the Roman Empire could devise. Na
 
 Jesus was beaten, mocked, stripped, and nailed to a cross between two criminals. A sign was placed above his head: "Jesus of Nazareth, the King of the Jews" — Rome's idea of a joke.
 
-From the cross, he said seven things. Two of them matter most for this book.
+From the cross, he said seven things. Two of them matter most for the mission.
 
 The first:
 
@@ -114,7 +114,7 @@ Three days later, the tomb was empty.
 > "He is not here, for he has risen, as he said. Come, see the place where he lay."
 — [Matthew 28:6 ESV][9]
 
-The resurrection is the most debated event in human history. Believers and skeptics have argued about it for two thousand years, and this book will not resolve that debate. What the resurrection means within the framework of this book is this:
+The resurrection is the most debated event in human history. Believers and skeptics have argued about it for two thousand years, and twenty-four hours will not resolve that debate. What the resurrection means within the framework of the mission is this:
 
 God confirmed the answer.
 

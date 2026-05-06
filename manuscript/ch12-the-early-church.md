@@ -50,7 +50,7 @@ On the road to Damascus, headed to arrest more Christians, something happened:
 
 Saul became Paul. The persecutor became the apostle. The man who tried to destroy the church became the person most responsible for building it.
 
-Within the framework of this book, Paul's conversion is significant for two reasons. First, it demonstrates that no one is beyond the reach of the mission. If the person who dragged believers to prison can become the greatest missionary in history, the question of "who qualifies?" is permanently answered: everyone. Second, Paul brought something the original disciples didn't have — education, Roman citizenship, and an understanding of both Jewish Law and Greek philosophy that allowed him to translate the message across cultures.
+Paul's conversion is significant for two reasons. First, it demonstrates that no one is beyond the reach of the mission. If the person who dragged believers to prison can become the greatest missionary in history, the question of "who qualifies?" is permanently answered: everyone. Second, Paul brought something the original disciples didn't have — education, Roman citizenship, and an understanding of both Jewish Law and Greek philosophy that allowed him to translate the message across cultures.
 
 ## The missionary journeys
 

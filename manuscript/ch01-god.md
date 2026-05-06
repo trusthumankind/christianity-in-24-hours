@@ -29,7 +29,7 @@ God created humanity with a mission. Think of it this way: God has a vision for 
 
 ## Who is Satan, really?
 
-Here's where this book parts ways with most of what you've heard.
+Here's where things part ways with most of what you've heard.
 
 Satan is not God's arch-nemesis. Satan is not an equal and opposite force of evil locked in a cosmic war with good. Read the Book of Job carefully — it's one of the most misunderstood books in the Bible.
 
@@ -64,7 +64,7 @@ Jesus answered this directly. No ambiguity, no fine print.
 
 Love God. Love other people. Everything else in the Bible hangs on those two commands. And notice: the mission — stewarding the earth, taking care of each other, proving we can do this — is really just a concrete expression of those two commandments lived out at scale.
 
-Simple to understand. Extraordinarily difficult to live. And that tension between understanding and living is what the rest of this book is about.
+Simple to understand. Extraordinarily difficult to live. And that tension between understanding and living is what the next twenty-two hours are about.
 
 ## Questions to sit with
 
@@ -72,7 +72,7 @@ Simple to understand. Extraordinarily difficult to live. And that tension betwee
 * Do you believe humanity's problems are solvable, or have you already decided we're doomed? What does your answer say about your faith?
 * When you hear "love your neighbor as yourself," who is the neighbor you find hardest to love?
 
-That last question matters more than you think. Because the mission isn't abstract — it's built from seven billion individual choices to love or not love the person in front of you.
+That last question matters more than you think. Because the mission isn't abstract — it's built from eight billion individual choices to love or not love the person in front of you.
 
 [1]: https://www.esv.org/Genesis+6/
 [2]: https://www.esv.org/Genesis+1/

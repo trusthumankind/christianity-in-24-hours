@@ -90,7 +90,7 @@ The answer depends on what you mean by Christianity. If you mean the institution
 
 If you mean the mission — love God, love your neighbor, overcome your fears and vices — then yes. The mission is not invalidated by the institution's failures. It is, in fact, vindicated by them. Every institutional corruption proves exactly what the mission claims: that humans left to their own instincts will choose power over love, self-preservation over sacrifice, comfort over justice. The mission exists because that tendency exists. The failures of the church are evidence for the problem the mission was designed to address.
 
-The question is whether you can separate the signal from the noise — whether you can hold the mission without inheriting the institution's worst impulses. That's what the remaining hours of this book are about.
+The question is whether you can separate the signal from the noise — whether you can hold the mission without inheriting the institution's worst impulses. That's what the remaining hours are about.
 
 ## Questions to sit with
 
