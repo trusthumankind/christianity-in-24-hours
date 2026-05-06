@@ -81,6 +81,30 @@ The early church didn't have small group sign-ups with a six-week commitment and
 
 The modern version of this is simpler but still costly: answering the phone when you'd rather not. Driving across town for a conversation that won't be fun. Sitting with someone in their grief when you have no idea what to say. Being present — not productive, not inspirational, just present.
 
+## Baptism: the first act of community
+
+There's a practice that Christians have argued about for centuries — who should be baptized, when, how, what it means. Entire denominations exist because of disagreements about water.
+
+Here's what baptism actually is: a public commitment to the mission and to the people carrying it with you.
+
+Jesus began his public ministry by being baptized by John in the Jordan River. He didn't need to be — John said so ([Matthew 3:14][10]). Jesus did it anyway, and the reason matters: it was the public beginning. The moment he stepped out of private life and into the mission, in front of witnesses.
+
+> Then Jesus came from Galilee to the Jordan to John, to be baptized by him.
+— [Matthew 3:13 ESV][10]
+
+After Jesus's death and resurrection, baptism became the entry point to the community. When Peter preached at Pentecost and people asked what they should do, his answer was immediate:
+
+> "Repent and be baptized every one of you in the name of Jesus Christ."
+— [Acts 2:38 ESV][11]
+
+Three thousand people were baptized that day. And the very next verses describe what they did: devoted themselves to teaching, fellowship, breaking bread, and sharing everything. Baptism was the door into community — the public declaration that said, *I'm in. I'm with these people. I'm carrying this mission.*
+
+That's why baptism matters — not as a ritual that washes away sin (that framing turns it into a magic transaction), and not as a membership card for heaven. It matters because it is the first act of vulnerability that real community requires. You stand in front of people and say: I believe this enough to be known for it.
+
+Is baptism required for salvation? That question misunderstands both concepts. Salvation is ongoing reorientation, not a one-time pass (Hour 4). Baptism is a public commitment to the community that helps you stay oriented. You don't need a ceremony to be faithful. But the willingness to stand up in front of others and declare your commitment — that is faith expressed in exactly the way this chapter has been describing. Vulnerability. Accountability. Showing up.
+
+If you've been baptized and it felt like checking a box, it wasn't baptism in any meaningful sense. If you've never been baptized but you're carrying the mission in community with others, the absence of a ceremony doesn't disqualify you. The substance matters more than the form. But don't dismiss the form entirely — there's a reason the early church started there.
+
 ## Community and the mission
 
 The mission from Hour 1 — prove we can overcome our fears and vices to sustainably manage the earth — is not a solo project. It never was. The entire biblical narrative, from Abraham's family to Israel's nation to Jesus's twelve to the early church, is a story of people carrying the mission together. Not perfectly. Not without conflict. But together.
@@ -124,3 +148,5 @@ Two or three. Not two or three thousand. The bar is low. The commitment is high.
 [7]: https://www.esv.org/Ecclesiastes+4/
 [8]: https://www.esv.org/Matthew+18/
 [9]: https://www.esv.org/1+Corinthians+12/
+[10]: https://www.esv.org/Matthew+3/
+[11]: https://www.esv.org/Acts+2/
