@@ -7,7 +7,7 @@ A: Love God, love your neighbor. Everything else is commentary.
 
 Part II told the story. Part III asks what you do with it.
 
-The transition matters. Knowing the story — creation, fall, Law, prophets, Jesus, the early church — is not the same as living it. You can read every chapter of this book, understand the framework, agree with the tenets, and still walk away unchanged. Knowledge without action is the older brother in the Prodigal Son parable: technically correct, spiritually empty.
+The transition matters. Knowing the story — creation, fall, Law, prophets, Jesus, the early church — is not the same as living it. You can read every chapter, understand the framework, agree with the tenets, and still walk away unchanged. Knowledge without action is the older brother in the Prodigal Son parable: technically correct, spiritually empty.
 
 Part III is about the doing. And it starts with the simplest, hardest thing Jesus ever said.
 
@@ -28,7 +28,7 @@ The maturation metaphor from Part II lands here. The Law gave children 613 rules
 
 Loving God is not an emotion. It is not a warm feeling during worship. It is not the rush you get at a concert-style church service with fog machines and a light show.
 
-Loving God, in the framework of this book, means orienting your life around the mission. The mission from Hour 1: prove we can overcome our fears and vices to sustainably manage the earth and love each other. Loving God means taking that mission seriously — not as an abstract idea you assent to, but as the organizing principle of your actual, daily, Tuesday-afternoon life.
+Loving God means orienting your life around the mission. The mission from Hour 1: prove we can overcome our fears and vices to sustainably manage the earth and love each other. Loving God means taking that mission seriously — not as an abstract idea you assent to, but as the organizing principle of your actual, daily, Tuesday-afternoon life.
 
 Jesus made this explicit:
 
@@ -97,7 +97,7 @@ Peter denied Jesus three times and still built the church. Paul persecuted Chris
 
 The remaining chapters of Part III are applications of these two commandments. Prayer (Hour 14) is how you orient toward God. Community (Hour 15) is how you practice love with people who share the mission. Giving (Hour 16) is love expressed through resources. Suffering (Hour 17) is what happens when love costs you something. Forgiveness (Hour 18) is love surviving betrayal.
 
-Everything comes back to this: love God, love your neighbor. If you remember nothing else from this book, remember that. Not as a bumper sticker. Not as a greeting card sentiment. As a daily, uncomfortable, relentless practice that will cost you more than you expect and give back more than you can measure.
+Everything comes back to this: love God, love your neighbor. If you remember nothing else from these twenty-four hours, remember that. Not as a bumper sticker. Not as a greeting card sentiment. As a daily, uncomfortable, relentless practice that will cost you more than you expect and give back more than you can measure.
 
 The story has been told. This is where the living starts.
 

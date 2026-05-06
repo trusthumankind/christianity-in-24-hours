@@ -46,7 +46,7 @@ The Fall opened the door. Cain walked through it.
 
 The first murder. One generation after creation. And Cain's response — "Am I my brother's keeper?" — is the most honest articulation of sin in the entire Bible. It's not a denial. It's a question: why should I be responsible for someone else?
 
-The answer, from this book's framework, is: because that is the entire mission. You are your brother's keeper. That's what "love your neighbor as yourself" means at its most basic. Every person you encounter is your responsibility, not in the sense that you control their outcomes, but in the sense that how you treat them is evidence in the trial.
+The answer is: because that is the entire mission. You are your brother's keeper. That's what "love your neighbor as yourself" means at its most basic. Every person you encounter is your responsibility, not in the sense that you control their outcomes, but in the sense that how you treat them is evidence in the trial.
 
 Cain chose self. And the consequence was exile — separation from the community, from the ground that would have sustained him, from God's direct presence. Sin doesn't just harm the victim. It isolates the one who commits it.
 
@@ -126,7 +126,7 @@ Abraham obeys. He binds Isaac, lays him on the altar, raises the knife. And God 
 > "Do not lay your hand on the boy or do anything to him, for now I know that you fear God, seeing you have not withheld your son, your only son, from me."
 — [Genesis 22:12 ESV][13]
 
-This is the hardest story in the Old Testament. It has troubled readers for millennia, and it should. But within the framework of this book, the point is this: God asked Abraham whether his faith was real — not as theology, not as cultural identity, not as a comfortable habit, but as something he would act on when the cost was everything he loved.
+This is the hardest story in the Old Testament. It has troubled readers for millennia, and it should. But the point is this: God asked Abraham whether his faith was real — not as theology, not as cultural identity, not as a comfortable habit, but as something he would act on when the cost was everything he loved.
 
 Abraham said yes. And God accepted the answer without requiring the sacrifice.
 

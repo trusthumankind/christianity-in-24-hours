@@ -55,7 +55,7 @@ The apostles spread the gospel across the Mediterranean world. Communities of be
 
 ## What we have now
 
-This book takes a clear position: the Holy Spirit's active, supernatural role was specific to the early church's founding mission. It equipped people who had nothing else. We are not those people.
+The position is clear: the Holy Spirit's active, supernatural role was specific to the early church's founding mission. It equipped people who had nothing else. We are not those people.
 
 We have the complete Bible — sixty-six books recording everything God wanted humanity to know. We have two thousand years of scholarship, translation, and commentary. We have the detailed example of Jesus's life, teachings, death, and resurrection, preserved in four independent accounts. We have communities of believers on every continent. We have literacy, printing, the internet — the ability to access Scripture in hundreds of languages from anywhere on earth.
 
@@ -101,7 +101,7 @@ The Spirit's legacy is not an ongoing whisper in your ear. It is the standard it
 
 Hour 1 established the mission: humanity proving we can overcome our fears and vices to sustainably manage the earth. Satan's bet is that we'll fail. God is watching.
 
-If God is actively directing individuals through the Spirit, the test is rigged. You cannot simultaneously claim that humans have free will and that God is whispering instructions in their ears. Either the choices are ours or they aren't. This book says they are — fully, completely, and without a safety net.
+If God is actively directing individuals through the Spirit, the test is rigged. You cannot simultaneously claim that humans have free will and that God is whispering instructions in their ears. Either the choices are ours or they aren't. They are — fully, completely, and without a safety net.
 
 That is harder than being led. It is also more honest. And it is the only framework in which faith means anything. If you're being guided, you don't need faith — you have GPS. Faith is what you need when you're navigating without a signal, using the map you were given, trusting that the destination is real even though you can't see it yet.
 

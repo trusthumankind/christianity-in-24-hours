@@ -5,7 +5,7 @@ A: Yes. But that doesn't mean what most people think it means.
 
 ## Commentary
 
-You've made it to Hour 2, which means you're still here. Good. Because this chapter is about the book that the rest of this book won't stop quoting, and you need to understand what you're holding so that everything after this lands the way it should.
+You've made it to Hour 2, which means you're still here. Good. Because this chapter is about the book that the next twenty-two hours won't stop quoting, and you need to understand what you're holding so that everything after this lands the way it should.
 
 The Bible is not a rulebook. It's not an instruction manual. It's not a single document written by one author with one message. And it is absolutely not a weapon to be aimed at people you disagree with.
 
@@ -53,9 +53,9 @@ A sword cuts. If the Bible has never cut you — never made you question your ow
 
 ## Why this matters for the rest of the book
 
-The preface of this book told you to read the Bible for yourself after you finish here. That wasn't a suggestion. It was the whole point. This book is a map. The Bible is the territory. And maps are useful, but they're no substitute for walking the ground yourself.
+The preface told you to read the Bible for yourself after you finish here. That wasn't a suggestion. It was the whole point. These twenty-four hours are a map. The Bible is the territory. And maps are useful, but they're no substitute for walking the ground yourself.
 
-If you disagree with something in this book, good. Go back to the mission and think critically about whether the disagreement holds up. If a pastor tells you something that sounds off, measure it against the mission. If a friend quotes a verse to win an argument, ask whether that interpretation serves the mission or just serves their point.
+If you disagree with something here, good. Go back to the mission and think critically about whether the disagreement holds up. If a pastor tells you something that sounds off, measure it against the mission. If a friend quotes a verse to win an argument, ask whether that interpretation serves the mission or just serves their point.
 
 The mission is grounded in the Bible. It is the product of reading the whole thing, thinking hard about why it exists, and arriving at an understanding of what God set in motion and what humanity is supposed to do about it. You can question the mission — that is fine, and it is encouraged. But question it honestly, with the full weight of Scripture behind you, not with a single verse pulled from a Google search.
 
