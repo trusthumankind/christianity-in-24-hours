@@ -150,3 +150,7 @@ Two or three. Not two or three thousand. The bar is low. The commitment is high.
 [9]: https://www.esv.org/1+Corinthians+12/
 [10]: https://www.esv.org/Matthew+3/
 [11]: https://www.esv.org/Acts+2/
+
+---
+
+[← Hour 14: Prayer](ch14-prayer.html) · [Table of Contents](../) · [Hour 16: Giving →](ch16-giving.html)

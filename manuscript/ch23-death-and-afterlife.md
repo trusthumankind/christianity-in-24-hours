@@ -122,3 +122,7 @@ Death is real. Loss is real. But the story does not end with loss. It ends with 
 [8]: https://www.esv.org/Philippians+2/
 [9]: https://www.esv.org/1+John+4/
 [10]: https://www.esv.org/Revelation+21/
+
+---
+
+[← Hour 22: Reading the Bible](ch22-reading-the-bible.html) · [Table of Contents](../) · [Hour 24: The Decision →](ch24-the-decision.html)

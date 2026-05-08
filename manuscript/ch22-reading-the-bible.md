@@ -89,3 +89,7 @@ When a passage doesn't make sense, set it aside and keep reading. The mission �
 [2]: https://www.esv.org/Psalm+23/
 [3]: https://www.esv.org/Revelation+13/
 [4]: https://www.esv.org/Revelation+21/
+
+---
+
+[← Hour 21: Christianity and the World](ch21-christianity-and-the-world.html) · [Table of Contents](../) · [Hour 23: Death and What Comes After →](ch23-death-and-afterlife.html)

@@ -138,3 +138,7 @@ You will encounter suffering you cannot explain. When you do, resist the urge to
 [7]: https://www.esv.org/Psalm+22/
 [8]: https://www.esv.org/Psalm+44/
 [9]: https://www.esv.org/2+Corinthians+1/
+
+---
+
+[← Hour 16: Giving](ch16-giving.html) · [Table of Contents](../) · [Hour 18: Forgiveness →](ch18-forgiveness.html)

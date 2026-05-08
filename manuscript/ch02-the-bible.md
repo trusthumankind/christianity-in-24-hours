@@ -74,3 +74,7 @@ God gave you a mind. Use it.
 [5]: https://www.esv.org/Mark+10/
 [6]: https://www.esv.org/1+Corinthians+14/
 [7]: https://www.esv.org/Hebrews+4/
+
+---
+
+[← Hour 1: God](ch01-god.html) · [Table of Contents](../) · [Hour 3: Sin →](ch03-sin.html)

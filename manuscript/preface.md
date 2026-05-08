@@ -13,3 +13,7 @@ This book exists to explain what faith in God really means, over 24 chapters you
 Once you’ve read this book, go read the Bible for yourself, from cover to cover, and see whether you reach the same conclusions. Many people will tell you the Bible is too difficult for a mere human like you to understand. Those people are quite frankly insulting your intelligence, and they are scared of the responsibilities that come with the inconvenient truth.
 
 Like Neo meeting Morpheus for the first time, you can choose now to take the blue pill and toss this book in the trash. But if you’re game to try the red pill, read on.
+
+---
+
+[Table of Contents](../) · [Hour 1: God →](ch01-god.html)

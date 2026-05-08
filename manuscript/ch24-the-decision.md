@@ -119,3 +119,7 @@ Choose life. Today. And tomorrow. And the day after that.
 * The mission asks whether humanity can get this right. Your part of the answer is your life. What is your life saying?
 
 [1]: https://www.esv.org/Deuteronomy+30/
+
+---
+
+[← Hour 23: Death and What Comes After](ch23-death-and-afterlife.html) · [Table of Contents](../) · [Epilogue: Now Go →](epilogue.html)

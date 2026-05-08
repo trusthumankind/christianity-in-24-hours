@@ -109,3 +109,7 @@ Real faith is what remains when you've stripped away the performance, the incent
 [4]: https://www.esv.org/2+Timothy+4/
 [5]: https://www.esv.org/James+2/
 [6]: https://www.esv.org/Galatians+5/
+
+---
+
+[← Hour 18: Forgiveness](ch18-forgiveness.html) · [Table of Contents](../) · [Hour 20: Hard Questions →](ch20-hard-questions.html)

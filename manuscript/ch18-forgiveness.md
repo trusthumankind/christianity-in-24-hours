@@ -110,3 +110,7 @@ The point is not perfection. The point is direction. Are you moving toward relea
 [3]: https://www.esv.org/Genesis+50/
 [4]: https://www.esv.org/Ephesians+4/
 [5]: https://www.esv.org/2+Timothy+4/
+
+---
+
+[← Hour 17: Suffering](ch17-suffering.html) · [Table of Contents](../) · [Hour 19: Fake Faith →](ch19-fake-faith.html)

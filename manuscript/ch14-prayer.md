@@ -130,3 +130,7 @@ Then get up. And do the thing that prayer prepared you to do.
 [5]: https://www.esv.org/Luke+6/
 [6]: https://www.esv.org/Matthew+14/
 [7]: https://www.esv.org/Luke+10/
+
+---
+
+[← Hour 13: Love God, Love Your Neighbor](ch13-love-god-love-neighbor.html) · [Table of Contents](../) · [Hour 15: Community →](ch15-community.html)

@@ -157,3 +157,7 @@ The Law was never the solution. It was the setup. It was the necessary stage of 
 [11]: https://www.esv.org/Exodus+32/
 [12]: https://www.esv.org/Numbers+14/
 [13]: https://www.esv.org/Numbers+20/
+
+---
+
+[← Hour 7: Creation to Abraham](ch07-creation-to-abraham.html) · [Table of Contents](../) · [Hour 9: The Prophets →](ch09-the-prophets.html)

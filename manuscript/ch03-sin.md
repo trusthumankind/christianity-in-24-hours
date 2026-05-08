@@ -117,3 +117,7 @@ The good news is that the test isn't over. You're still choosing. And while the 
 [5]: https://www.esv.org/Matthew+25/
 [6]: https://www.esv.org/Isaiah+5/
 [7]: https://www.esv.org/Matthew+7/
+
+---
+
+[← Hour 2: The Bible](ch02-the-bible.html) · [Table of Contents](../) · [Hour 4: Salvation →](ch04-salvation.html)

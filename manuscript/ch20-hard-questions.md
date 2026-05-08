@@ -175,3 +175,7 @@ The questions don't go away. A faith that requires them to go away is fragile. A
 [10]: https://www.esv.org/Genesis+1/
 [11]: https://www.esv.org/Luke+14/
 [12]: https://www.esv.org/Matthew+12/
+
+---
+
+[← Hour 19: Fake Faith](ch19-fake-faith.html) · [Table of Contents](../) · [Hour 21: Christianity and the World →](ch21-christianity-and-the-world.html)
