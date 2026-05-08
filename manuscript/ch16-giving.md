@@ -130,3 +130,7 @@ The tithe was never the point. The point is whether you're willing to hold your 
 [9]: https://www.esv.org/Exodus+22/
 [10]: https://www.esv.org/Leviticus+25/
 [11]: https://www.esv.org/Ezekiel+18/
+
+---
+
+[← Hour 15: Community](ch15-community.html) · [Table of Contents](../) · [Hour 17: Suffering →](ch17-suffering.html)

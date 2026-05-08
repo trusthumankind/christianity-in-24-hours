@@ -125,3 +125,7 @@ Part II will trace the story — from creation to the early church — so you ca
 [8]: https://www.esv.org/1+Corinthians+12/
 [9]: https://www.esv.org/1+John+4/
 [10]: https://www.esv.org/Galatians+5/
+
+---
+
+[← Hour 5: Faith](ch05-faith.html) · [Table of Contents](../) · [Hour 7: Creation to Abraham →](ch07-creation-to-abraham.html)

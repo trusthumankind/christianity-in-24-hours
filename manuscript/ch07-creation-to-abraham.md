@@ -161,3 +161,7 @@ The mission started in a garden. It nearly ended in a flood. It survived in a co
 [11]: https://www.esv.org/Genesis+16/
 [12]: https://www.esv.org/Genesis+22:2/
 [13]: https://www.esv.org/Genesis+22:12/
+
+---
+
+[← Hour 6: The Holy Spirit](ch06-holy-spirit.html) · [Table of Contents](../) · [Hour 8: Moses and the Law →](ch08-moses-and-the-law.html)

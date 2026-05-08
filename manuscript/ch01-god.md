@@ -79,3 +79,7 @@ That last question matters more than you think. Because the mission isn't abstra
 [3]: https://www.esv.org/Job+1/
 [4]: https://www.esv.org/Deuteronomy+30/
 [5]: https://www.esv.org/Matthew+22/
+
+---
+
+[← Preface](preface.html) · [Table of Contents](../) · [Hour 2: The Bible →](ch02-the-bible.html)

@@ -113,3 +113,7 @@ The story has been told. This is where the living starts.
 [4]: https://www.esv.org/Leviticus+19:18/
 [5]: https://www.esv.org/Luke+10/
 [6]: https://www.esv.org/1+Corinthians+13/
+
+---
+
+[← Hour 12: The Early Church](ch12-the-early-church.html) · [Table of Contents](../) · [Hour 14: Prayer →](ch14-prayer.html)

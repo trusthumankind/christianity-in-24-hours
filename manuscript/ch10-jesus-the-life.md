@@ -131,3 +131,7 @@ That cost is the next chapter.
 [14]: https://www.esv.org/John+18/
 [15]: https://www.esv.org/Matthew+26:53/
 [16]: https://www.esv.org/John+1:14/
+
+---
+
+[← Hour 9: The Prophets](ch09-the-prophets.html) · [Table of Contents](../) · [Hour 11: Jesus — The Death and Resurrection →](ch11-jesus-death-resurrection.html)

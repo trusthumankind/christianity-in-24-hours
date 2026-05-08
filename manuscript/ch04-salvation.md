@@ -119,3 +119,7 @@ You will be saved by faith. But faith is not lived in isolation. The rest of Par
 [6]: https://www.esv.org/John+21/
 [7]: https://www.esv.org/Matthew+13/
 [8]: https://www.esv.org/Ephesians+2/
+
+---
+
+[← Hour 3: Sin](ch03-sin.html) · [Table of Contents](../) · [Hour 5: Faith →](ch05-faith.html)

@@ -133,3 +133,7 @@ The Old Testament ends in waiting. The prophets have spoken. The silence has beg
 [10]: https://www.esv.org/Psalm+137/
 [11]: https://www.esv.org/Jeremiah+29/
 [12]: https://www.esv.org/Jeremiah+31/
+
+---
+
+[← Hour 8: Moses and the Law](ch08-moses-and-the-law.html) · [Table of Contents](../) · [Hour 10: Jesus — The Life →](ch10-jesus-the-life.html)

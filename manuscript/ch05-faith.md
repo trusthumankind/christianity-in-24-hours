@@ -87,3 +87,7 @@ They do. That's the whole point.
 [5]: https://www.esv.org/Acts+7/
 [6]: https://www.esv.org/Matthew+23/
 [7]: https://www.esv.org/Hebrews+11/
+
+---
+
+[← Hour 4: Salvation](ch04-salvation.html) · [Table of Contents](../) · [Hour 6: The Holy Spirit →](ch06-holy-spirit.html)

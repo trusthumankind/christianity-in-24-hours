@@ -154,3 +154,7 @@ That handoff — from the one who proved it possible to the many who would try t
 [9]: https://www.esv.org/Matthew+28/
 [10]: https://www.esv.org/John+21/
 [11]: https://www.esv.org/Matthew+28:19-20/
+
+---
+
+[← Hour 10: Jesus — The Life](ch10-jesus-the-life.html) · [Table of Contents](../) · [Hour 12: The Early Church →](ch12-the-early-church.html)

@@ -102,3 +102,7 @@ The question is whether you can separate the signal from the noise — whether y
 [2]: https://www.esv.org/Matthew+4/
 [3]: https://www.esv.org/Matthew+7/
 [4]: https://www.esv.org/Mark+12/
+
+---
+
+[← Hour 20: Hard Questions](ch20-hard-questions.html) · [Table of Contents](../) · [Hour 22: Reading the Bible →](ch22-reading-the-bible.html)
