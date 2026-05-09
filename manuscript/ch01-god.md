@@ -6,27 +6,30 @@ A: To prove — to Satan, and to ourselves — that we can get this right.
 
 ## Commentary
 
-Let's start with the question everyone asks and almost no one answers simply: who is God?
+Let's start with a simple answer to a simple question: Who is God?
 
-God is the creator of our universe. Everything you can see, measure, or imagine exists because God made it. But let's set aside the popular image of a flawless, untouchable being sitting on a throne of perfection. That version of God is a myth invented by people who wanted you to stop asking questions.
+God is the creator of our universe. Everything you can see, measure, or imagine exists within a world _originally_ made by God. Despite holding immense powers of creation, God is _not_ a flawless, untouchable being sitting on a throne of perfection. That image of perfection is a myth invented by people who wanted you to bow to power and to stop asking questions.
 
-The God you'll find in the Bible is not like that. This God gets angry. Gets sad. Feels betrayed. Experiences joy when things go right and frustration when they don't. God created humanity, and like any parent raising children, God has been navigating the emotional ups and downs of that decision ever since.
+The God you'll find in the Bible is very different. God gets angry. Gets sad. Feels betrayed. Experiences joy when things go right and frustration when they don't. God created humanity, and like any parent raising children, God has been navigating the emotional ups and downs of parenting ever since.
 
 > Then the LORD saw that the wickedness of man was great in the earth, and that every intention of the thoughts of his heart was only evil continually. And the LORD regretted that he had made man on the earth, and it grieved him to his heart.
 — [Genesis 6:5-6 ESV][1]
 
-God _regretted_ creating us. That's not the language of a detached, perfect being. That's the language of a parent watching their children destroy everything they were given.
+At one point, God _regretted_ creating us. That's not the language of a detached, perfect being. That's the language of a parent watching their children destroy everything they were given.
 
 ## Why did God create us?
 
 Not as pets. Not for entertainment. And not because God needed someone to worship Him.
 
-God created humanity with a mission. Think of it this way: God has a vision for what we could be — a species that overcomes its fears and vices to sustainably manage the world we've been given. Earth is our sacred domain, entrusted to us. If we make it uninhabitable, game over. If we destroy each other, game over. But if we prove we can live together without those outcomes, we win.
+God created humanity with a mission, a test. Think of it this way: God has a vision for what we could be — a species that overcomes its fears and vices to sustainably manage the world we're given. Can _we_ become that species?
+- If Earth becomes uninhabitable, game over.
+- If we destroy each other, game over.
+- But if we prove we can live together in balance and in peace, we _win_.
 
 > Then God said, "Let us make man in our image, after our likeness. And let them have dominion over the fish of the sea and over the birds of the heavens and over the livestock and over all the earth and over every creeping thing that creeps on the earth."
 — [Genesis 1:26 ESV][2]
 
-"Dominion" is not a trophy. It's a responsibility. You were made in the image of God — not to sit on a throne, but to steward what God built.
+Earth is our sacred domain. And "dominion" is not a trophy; it's a responsibility. You were made in the image of God — not to sit on a throne, but to steward what God built.
 
 ## Who is Satan, really?
 
