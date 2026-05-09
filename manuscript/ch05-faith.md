@@ -1,6 +1,7 @@
 # Hour 5: Faith
 
 Q: What does it mean to have faith?
+
 A: It means choosing to act on what you believe, especially when it costs you something.
 
 ## Commentary

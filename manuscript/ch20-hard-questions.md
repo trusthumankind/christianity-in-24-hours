@@ -1,6 +1,7 @@
 # Hour 20: Hard Questions
 
 Q: What about all the things Christianity can't explain?
+
 A: Honest faith doesn't require answers to every question. It requires honesty about which ones you're avoiding.
 
 ## Commentary

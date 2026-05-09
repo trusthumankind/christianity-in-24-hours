@@ -1,6 +1,7 @@
 # Hour 4: Salvation
 
 Q: If everyone sins, is anyone saved?
+
 A: Yes. Salvation is not a reward for the perfect — it is the process of choosing the mission over yourself, again and again, with help.
 
 ## Commentary

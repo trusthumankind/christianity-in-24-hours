@@ -1,6 +1,7 @@
 # Hour 13: Love God, Love Your Neighbor
 
 Q: If you had to reduce all of Christianity to one sentence, what would it be?
+
 A: Love God, love your neighbor. Everything else is commentary.
 
 ## Commentary

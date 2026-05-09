@@ -1,6 +1,7 @@
 # Hour 15: Community
 
 Q: Do I need to go to church?
+
 A: You need community. Whether that happens in a church building is between you and the people you choose to walk with.
 
 ## Commentary

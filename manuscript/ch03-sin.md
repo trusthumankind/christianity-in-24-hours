@@ -1,6 +1,7 @@
 # Hour 3: Sin
 
 Q: Am I a sinner?
+
 A: Yes. So is everyone you've ever met. The question is what you do about it.
 
 ## Commentary

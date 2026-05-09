@@ -1,6 +1,7 @@
 # Hour 7: Creation to Abraham
 
 Q: What happened between "In the beginning" and the start of Israel?
+
 A: God created, humanity failed, God refused to give up, and one man said yes.
 
 ## Commentary

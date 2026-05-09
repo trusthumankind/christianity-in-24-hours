@@ -1,6 +1,7 @@
 # Hour 14: Prayer
 
 Q: Does prayer work?
+
 A: Define "work." If you mean does God grant requests — read on. If you mean does prayer change you — it can. And that's the point.
 
 ## Commentary

@@ -1,6 +1,7 @@
 # Hour 2: The Bible
 
 Q: Is the Bible the word of God?
+
 A: Yes. But that doesn't mean what most people think it means.
 
 ## Commentary

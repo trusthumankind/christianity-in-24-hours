@@ -1,6 +1,7 @@
 # Hour 24: The Decision
 
 Q: After twenty-three hours, what now?
+
 A: You decide. That was always the point.
 
 ## Commentary

@@ -1,6 +1,7 @@
 # Hour 21: Christianity and the World
 
 Q: If the mission is so clear, why has the church gotten it so wrong?
+
 A: Because the institution chose power over the mission — and it's been doing it for seventeen centuries.
 
 ## Commentary

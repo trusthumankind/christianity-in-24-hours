@@ -1,6 +1,7 @@
 # Hour 19: Fake Faith
 
 Q: How do I know if my faith is real?
+
 A: If it costs you nothing, it probably isn't.
 
 ## Commentary
