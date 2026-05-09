@@ -35,16 +35,16 @@ Earth is our sacred domain. And "dominion" is not a trophy; it's a responsibilit
 
 Here's where things part ways with most of what you've heard.
 
-Satan is not God's arch-nemesis. Satan is not an equal and opposite force of evil locked in a cosmic war with good. Read the Book of Job carefully — it's one of the most misunderstood books in the Bible.
+Satan is not God's arch-nemesis. Satan is not an equal and opposite force of evil locked in a cosmic war with good. Read the Book of Job carefully.
 
 > Now there was a day when the sons of God came to present themselves before the LORD, and Satan also came among them. The LORD said to Satan, "From where have you come?" Satan answered the LORD and said, "From going to and fro on the earth, and from walking up and down on it."
 — [Job 1:6-7 ESV][3]
 
-Satan shows up among the sons of God. He doesn't sneak in. He doesn't rebel. He presents himself, and God _engages him in conversation_. What follows is a challenge: Satan tells God that Job is only faithful because God has blessed him with prosperity. Take it away, Satan says, and watch him crumble. God grants Satan permission to test Job — within limits God sets.
+Satan shows up among the sons of God. He doesn't sneak in. He doesn't rebel. He presents himself, and God _engages him in conversation_. What follows is a challenge: Satan tells God that Job is only faithful because God has blessed him with prosperity. Take it away, Satan says, and watch him crumble. God grants Satan permission to test Job — within limits set by God.
 
 This is not a war. It's a wager. Satan is the skeptic in the room, the one who looks at humanity and says, "They'll fail." God is the one who says, "Watch them." And the stakes are everything.
 
-All the evil things people blame on Satan? They're inseparable from God, because Satan operates only with God's permission. The question was never whether God could stop evil. The question is why God _allows_ it — and the answer is that the test wouldn't mean anything if it weren't real.
+All the evil things people blame on Satan? They're inseparable from God, because Satan operates with God's permission. The question was never whether God could stop evil. The question is why God _allows_ it — and the answer is our capacity for both good _and_ evil makes the test real.
 
 ## Do humans have free will?
 
