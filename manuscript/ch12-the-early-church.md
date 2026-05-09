@@ -1,6 +1,7 @@
 # Hour 12: The Early Church
 
 Q: What happened after Jesus left?
+
 A: A handful of ordinary people tried to live the mission. They failed constantly and changed the world anyway.
 
 ## Commentary

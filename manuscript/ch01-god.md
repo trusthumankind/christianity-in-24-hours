@@ -1,6 +1,7 @@
 # Hour 1: God
 
 Q: Why did God create humanity?
+
 A: To prove — to Satan, and to ourselves — that we can get this right.
 
 ## Commentary

@@ -1,6 +1,7 @@
 # Hour 8: Moses and the Law
 
 Q: Why did God give rules He knew people would break?
+
 A: Because early humanity didn't know how to conduct themselves. Rules are how you teach children — and humanity was a child. You internalize the rules, you grow up, and eventually you don't need someone handing them to you anymore. Humanity is in adulthood now.
 
 ## Commentary

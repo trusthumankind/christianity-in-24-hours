@@ -1,6 +1,7 @@
 # Hour 16: Giving
 
 Q: What's an appropriate tithe to the church?
+
 A: Wrong question. The right question is: what are you holding back, and why?
 
 ## Commentary

@@ -1,6 +1,7 @@
 # Hour 9: The Prophets
 
 Q: If God stopped intervening directly, how did He communicate with Israel?
+
 A: Through people who told the truth no one wanted to hear.
 
 ## Commentary

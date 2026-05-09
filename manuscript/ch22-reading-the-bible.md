@@ -1,6 +1,7 @@
 # Hour 22: Reading the Bible
 
 Q: Where do I even start with the Bible?
+
 A: With the story. The Bible tells one story across sixty-six books: humanity growing up. Once you see that arc, everything else falls into place.
 
 ## Commentary

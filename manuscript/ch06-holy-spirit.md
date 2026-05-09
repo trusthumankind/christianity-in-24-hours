@@ -1,6 +1,7 @@
 # Hour 6: The Holy Spirit
 
 Q: What is the Holy Spirit?
+
 A: God's power, given to the early church to launch the mission. Not a hotline for personal guidance today.
 
 ## Commentary

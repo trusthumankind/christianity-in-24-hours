@@ -1,6 +1,7 @@
 # Hour 10: Jesus — The Life
 
 Q: Who was Jesus?
+
 A: The person who showed humanity what faithfulness looks like — lived, not legislated.
 
 ## Commentary

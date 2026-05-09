@@ -1,6 +1,7 @@
 # Hour 11: Jesus — The Death and Resurrection
 
 Q: Why did Jesus have to die?
+
 A: He didn't have to. He chose to. And that choice is the point.
 
 ## Commentary

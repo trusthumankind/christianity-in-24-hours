@@ -1,6 +1,7 @@
 # Hour 17: Suffering
 
 Q: Why does God allow suffering?
+
 A: Pain gives the test meaning and makes the mission real.
 
 ## Commentary
