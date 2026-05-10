@@ -1,29 +1,37 @@
 # Hour 3: Sin
 
-Q: Am I a sinner?
+Q: Are you a sinner?
 
-A: Yes. So is everyone you've ever met. The question is what you do about it.
+A: Yes. So is everyone you've ever met. The more important question is what you do about it.
 
 ## Commentary
 
 This is the chapter nobody wants to read. The word "sin" has been so thoroughly weaponized by religious culture that most people hear it and immediately picture a preacher pointing a finger, telling them they're going to hell for something they enjoyed doing. That image is not entirely wrong — plenty of preachers have earned it — but it has almost nothing to do with what sin actually is.
-
-Sin is not a list of prohibited activities. It is not a cosmic scoreboard tracking your mistakes. And it is definitely not a tool for one group of people to control another.
+- Sin is not a list of prohibited activities.
+- It is not a cosmic scoreboard tracking your mistakes.
+- And it is definitely not a tool for one group of people to control another.
 
 Sin is choosing yourself over the mission.
 
 ## What sin actually is
 
-Go back to Hour 1. God created humanity with a purpose: prove we can overcome our fears and vices to sustainably manage the earth. Love God, love your neighbor. Every act of love, justice, and generosity is evidence for the defense. Every act of cruelty, greed, and indifference is evidence for the prosecution.
+In Hour 1, you learned that God created humanity with a purpose: to prove we can overcome our fears and vices to sustainably manage the earth. Love God, love your neighbor. The expectations are clear.
+
+Now imagine that humanity is put on trial for deserting the mission, for destruction of property, and for reckless endangerment.
+- Every act of love, justice, and generosity is evidence for the defense.
+- Every act of cruelty, greed, and indifference is evidence for the prosecution.
 
 Sin is anything that adds to the prosecution's case.
+- When you lie to protect your reputation, you're choosing yourself over truth.
+- When you hoard wealth while people around you go without, you're choosing comfort over compassion.
+- When you ignore injustice because it doesn't affect you personally, you're choosing convenience over love.
 
-That sounds abstract, so make it concrete. When you lie to protect your reputation, you're choosing yourself over truth. When you hoard wealth while people around you go without, you're choosing comfort over the mission. When you ignore injustice because it doesn't affect you personally, you're choosing convenience over love.
+And yes, the prosecution has plenty to work with.
 
 > For all have sinned and fall short of the glory of God.
 — [Romans 3:23 ESV][1]
 
-Paul doesn't say "some people have sinned." He says *all*. Every human being who has ever lived — with one exception — has chosen self over mission at some point. That includes you. That includes the person sitting next to you in church. That includes the pastor behind the pulpit.
+Paul doesn't say "some people have sinned." He says *all*. Every human being who has ever lived — with one exception — has chosen self over mission at some point. That includes you. That includes the person sitting next to you in church. That includes the pastor behind the pulpit. That includes the human author of this book.
 
 ## The garden
 
@@ -32,29 +40,29 @@ The story of Adam and Eve in Genesis is the archetype of every sin that has foll
 > And the LORD God commanded the man, saying, "You may surely eat of every tree of the garden, but of the tree of the knowledge of good and evil you shall not eat, for in the day that you eat of it you shall surely die."
 — [Genesis 2:16-17 ESV][2]
 
-They ate. Not because they were hungry — the garden was full of food. Not because they were forced — they had free will. They ate because they wanted something more than what they'd been given. They wanted to be like God.
+They ate. Not because they were hungry — the garden was full of food. Not because they were forced — they had free will. They ate because they wanted something more than what they'd been given. They strayed from their mission.
 
 > So when the woman saw that the tree was good for food, and that it was a delight to the eyes, and that the tree was to be desired to make one wise, she took of its fruit and ate, and she also gave some to her husband who was with her, and he ate.
 — [Genesis 3:6 ESV][3]
 
-This is the pattern that repeats across all of human history: God provides what we need, sets a boundary, and we cross it — not out of necessity but out of desire. We want more. We want control. We want what we want, and we take it without asking.
+This is the pattern that repeats across all of human history: God provides what we need, sets a boundary, and we cross it — not out of necessity but out of desire. We want more. And more. And more. We want what we want, and we take it without asking.
 
 Notice what Eve *didn't* do. She didn't go to God and say, "Why this tree? Explain the rule. Help me understand." She didn't question the framework — she bypassed it. There is a world of difference between testing a framework honestly and discarding it because it's inconvenient. Honest inquiry is how faith matures. Taking what you want and rationalizing it afterward is how sin works.
 
-That pattern — desire dressed up as wisdom, self-interest disguised as seeking knowledge — is the one that repeats. And every one of us lives inside it.
+That pattern — desire dressed up as wisdom, self-interest disguised as seeking knowledge — is the one that repeats. And every one of us has lived it.
 
 ## Why everyone sins
 
-Here is the uncomfortable truth: sin is not a disease you caught. It is not a defect in your hardware. It is a choice — and you keep making it.
+Here is the uncomfortable truth: sin is not a disease you caught. It is not a defect in your hardware.
 
-Free will is the whole point of the human experiment. God could have made beings incapable of selfishness, incapable of cruelty, incapable of greed. Instead, God made beings who can choose. And the data is in: given the choice between self and others, humans reliably choose self.
+God could have made beings incapable of selfishness, incapable of cruelty, incapable of greed. Instead, God made beings who can choose. Free will is the whole point of the human experiment. And the data is in: given the choice between self and others, humans reliably choose self.
 
 Not always. Not in every situation. But consistently enough that no honest person can look at their own life and claim otherwise.
 
 > The heart is deceitful above all things, and desperately sick; who can understand it?
 — [Jeremiah 17:9 ESV][4]
 
-This verse is not God calling you broken. It is God being honest about the tendency you already know is there. You rationalize. You justify. You reframe selfish choices as practical ones. You compare yourself to people who are worse and call yourself good by comparison. Everyone does this. The prophet Jeremiah is telling you to stop pretending otherwise.
+This verse is not God calling you broken. It is God being honest about the tendency both you and God already know is there. You rationalize. You justify. You reframe selfish choices as practical ones. You compare yourself to people who are worse and call yourself good by comparison. Everyone does this. The prophet Jeremiah is telling you to stop pretending otherwise.
 
 But here is the other side of that same coin: God did not create you to fail. The capacity to choose self is also the capacity to choose others. Every time you tell the truth when a lie would be easier, every time you give when keeping would be comfortable, every time you show up when walking away would cost you nothing — that is the same free will, pointed in the right direction. The tendency toward self is real. So is the ability to override it. That is what makes the test meaningful.
 
