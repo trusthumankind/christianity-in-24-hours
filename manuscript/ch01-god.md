@@ -44,20 +44,22 @@ Satan shows up among the sons of God. He doesn't sneak in. He doesn't rebel. He 
 
 This is not a war. It's a wager. Satan is the skeptic in the room, the one who looks at humanity and says, "They'll fail." God is the one who says, "Watch them." And the stakes are everything.
 
-All the evil things people blame on Satan? They're inseparable from God, because Satan operates with God's permission. The question was never whether God could stop evil. The question is why God _allows_ it — and the answer is our capacity for both good _and_ evil makes the test real.
+All the evil things people blame on Satan? They're inseparable from God, because Satan operates with God's permission. The question was never whether God could stop evil. The question is why God _allows_ it.
+
+And God allows it because our ability to _choose_ is what makes the test real.
 
 ## Do humans have free will?
 
-Yes. And this is the whole point.
+Yes. Free will is the whole point.
 
 God could have created beings who had no choice but to follow the program. Obedient automatons. Instead, God created beings with agency — the capacity to choose, to rebel, to destroy, and also to love, to build, and to sacrifice.
 
 > I call heaven and earth to witness against you today, that I have set before you life and death, blessing and curse. Therefore choose life, that you and your offspring may live.
 — [Deuteronomy 30:19 ESV][4]
 
-"Choose." That word only makes sense if the alternative is real. And if you've ever watched a parent let a child make a mistake they could have prevented, you understand why. Parents derive no joy from raising blindly subservient children. God is rooting for us to grow into beings who make good choices on our own — not because we're forced to, but because we've chosen to.
+"Choose." That word only makes sense if the alternative is real. And if you've ever watched a parent let a child make a mistake they could have prevented, you understand why. Parents derive no joy from raising blindly subservient children. God is rooting for us to grow into beings who make good choices on our own — not because we're forced to, but because we want to.
 
-Forced obedience would prove Satan right. It would make for a hollow victory. God intentionally leaves the rest of the story in our hands.
+Forced obedience would prove Satan right. So instead, God intentionally leaves the rest of the story in our hands.
 
 ## So what does God actually want?
 
@@ -68,7 +70,7 @@ Jesus answered this directly. No ambiguity, no fine print.
 
 Love God. Love other people. Everything else in the Bible hangs on those two commands. And notice: the mission — stewarding the earth, taking care of each other, proving we can do this — is really just a concrete expression of those two commandments lived out at scale.
 
-Simple to understand. Extraordinarily difficult to live. And that tension between understanding and living is what the next twenty-two hours are about.
+Simple to understand. Extraordinarily difficult to live. And that tension between understanding and living is what you'll explore in the coming chapters.
 
 ## Questions to sit with
 
