@@ -18,9 +18,13 @@ Strip away everything you've heard about salvation in church — the altar calls
 
 The standard Christian answer is: saved from hell. Saved from God's wrath. Saved from the eternal consequences of your sin.
 
-That framing turns God into a threat and Jesus into a shield. It makes the entire gospel a hostage negotiation: love me or burn. That is not the God described in Hour 1. A parent who creates children and then threatens them with eternal torture for failing to perform is not a loving parent. That is a tyrant.
+That framing turns God into a threat and Jesus into a shield. It makes the entire gospel a hostage negotiation: love me or burn. That is not the God described in Hour 1. A parent who creates children and then threatens them with eternal torment for failing to perform is not a loving parent. That is a tyrant.
 
 So what are you actually saved from?
+
+Immediately, you are saved from nothing, aside from some personal anxiety. But the eventual salvation at stake would save you from regret, guilt, and the weight of countless "why's" and "what-if's".
+
+## Earning salvation
 
 You are saved from the pattern. The pattern of choosing self. The cycle of rationalization, indifference, and slow spiritual decay that Hour 3 described. Left alone, the tendency toward self wins. It always wins. You rationalize one compromise, then another, until you can no longer see the gap between who you are and who you were meant to be.
 
