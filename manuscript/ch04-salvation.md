@@ -2,15 +2,15 @@
 
 Q: If everyone sins, is anyone saved?
 
-A: Yes. Salvation is not a reward for the perfect — it is the process of choosing the mission over yourself, again and again, with help.
+A: Yes, either _all_ of us are saved or _none_ of us.
 
 ## Commentary
 
 The last chapter was blunt: every human being chooses self over the mission. Repeatedly. Reliably. The tendency is real, the data is in, and no honest person can exempt themselves.
 
-So where does that leave us? If the test is real and everyone fails — is the test unfair?
+So where does that leave us? If the test is real and everyone fails — is salvation a disingenuous promise?
 
-No. The test was never pass/fail on the first attempt. Salvation is not a verdict handed down at the end of your life based on a perfect score. It is the ongoing work of reorientation — turning back toward the mission every time you drift. And you are not alone in doing it.
+No. The test was never pass/fail on the first attempt. And the test may not be over on your _personal_ last attempt. Salvation is the reward we stand to gain, through learning to reorient each other toward the mission every time someone drifts. And if you expire before the mission is complete, trust that someone else will pick up the baton and advance toward the finish line.
 
 ## What salvation means
 
