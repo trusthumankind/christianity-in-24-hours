@@ -98,15 +98,17 @@ Not belief — not intellectual agreement that God exists. Faith is the active, 
 > For by grace you have been saved through faith. And this is not your own doing; it is the gift of God.
 — [Ephesians 2:8 ESV][8]
 
-Grace opens the door. Faith is walking through it — not once, but every day. The next chapter unpacks what that looks like in practice.
+Grace opens the door. Faith is walking through it — not once, but every day. And notice Paul's words: "this is not your own doing." Faith sustained in isolation is not the design. The next chapter unpacks what that looks like in practice.
 
 ## Not alone
 
-One more thing. The closing of Hour 3 said you are not alone in fighting the tendency toward self. That is not a platitude.
+One more thing. The answer to this chapter's question says either all of us are saved or none of us. That is not rhetorical.
 
 Salvation is not a solo project. You are not meant to white-knuckle your way toward faithfulness in isolation. The mission was always designed to be carried together — Jesus called twelve people, not one. The early church shared everything. Paul's letters are addressed to communities, not individuals. Every time someone in the New Testament tries to carry the mission alone, they burn out, break down, or betray.
 
-You will need people who see you honestly and love you anyway. People who call you back when you drift. People who carry the weight with you on the days you can't carry it yourself. That is what the church was supposed to be — not a building, not an institution, but a group of people committed to carrying each other toward the mission.
+You will need people who see you honestly and love you anyway. People who call you back when you drift. People who carry the weight with you on the days you can't carry it yourself. That is what the church was supposed to be — not a building, not an institution, but a group of people committed to reorienting each other toward the mission.
+
+And if the mission is to carry humanity forward — all of it, not a saved remnant — then crossing the finish line alone is not victory. It is failure with good personal stats. The test described in Hour 1 is not whether *you* can get this right. It is whether *we* can.
 
 You will be saved by faith. But faith is not lived in isolation. The rest of Part I is about what that looks like.
 
