@@ -95,10 +95,10 @@ Faith.
 
 Not belief — not intellectual agreement that God exists. Faith is the active, daily choice to keep walking toward the mission even when the evidence seems against it, even when it costs you, even when you've failed seventeen times already and the eighteenth attempt feels pointless.
 
-> For by grace you have been saved through faith. And this is not your own doing; it is the gift of God.
-— [Ephesians 2:8 ESV][8]
+> For by grace you have been saved through faith. And this is not your own doing; it is the gift of God, not a result of works, so that no one may boast. For we are his workmanship, created in Christ Jesus for good works, which God prepared beforehand, that we should walk in them.
+— [Ephesians 2:8-10 ESV][8]
 
-Grace opens the door. Faith is walking through it — not once, but every day. And notice Paul's words: "this is not your own doing." Faith sustained in isolation is not the design. The next chapter unpacks what that looks like in practice.
+Grace opens the door. Faith is walking through it — not once, but every day. And notice Paul's words: "this is not your own doing" — and "we are his workmanship." You were made for this. The mission is not an obligation imposed from outside. It is the reason you exist. The next chapter unpacks what that looks like in practice.
 
 ## Not alone
 
