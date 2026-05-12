@@ -22,7 +22,7 @@ Everything has been building to this hour. Not to a conclusion — to a decision
 
 ## What growing up looks like
 
-The maturation metaphor has run through the entire book. The Law was childhood rules. The prophets were the voice saying "you're ready to grow." Jesus was the proof that grown-up faithfulness is possible. The mission is what you do when you've internalized the principles and don't need someone listing the rules.
+The maturation metaphor has run through every hour. The Law was childhood rules. The prophets were the voice saying "you're ready to grow." Jesus was the proof that grown-up faithfulness is possible. The mission is what you do when you've internalized the principles and don't need someone listing the rules.
 
 So what does spiritual maturity actually look like? Not what the church usually measures — attendance, tithing records, committee participation, years of membership. Those are metrics for an institution. Spiritual maturity is measured differently.
 
@@ -82,7 +82,7 @@ Not abstractions. Measurable conditions. Here is what "love your neighbor" looks
 
 **Education without gatekeepers.** No pay-to-win private schools that guarantee advantage to the wealthy. No overpriced school districts that sort children by their parents' income before they are old enough to read. Knowledge is not a commodity. The victory condition is a world where the quality of your education has nothing to do with the wealth of your family — where every child has equal access to grow into their full capacity.
 
-These are not utopian fantasies. They are the logical conclusions of "love your neighbor as yourself." Every one of them is measurable. Every one of them is achievable — not today, not this generation, perhaps not for many generations. But each act of love, each stand for justice, each sacrifice that chooses others over self moves humanity closer.
+These are not utopian fantasies. They are the logical conclusions of "love your neighbor as yourself." Every one of them is measurable. Every one of them is achievable — not today, not this generation, not for many generations. But each act of love, each stand for justice, each sacrifice that chooses others over self moves humanity closer.
 
 And the promise is that the endpoint is real — that one day the mission is complete, the celebration happens, and every person who carried it across every generation is present for it.
 
@@ -120,6 +120,8 @@ Choose life. Today. And tomorrow. And the day after that.
 * The mission asks whether humanity can get this right. Your part of the answer is your life. What is your life saying?
 
 [1]: https://www.esv.org/Deuteronomy+30/
+[2]: https://www.esv.org/Revelation+21/
+[3]: https://www.esv.org/Matthew+25/
 
 ---
 

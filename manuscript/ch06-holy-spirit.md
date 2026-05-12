@@ -19,7 +19,7 @@ In the Old Testament, the Spirit appears selectively. It fills specific people f
 > Now the Spirit of the LORD departed from Saul, and a harmful spirit from the LORD tormented him.
 — [1 Samuel 16:14 ESV][4]
 
-The Spirit was God's tool — deployed with precision, withdrawn at will. It was not a standing resource available to everyone. It was power given to specific people for specific jobs within God's unfolding plan.
+The Spirit was God's tool — deployed with precision, withdrawn at will. It was not a standing resource available to everyone. It was power given to specific people for specific jobs within the unfolding story.
 
 ## Pentecost: the Spirit and the early church
 
