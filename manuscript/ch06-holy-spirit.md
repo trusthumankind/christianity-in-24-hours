@@ -12,9 +12,14 @@ This chapter is going to challenge that idea. Not because the Holy Spirit isn't 
 
 ## What the Holy Spirit is
 
-The Holy Spirit is the third person of the Trinity — Father, Son, and Spirit. Christian theology holds that God exists as three persons in one being, and while that concept is genuinely difficult to wrap your head around, the key point for this chapter is simpler: the Spirit is God's active power at work in the world.
+The Holy Spirit is the third person of the Trinity — Father, Son, and Spirit. Christian theology holds that God exists as three persons in one being. Instead of debating the abstract biology of God, the key point for this chapter is simpler: the Spirit is God's active power at work in the world.
 
-In the Old Testament, the Spirit appears selectively. It fills specific people for specific tasks — Bezalel to build the tabernacle ([Exodus 31:3][1]), Samson to fight the Philistines ([Judges 14:6][2]), David to rule Israel ([1 Samuel 16:13][3]). The Spirit is not a permanent presence in anyone's life. It comes, it equips, and in some cases it leaves.
+In the Old Testament, the Spirit appears selectively. It fills specific people for specific tasks:
+- Bezalel to build the tabernacle ([Exodus 31:3][1])
+- Samson to fight the Philistines ([Judges 14:6][2])
+- David to rule Israel ([1 Samuel 16:13][3])
+
+The Spirit is not a permanent presence in anyone's life. It comes, it equips, and in some cases it leaves.
 
 > Now the Spirit of the LORD departed from Saul, and a harmful spirit from the LORD tormented him.
 — [1 Samuel 16:14 ESV][4]
@@ -38,7 +43,7 @@ Help came at Pentecost.
 > And they were all filled with the Holy Spirit and began to speak in other tongues as the Spirit gave them utterance.
 — [Acts 2:4 ESV][7]
 
-The Spirit equipped the early church with abilities they did not have on their own: speaking in languages they'd never learned, healing, prophecy, discernment, boldness in the face of execution. Paul catalogues these gifts in his letter to the Corinthians — healing, miracles, prophecy, distinguishing spirits, tongues, interpretation of tongues ([1 Corinthians 12:7-11][8]).
+The Spirit equipped the early church with abilities they did not have on their own: speaking in languages they'd never learned, healing, prophecy, discernment, boldness in the face of execution. Paul catalogues these gifts in his letter to the Corinthians ([1 Corinthians 12:7-11][8]).
 
 These were real. They were also purposeful. The early church had a specific problem: they needed to build a global movement from scratch, with no resources, against the full weight of the Roman Empire. The Spirit gave them what they needed to survive long enough to succeed.
 
@@ -62,7 +67,7 @@ We have the complete Bible — sixty-six books recording everything God wanted h
 
 The early apostles had none of this. They needed the Spirit because they were building the plane while flying it. We have the plane. It's built. The instructions are in the seat-back pocket.
 
-This doesn't mean God abandoned us. It means God gave us everything we need and trusts us to use it. God is the creator, not the puppeteer. The mission is ours to execute. God provided the tools — Scripture, the example of Jesus, the capacity to reason, and each other — and stepped back.
+This doesn't mean God abandoned us. It means God gave us everything we need and trusts us to use it. God is the creator, not the puppeteer. The mission is fully ours to execute, now that God has provided the tools.
 
 That is not abandonment. That is the test.
 
@@ -81,7 +86,7 @@ The Bible itself warns against this:
 > Beloved, do not believe every spirit, but test the spirits to see whether they are from God, for many false prophets have gone out into the world.
 — [1 John 4:1 ESV][9]
 
-Test the spirits. Use your mind. Measure claims against Scripture. Do not surrender your judgment to anyone who claims a private line to God — including yourself.
+Test the spirits. Use your mind. Measure claims against Scripture. Do not surrender your judgment to anyone who claims a private line to God.
 
 ## What the Spirit left behind
 
@@ -96,13 +101,15 @@ Notice: these are not supernatural powers. They are not miracles, tongues, or pr
 
 The Spirit modeled what a faithful life looks like. It cultivated these qualities in the first generation of believers so the rest of us could see the target. You don't need supernatural intervention to practice patience. You don't need a divine hotline to choose kindness. You need the example — and you have it, written down, tested across two millennia of human experience.
 
-The Spirit's legacy is not an ongoing whisper in your ear. It is the standard it set and the Scripture it helped produce. Your job is to read it, understand it, and live it. Not because you're being guided, but because you're choosing to.
+The Spirit's legacy is not an ongoing whisper in your ear. That legacy is the standard set before us and the Bible that took form. Your job is to read it, understand it, and live it. Not because you're being guided, but because you're choosing to.
 
 ## The Holy Spirit and the mission
 
 Hour 1 established the mission: humanity proving we can overcome our fears and vices to sustainably manage the earth. Satan's bet is that we'll fail. God is watching.
 
-If God is actively directing individuals through the Spirit, the test is rigged. You cannot simultaneously claim that humans have free will and that God is whispering instructions in their ears. Either the choices are ours or they aren't. They are — fully, completely, and without a safety net.
+If God is actively directing individuals through the Spirit, the test is rigged. You cannot simultaneously claim that humans have free will and that God is whispering instructions in their ears. Either the choices are ours or they aren't.
+
+They are — the choices are _ours_, fully, completely, and without a safety net.
 
 That is harder than being led. It is also more honest. And it is the only framework in which faith means anything. If you're being guided, you don't need faith — you have GPS. Faith is what you need when you're navigating without a signal, using the map you were given, trusting that the destination is real even though you can't see it yet.
 
