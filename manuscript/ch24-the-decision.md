@@ -82,7 +82,7 @@ Not abstractions. Measurable conditions. Here is what "love your neighbor" looks
 
 **Education without gatekeepers.** No pay-to-win private schools that guarantee advantage to the wealthy. No overpriced school districts that sort children by their parents' income before they are old enough to read. Knowledge is not a commodity. The victory condition is a world where the quality of your education has nothing to do with the wealth of your family — where every child has equal access to grow into their full capacity.
 
-These are not utopian fantasies. They are the logical conclusions of "love your neighbor as yourself." Every one of them is measurable. Every one of them is achievable — not today, not this generation, not for many generations. But each act of love, each stand for justice, each sacrifice that chooses others over self moves humanity closer.
+These are not utopian fantasies. They are the logical conclusions of "love your neighbor as yourself." Every one of them is measurable. Every one of them is achievable — not today, not this generation, perhaps not for many generations. But each act of love, each stand for justice, each sacrifice that chooses others over self moves humanity closer.
 
 And the promise is that the endpoint is real — that one day the mission is complete, the celebration happens, and every person who carried it across every generation is present for it.
 
