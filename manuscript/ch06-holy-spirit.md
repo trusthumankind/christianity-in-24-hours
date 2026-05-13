@@ -67,7 +67,7 @@ We have the complete Bible — sixty-six books recording everything God wanted h
 
 The early apostles had none of this. They needed the Spirit because they were building the plane while flying it. We have the plane. It's built. The instructions are in the seat-back pocket.
 
-This doesn't mean God abandoned us. It means God gave us everything we need and trusts us to use it. God is the creator, not the puppeteer. The mission is ours to execute. God provided the tools — Scripture, the example of Jesus, the capacity to reason, and each other — and stepped back.
+This doesn't mean God abandoned us. It means God gave us everything we need and trusts us to use it. God is the creator, not the puppeteer. The mission is fully ours to execute, now that God has provided the tools.
 
 That is not abandonment. That is the test.
 
