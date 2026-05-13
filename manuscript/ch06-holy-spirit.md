@@ -101,7 +101,7 @@ Notice: these are not supernatural powers. They are not miracles, tongues, or pr
 
 The Spirit modeled what a faithful life looks like. It cultivated these qualities in the first generation of believers so the rest of us could see the target. You don't need supernatural intervention to practice patience. You don't need a divine hotline to choose kindness. You need the example — and you have it, written down, tested across two millennia of human experience.
 
-The Spirit's legacy is not an ongoing whisper in your ear. It is the standard it set and the Scripture it helped produce. Your job is to read it, understand it, and live it. Not because you're being guided, but because you're choosing to.
+The Spirit's legacy is not an ongoing whisper in your ear. That legacy is the standard set before us and the Bible that took form. Your job is to read it, understand it, and live it. Not because you're being guided, but because you're choosing to.
 
 ## The Holy Spirit and the mission
 
