@@ -48,7 +48,7 @@ God parts the sea. Israel walks through on dry ground. The Egyptian army follows
 
 Here is the question this demands: if God could do *that*, why doesn't He intervene like that today?
 
-The answer is core tenet #2. God's direct interventions had a defined arc — a progression building toward Jesus. The Exodus was part of that arc. God was building a people, establishing a covenant nation, and setting the stage for everything that would follow. These interventions were not random acts of power. They were steps in a trajectory that had a beginning, a middle, and an end. The end came with Christ. After that, humanity has what it needs. The test is ours to pass or fail without the sea parting for us.
+The answer is the same one from the flood in Hour 7. God's direct interventions had a defined arc — a progression building toward Jesus. The Exodus was part of that arc. God was building a people, establishing a covenant nation, and setting the stage for everything that would follow. These interventions were not random acts of power. They were steps in a trajectory that had a beginning, a middle, and an end. The end came with Christ. After that, humanity has what it needs. The test is ours to pass or fail without the sea parting for us.
 
 That might not satisfy you. It shouldn't be easy. The distance between a God who parts oceans and a God who watches in silence is the central tension of the entire Bible. We will come back to it.
 
