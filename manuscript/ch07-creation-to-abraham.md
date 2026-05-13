@@ -64,7 +64,7 @@ God's response was the flood. Every living thing destroyed except Noah, his fami
 
 Here is where it gets uncomfortable: how does a flood that kills almost everyone square with a God who values free will and human agency?
 
-The answer is that the Old Testament records a period when God was actively intervening. Core tenet #2 says God's direct interventions had a defined arc. The flood is part of that arc — a point early in the story when the experiment had gone so wrong that continuing without intervention would have meant the permanent triumph of the prosecution's case. God didn't destroy the world out of spite. God preserved the one family that hadn't abandoned the mission entirely, and started again.
+The answer is that the Old Testament records a period when God was actively intervening. God's direct interventions had a defined arc — a progression building toward Jesus. The flood is part of that arc — a point early in the story when the experiment had gone so wrong that continuing without intervention would have meant the permanent triumph of the prosecution's case. God didn't destroy the world out of spite. God preserved the one family that hadn't abandoned the mission entirely, and started again.
 
 But notice what happens next. After the flood, after the rainbow, after the covenant, Noah plants a vineyard. He makes wine. He gets drunk and passes out naked in his tent ([Genesis 9:20-21][5]). The first thing humanity does after a global reset is sin again.
 
