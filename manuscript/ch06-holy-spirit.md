@@ -43,7 +43,7 @@ Help came at Pentecost.
 > And they were all filled with the Holy Spirit and began to speak in other tongues as the Spirit gave them utterance.
 — [Acts 2:4 ESV][7]
 
-The Spirit equipped the early church with abilities they did not have on their own: speaking in languages they'd never learned, healing, prophecy, discernment, boldness in the face of execution. Paul catalogues these gifts in his letter to the Corinthians — healing, miracles, prophecy, distinguishing spirits, tongues, interpretation of tongues ([1 Corinthians 12:7-11][8]).
+The Spirit equipped the early church with abilities they did not have on their own: speaking in languages they'd never learned, healing, prophecy, discernment, boldness in the face of execution. Paul catalogues these gifts in his letter to the Corinthians ([1 Corinthians 12:7-11][8]).
 
 These were real. They were also purposeful. The early church had a specific problem: they needed to build a global movement from scratch, with no resources, against the full weight of the Roman Empire. The Spirit gave them what they needed to survive long enough to succeed.
 
