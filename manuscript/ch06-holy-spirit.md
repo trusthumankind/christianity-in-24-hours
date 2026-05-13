@@ -107,7 +107,9 @@ The Spirit's legacy is not an ongoing whisper in your ear. That legacy is the st
 
 Hour 1 established the mission: humanity proving we can overcome our fears and vices to sustainably manage the earth. Satan's bet is that we'll fail. God is watching.
 
-If God is actively directing individuals through the Spirit, the test is rigged. You cannot simultaneously claim that humans have free will and that God is whispering instructions in their ears. Either the choices are ours or they aren't. They are — fully, completely, and without a safety net.
+If God is actively directing individuals through the Spirit, the test is rigged. You cannot simultaneously claim that humans have free will and that God is whispering instructions in their ears. Either the choices are ours or they aren't.
+
+They are — the choices are _ours_, fully, completely, and without a safety net.
 
 That is harder than being led. It is also more honest. And it is the only framework in which faith means anything. If you're being guided, you don't need faith — you have GPS. Faith is what you need when you're navigating without a signal, using the map you were given, trusting that the destination is real even though you can't see it yet.
 
