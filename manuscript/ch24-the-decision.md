@@ -22,7 +22,7 @@ Everything has been building to this hour. Not to a conclusion — to a decision
 
 ## What growing up looks like
 
-The maturation metaphor has run through the entire book. The Law was childhood rules. The prophets were the voice saying "you're ready to grow." Jesus was the proof that grown-up faithfulness is possible. The mission is what you do when you've internalized the principles and don't need someone listing the rules.
+The maturation metaphor has run through every hour. The Law was childhood rules. The prophets were the voice saying "you're ready to grow." Jesus was the proof that grown-up faithfulness is possible. The mission is what you do when you've internalized the principles and don't need someone listing the rules.
 
 So what does spiritual maturity actually look like? Not what the church usually measures — attendance, tithing records, committee participation, years of membership. Those are metrics for an institution. Spiritual maturity is measured differently.
 
@@ -120,6 +120,8 @@ Choose life. Today. And tomorrow. And the day after that.
 * The mission asks whether humanity can get this right. Your part of the answer is your life. What is your life saying?
 
 [1]: https://www.esv.org/Deuteronomy+30/
+[2]: https://www.esv.org/Revelation+21/
+[3]: https://www.esv.org/Matthew+25/
 
 ---
 

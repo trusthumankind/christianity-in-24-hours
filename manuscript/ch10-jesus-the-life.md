@@ -71,7 +71,7 @@ These parables are not illustrations. They are the mission statement. Love the p
 Jesus reserved his sharpest criticism not for sinners but for the religious establishment.
 
 > Woe to you, scribes and Pharisees, hypocrites! For you tithe mint and dill and cumin, and have neglected the weightier matters of the law: justice and mercy and faithfulness.
-— [Matthew 23:23 ESV][13]
+— [Matthew 23:23 ESV][11]
 
 The Pharisees tithed their spice racks. They counted out one-tenth of their herbs to comply with the Law's requirement. And while they were measuring cumin, they ignored the people who needed justice, mercy, and faithfulness. They had perfected the performance of religion and abandoned its purpose.
 
@@ -86,9 +86,9 @@ Equally important is what Jesus did not do.
 He did not establish an earthly kingdom. Israel expected a messiah who would overthrow Rome, restore the monarchy, and reign from David's throne. Jesus refused that role so consistently that people who followed him for the miracles and the food eventually left because he wouldn't be the political leader they wanted.
 
 > Jesus answered, "My kingdom is not of this world. If my kingdom were of this world, my servants would have been fighting, that I might not be handed over to the Jews. But my kingdom is not from the world."
-— [John 18:36 ESV][14]
+— [John 18:36 ESV][12]
 
-He did not use his gifts to protect himself. He healed others but accepted his own suffering. When arrested, he told his disciples he could have asked God for twelve legions of angels ([Matthew 26:53][15]) — but chose the cross instead.
+He did not use his gifts to protect himself. He healed others but accepted his own suffering. When arrested, he told his disciples he could have asked God for twelve legions of angels ([Matthew 26:53][13]) — but chose the cross instead.
 
 He did not condemn the people the religious leaders condemned. He went to the tax collectors, the prostitutes, the unclean, the marginalized — the people religion had failed — and he ate with them, talked with them, healed them, and told them they mattered.
 
@@ -101,7 +101,7 @@ The Law showed what faithfulness looks like on paper. Jesus showed what it looks
 John's gospel captured this with a single line:
 
 > And the Word became flesh and dwelt among us, and we have seen his glory, glory as of the only Son from the Father, full of grace and truth.
-— [John 1:14 ESV][16]
+— [John 1:14 ESV][14]
 
 Mainstream theology reads this as divine incarnation — God becoming human. But there is another way to hear it. The Word — God's message, the covenant, the mission that had been carved on stone, spoken through prophets, argued over by scholars — became flesh. It was lived. For the first time, someone didn't just teach the word or preach it or legislate it. Someone embodied it. The word on the tablet became a life.
 
@@ -127,11 +127,10 @@ That cost is the next chapter.
 [8]: https://www.esv.org/Matthew+19/
 [9]: https://www.esv.org/Luke+10/
 [10]: https://www.esv.org/Luke+15/
-[11]: https://www.esv.org/Matthew+25/
-[13]: https://www.esv.org/Matthew+23/
-[14]: https://www.esv.org/John+18/
-[15]: https://www.esv.org/Matthew+26:53/
-[16]: https://www.esv.org/John+1:14/
+[11]: https://www.esv.org/Matthew+23/
+[12]: https://www.esv.org/John+18/
+[13]: https://www.esv.org/Matthew+26:53/
+[14]: https://www.esv.org/John+1:14/
 
 ---
 

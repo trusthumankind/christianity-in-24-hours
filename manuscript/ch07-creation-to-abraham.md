@@ -122,7 +122,7 @@ The story reaches its sharpest point in Genesis 22.
 
 God asks Abraham to sacrifice the son he waited decades for. The son through whom the entire covenant was supposed to continue. The son who represents everything God promised.
 
-Abraham obeys. He binds Isaac, lays him on the altar, raises the knife. And God stops him.
+Abraham goes through with it. He binds Isaac, lays him on the altar, raises the knife. And God stops him.
 
 > "Do not lay your hand on the boy or do anything to him, for now I know that you fear God, seeing you have not withheld your son, your only son, from me."
 — [Genesis 22:12 ESV][13]

@@ -23,7 +23,7 @@ Saul is the first king. He starts well and ends in paranoia, jealousy, and disob
 
 The Bible does not flinch from this. The greatest king in Israel's history — the one from whose line Jesus would come — committed acts that should disqualify him from any position of moral authority. And the prophet Nathan walked into the palace and made David condemn himself.
 
-Nathan didn't accuse David directly. He told him a story: a rich man with enormous flocks stole the one beloved lamb of a poor man — the only thing the poor man had, a lamb he'd raised like a daughter. David was furious. "The man who has done this deserves to die!" ([2 Samuel 12:5][4a]). Then Nathan delivered the line that echoes through every chapter of prophetic literature:
+Nathan didn't accuse David directly. He told him a story: a rich man with enormous flocks stole the one beloved lamb of a poor man — the only thing the poor man had, a lamb he'd raised like a daughter. David was furious. "The man who has done this deserves to die!" ([2 Samuel 12:5][4]). Then Nathan delivered the line that echoes through every chapter of prophetic literature:
 
 > Nathan said to David, "You are the man!"
 — [2 Samuel 12:7 ESV][4]
@@ -124,8 +124,7 @@ The Old Testament ends in waiting. The prophets have spoken. The silence has beg
 [1]: https://www.esv.org/1+Samuel+8/
 [2]: https://www.esv.org/1+Samuel+13:14/
 [3]: https://www.esv.org/2+Samuel+11/
-[4]: https://www.esv.org/2+Samuel+12:7/
-[4a]: https://www.esv.org/2+Samuel+12:5/
+[4]: https://www.esv.org/2+Samuel+12/
 [5]: https://www.esv.org/1+Kings+11/
 [6]: https://www.esv.org/Amos+5/
 [7]: https://www.esv.org/Hosea+3/
