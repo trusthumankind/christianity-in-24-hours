@@ -86,7 +86,7 @@ The Bible itself warns against this:
 > Beloved, do not believe every spirit, but test the spirits to see whether they are from God, for many false prophets have gone out into the world.
 — [1 John 4:1 ESV][9]
 
-Test the spirits. Use your mind. Measure claims against Scripture. Do not surrender your judgment to anyone who claims a private line to God — including yourself.
+Test the spirits. Use your mind. Measure claims against Scripture. Do not surrender your judgment to anyone who claims a private line to God.
 
 ## What the Spirit left behind
 
