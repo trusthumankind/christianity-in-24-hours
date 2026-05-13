@@ -14,7 +14,12 @@ This chapter is going to challenge that idea. Not because the Holy Spirit isn't 
 
 The Holy Spirit is the third person of the Trinity — Father, Son, and Spirit. Christian theology holds that God exists as three persons in one being. Instead of debating the abstract biology of God, the key point for this chapter is simpler: the Spirit is God's active power at work in the world.
 
-In the Old Testament, the Spirit appears selectively. It fills specific people for specific tasks — Bezalel to build the tabernacle ([Exodus 31:3][1]), Samson to fight the Philistines ([Judges 14:6][2]), David to rule Israel ([1 Samuel 16:13][3]). The Spirit is not a permanent presence in anyone's life. It comes, it equips, and in some cases it leaves.
+In the Old Testament, the Spirit appears selectively. It fills specific people for specific tasks:
+- Bezalel to build the tabernacle ([Exodus 31:3][1])
+- Samson to fight the Philistines ([Judges 14:6][2])
+- David to rule Israel ([1 Samuel 16:13][3])
+
+The Spirit is not a permanent presence in anyone's life. It comes, it equips, and in some cases it leaves.
 
 > Now the Spirit of the LORD departed from Saul, and a harmful spirit from the LORD tormented him.
 — [1 Samuel 16:14 ESV][4]
