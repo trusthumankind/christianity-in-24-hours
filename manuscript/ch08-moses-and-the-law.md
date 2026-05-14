@@ -76,7 +76,7 @@ Paul understood this:
 > Is the law then contrary to the promises of God? Certainly not! For if a law had been given that could give life, then righteousness would indeed be by the law. But the Scripture imprisoned everything under sin, so that the promise by faith in Jesus Christ might be given to those who believe.
 — [Galatians 3:21-22 ESV][10]
 
-The Law was never meant to save anyone. It was meant to show you why you need saving. It holds up a mirror and says: here is the standard, and here is how far you fall short. That gap — between what the Law demands and what you can deliver — is exactly where grace enters the story. But grace is a few chapters away. Humanity wasn't ready for it yet. You don't hand a child the keys and say "figure it out." You give them rules, let them fail, and wait until they're mature enough to understand why the rules mattered in the first place.
+The Law was never meant to save anyone. It was meant to reveal how much growing up humanity still had to do. It holds up a mirror: here is what faithfulness looks like, and here is where humanity actually stands. The distance between the two is not a courtroom verdict — it is a developmental reality. Closing it will require something the Law cannot provide. That something is grace, but grace is still a few chapters away. Humanity wasn't ready for it yet. You don't hand a child the keys and say "figure it out." You give them rules, let them fail, and wait until they're mature enough to understand why the rules mattered in the first place.
 
 ## The golden calf
 
