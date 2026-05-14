@@ -10,7 +10,7 @@ Prayer is the most misunderstood practice in Christianity. Not because it's comp
 
 The assumption: God is listening and might intervene.
 
-But here is the reality: God gave humanity everything we need — the example of Jesus, the record of Scripture, the capacity to reason — and stepped back. He is not adjusting outcomes. He is not granting requests. He is not running a cosmic customer service line with hold music and a callback option.
+But here is the reality: God gave humanity everything we need — the example of Jesus, the record of Scripture, the capacity to reason — and stepped back. Not adjusting outcomes. Not granting requests. Not running a cosmic customer service line with hold music and a callback option.
 
 So what is prayer?
 
@@ -67,7 +67,7 @@ Jesus asked to be spared. He didn't want to die. He wasn't stoic about it — Ma
 
 God didn't answer. The cup did not pass. Jesus went to the cross.
 
-This is the central prayer of Christianity, and it was not granted. If you build your understanding of prayer on the idea that God hears and responds to requests, you have to explain why he didn't respond to this one. Why would God ignore the prayer of the person who carried the mission most faithfully?
+This is the central prayer of Christianity, and it was not granted. If you build your understanding of prayer on the idea that God hears and responds to requests, you have to explain why God didn't respond to this one. Why would God ignore the prayer of the person who carried the mission most faithfully?
 
 The answer: God wasn't ignoring the prayer. The prayer was never about changing the outcome. The prayer was about Jesus being honest about what he faced, naming his fear, and then choosing the mission anyway.
 
@@ -121,7 +121,7 @@ Then get up. And do the thing that prayer prepared you to do.
 ## Questions to sit with
 
 * When was the last time you prayed and were genuinely honest — not performing, not reciting, but telling the truth about where you are?
-* Jesus prayed to be spared and wasn't. Has your understanding of prayer been built on the expectation that God will give you what you ask for? What happens to your faith if he doesn't?
+* Jesus prayed to be spared and wasn't. Has your understanding of prayer been built on the expectation that God will give you what you ask for? What happens to your faith when the answer is no?
 * What would change in your daily life if you spent two minutes each morning in honest self-examination instead of scrolling your phone?
 
 [1]: https://www.esv.org/Matthew+6/
