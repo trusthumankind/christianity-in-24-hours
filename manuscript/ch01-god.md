@@ -19,7 +19,7 @@ At one point, God _regretted_ creating us. That's not the language of a detached
 
 ## Why did God create us?
 
-Not as pets. Not for entertainment. And not because God needed someone to worship Him.
+Not as pets. Not for entertainment. And not because God needed worshippers.
 
 God created humanity with a mission, a test. Think of it this way: God has a vision for what we could be — a species that overcomes its fears and vices to sustainably manage the world we're given. Can _we_ become that species?
 - If Earth becomes uninhabitable, game over.
@@ -74,7 +74,7 @@ Simple to understand. Extraordinarily difficult to live. And that tension betwee
 
 ## Questions to sit with
 
-* If God experiences emotions like we do, what does that change about how you relate to Him?
+* If God experiences emotions like we do, what does that change about how you relate to God?
 * Do you believe humanity's problems are solvable, or have you already decided we're doomed? What does your answer say about your faith?
 * When you hear "love your neighbor as yourself," who is the neighbor you find hardest to love?
 

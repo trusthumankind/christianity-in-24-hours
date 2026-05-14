@@ -107,7 +107,7 @@ God's promise to Abraham is the foundation of everything that follows in the Old
 > And I will establish my covenant between me and you and your offspring after you throughout their generations for an everlasting covenant, to be God to you and to your offspring after you.
 — [Genesis 17:7 ESV][8]
 
-This is not a transaction. It's a covenant — a binding commitment from God to Abraham and his descendants. Through this one family, God would build a people. Through that people, God would reveal His character, establish His law, and eventually send Jesus. Every chapter from here to the Gospels flows through this promise.
+This is not a transaction. It's a covenant — a binding commitment from God to Abraham and his descendants. Through this one family, God would build a people. Through that people, God would reveal God's character, establish the Law, and eventually send Jesus. Every chapter from here to the Gospels flows through this promise.
 
 But Abraham wasn't perfect. He lied about his wife being his sister — twice ([Genesis 12:13][9], [Genesis 20:2][10]). He slept with Hagar because he and Sarah doubted God's promise of a son ([Genesis 16][11]). He was a man who said yes to God and then stumbled, repeatedly, like every person who has ever tried to live faithfully.
 

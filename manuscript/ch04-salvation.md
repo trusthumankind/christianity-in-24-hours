@@ -41,7 +41,7 @@ Hour 3 established that every person falls short. The standard is love God, love
 
 Jesus bridges that gap. But not the way most churches explain it.
 
-The traditional framing says Jesus took the punishment for your sins — that God's justice demanded blood, and Jesus paid the price so you wouldn't have to. This is substitutionary atonement, and it has dominated Western Christianity for centuries. But it makes God a creditor and the cross a transaction. A God who requires the torture and death of his own prophet to satisfy his own rules is not a God of love. That is a God of accounting.
+The traditional framing says Jesus took the punishment for your sins — that God's justice demanded blood, and Jesus paid the price so you wouldn't have to. This is substitutionary atonement, and it has dominated Western Christianity for centuries. But it makes God a creditor and the cross a transaction. A God who demands a chosen prophet's torture and death to satisfy self-imposed rules is not a God of love. That is a God of accounting.
 
 Here is what Jesus actually did: he lived the mission without faltering. That's it. That's everything.
 
