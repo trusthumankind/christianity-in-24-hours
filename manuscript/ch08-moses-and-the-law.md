@@ -1,6 +1,6 @@
 # Hour 8: Moses and the Law
 
-Q: Why did God give rules He knew people would break?
+Q: Why did God give rules that people would inevitably break?
 
 A: Because early humanity didn't know how to conduct themselves. Rules are how you teach children — and humanity was a child. You internalize the rules, you grow up, and eventually you don't need someone handing them to you anymore. Humanity is in adulthood now.
 
@@ -46,7 +46,7 @@ Pharaoh relents. Israel leaves Egypt. And then Pharaoh changes his mind and send
 
 God parts the sea. Israel walks through on dry ground. The Egyptian army follows and is destroyed. It is the definitive act of rescue in the Old Testament.
 
-Here is the question this demands: if God could do *that*, why doesn't He intervene like that today?
+Here is the question this demands: if God could do *that*, why doesn't God intervene like that today?
 
 The answer is the same one from the flood in Hour 7. God's direct interventions had a defined arc — a progression building toward Jesus. The Exodus was part of that arc. God was building a people, establishing a covenant nation, and setting the stage for everything that would follow. These interventions were not random acts of power. They were steps in a trajectory that had a beginning, a middle, and an end. The end came with Christ. After that, humanity has what it needs. The test is ours to pass or fail without the sea parting for us.
 
@@ -91,7 +91,7 @@ Six weeks after the Red Sea parted. Six weeks after the most spectacular rescue 
 
 If you've been reading since Hour 7, this should feel familiar. It's the same pattern. God provides. Humanity rebels. Not eventually. Not after careful deliberation. Immediately. Noah got drunk after the flood. The Israelites built a calf after the Exodus. The proximity of the miracle to the failure is the point. No amount of evidence — no parted seas, no pillars of fire, no manna from the sky — is enough to override the human capacity to choose self over mission.
 
-Moses comes down from the mountain, sees the calf, and shatters the stone tablets. Three thousand people die in the aftermath. God nearly abandons the entire project. Moses talks Him out of it.
+Moses comes down from the mountain, sees the calf, and shatters the stone tablets. Three thousand people die in the aftermath. God nearly abandons the entire project. Moses talks God out of it.
 
 Then God gives the Law again. On new tablets. Because the mission continues, even when the people fail it.
 
@@ -108,7 +108,7 @@ God's response: this generation will not enter the Promised Land. They will wand
 
 The wilderness is not punishment for the sake of punishment. It is the consequence of the choice. You chose fear over faith. You chose slavery over mission. That choice has a cost, and the cost is that you don't get to see it through. Your children will.
 
-Forty years of wandering. Forty years of manna, water from rocks, complaints, rebellion, and God's relentless patience. The wilderness is the proving ground — not where Israel proves itself worthy, but where God proves He won't quit.
+Forty years of wandering. Forty years of manna, water from rocks, complaints, rebellion, and God's relentless patience. The wilderness is the proving ground — not where Israel proves itself worthy, but where God refuses to quit.
 
 ## Moses at the boundary
 
