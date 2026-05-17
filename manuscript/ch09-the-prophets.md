@@ -102,7 +102,7 @@ That's the next chapter.
 
 ## What this means for the story
 
-The prophets reveal the heart of the Old Testament's failure — and the word "failure" is deliberate. Israel failed. The kingdom failed. The Law, as a mechanism for producing faithful people, failed. Not because the Law was wrong, but because external structure cannot transform internal character.
+The prophets reveal the heart of humanity's failure in the Old Testament — and the word "failure" is deliberate. Israel failed. The kingdom failed. The Law, as a mechanism for producing faithful people, failed. Not because the Law was wrong, but because external structure cannot transform internal character.
 
 The prophets knew this. That's why Jeremiah wrote about a new covenant:
 
