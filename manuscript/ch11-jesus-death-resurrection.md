@@ -12,7 +12,7 @@ This chapter is about what happened next. But before we get there, a framing tha
 
 Traditional Christianity teaches that Jesus died as a sacrifice — that God required a payment for humanity's sin, and Jesus was the payment. This is called substitutionary atonement, and it is the dominant framework in most churches. It says: you owed a debt you couldn't pay, Jesus paid it, and now you're free.
 
-There is a different path.
+There is a different take.
 
 Not because the sacrificial language isn't in the Bible — it is. But because within the framework built across the last ten hours, the cross means something more specific than a cosmic transaction. Jesus was a prophet with gifts no one else had, who carried the mission without faltering where every prophet before him had broken. His death wasn't a payment. It was the final proof that faithful mission-carrying is possible — even when the cost is everything.
 
