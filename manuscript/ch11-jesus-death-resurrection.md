@@ -98,7 +98,7 @@ Here is the question the cross forces: if Jesus could have avoided it and chose 
 
 It proves the mission is possible.
 
-Every chapter of Part II has been building a case for why humanity fails. The golden calf. The grumbling in the wilderness. The exile. David and Bathsheba. Four hundred years of prophets warning and being ignored. The evidence for the prosecution — that humanity will always choose self over mission — is overwhelming.
+Every chapter of Part II has been building a case for why humanity fails. The golden calf. The grumbling in the wilderness. The exile. David and Bathsheba. Four hundred years of prophets warning and being ignored. The evidence for Satan's pessimism — that humanity will always choose self over mission — is overwhelming.
 
 The cross is the evidence for the defense.
 
