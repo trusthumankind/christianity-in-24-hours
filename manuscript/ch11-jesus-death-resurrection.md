@@ -68,7 +68,7 @@ The trial was a farce. The religious leaders had already decided the outcome. Th
 > Pilate said to them, "Then what shall I do with Jesus who is called Christ?" They all said, "Let him be crucified!"
 — [Matthew 27:22 ESV][6]
 
-The person who had healed their sick, fed their hungry, and told them they mattered was rejected in favor of a man convicted of insurrection. This is the pattern from every chapter in Part II playing out one final time. God provides. Humanity rejects. The only difference is that this time, the rejection is of the person who embodied the mission itself.
+The person who had healed their sick, fed their hungry, and told them they mattered was rejected and condemned to death. This is the pattern from every chapter in Part II playing out one final time. God provides. Humanity rejects. The only difference is that this time, the rejection is of the person who embodied the mission itself.
 
 ## The cross
 
