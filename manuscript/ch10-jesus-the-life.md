@@ -77,7 +77,7 @@ The Pharisees tithed their spice racks. They counted out one-tenth of their herb
 
 This is the prophets' message delivered in person. Amos said God hated their feasts. Isaiah said their sacrifices were meaningless. Now Jesus is standing in front of the people who have inherited that tradition and saying: you're doing the same thing. You memorized the rules and missed the mission.
 
-The religious leaders responded the way institutional power always does when confronted by truth: they plotted to kill him.
+The religious leaders responded the way institutional power always does when confronted by truth: they plotted to kill Jesus.
 
 ## What he didn't do
 
