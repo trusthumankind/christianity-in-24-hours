@@ -90,7 +90,7 @@ The last:
 > "Father, into your hands I commit my spirit!"
 — [Luke 23:46 ESV][8]
 
-He died as he lived. Trusting God. Choosing the mission. Holding where everyone before him had broken.
+He died as he lived. Trusting God. Choosing the mission. Holding steadfast where everyone before him had broken.
 
 ## Why this matters
 
