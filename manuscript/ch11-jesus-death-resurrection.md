@@ -100,7 +100,7 @@ It proves the mission is possible.
 
 Every chapter of Part II has been building a case for why humanity fails. The golden calf. The grumbling in the wilderness. The exile. David and Bathsheba. Four hundred years of prophets warning and being ignored. The evidence for Satan's pessimism — that humanity will always choose self over mission — is overwhelming.
 
-The cross is the evidence for the defense.
+The cross is our reason for hope.
 
 One person, faced with the ultimate cost, chose the mission anyway. Not because he had to. Not because a cosmic ledger required balancing. Because the test from Hour 1 — can humanity overcome its fears and vices? — needed at least one person to answer yes, completely, with nothing held back.
 
