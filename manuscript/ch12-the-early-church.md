@@ -42,7 +42,7 @@ It was not perfect. Ananias and Sapphira sold property, kept some of the money, 
 
 Then the story takes its most unlikely turn.
 
-Saul of Tarsus was a Pharisee. A zealot. He hunted Christians. He stood and watched while Stephen — the first Christian martyr — was stoned to death ([Acts 7:58][6]). He went house to house, dragging believers to prison ([Acts 8:3][7]). If the early church had a most-wanted list, Saul was on it.
+Saul of Tarsus was a Pharisee. A zealot. He hunted Christians. He stood and watched while Stephen — the first Christian martyr — was stoned to death ([Acts 7:58][6]). He went house to house, dragging believers to prison ([Acts 8:3][7]). If there was a name the early church dreaded, it was Saul.
 
 On the road to Damascus, headed to arrest more Christians, something happened:
 
