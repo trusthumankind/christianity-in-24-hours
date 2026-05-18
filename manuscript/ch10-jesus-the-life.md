@@ -107,7 +107,7 @@ Mainstream theology reads this as divine incarnation — God becoming human. But
 
 Every hour converges here. The mission from Hour 1 — humanity proving it can get this right. The sin from Hour 3 — choosing self over others. The faith from Hour 5 — a direction, not a moment. The Law from Hour 8 — childhood rules that Jesus translated into adult character. The prophets from Hour 9 — truth-tellers who pointed beyond themselves to someone who hadn't arrived yet.
 
-He arrived. A prophet with gifts no one else had — and the conviction to use them without flinching. Three years of showing what it looks like to choose the mission every single day — to love the unlovable, to confront the powerful, to welcome the outcast, to forgive the unforgivable — knowing that it would cost him everything. Where every prophet before him eventually faltered, Jesus held.
+He arrived. A prophet with gifts no one else had — and the conviction to use them without flinching. Three years of showing what it looks like to choose the mission every single day — to love the stigmatized, to confront the powerful, to welcome the outcast, to forgive the unforgivable — knowing that it would cost him everything. Where every prophet before him eventually faltered, Jesus held.
 
 That cost is the next chapter.
 
