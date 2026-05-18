@@ -63,7 +63,7 @@ This is Hour 5's definition of faith, taken to its absolute limit. Choosing to a
 
 Judas betrayed him with a kiss. The disciples ran. Peter — the one who had sworn he would die before denying Jesus — denied him three times before dawn, exactly as Jesus had predicted.
 
-The trial was a farce. The religious leaders had already decided the outcome. They needed a charge that would stick with the Roman authorities, so they went with sedition — claiming Jesus called himself a king. Pontius Pilate, the Roman governor, found no basis for the charge. He tried to release Jesus. The crowd demanded Barabbas instead — a convicted criminal.
+The trial was a farce. The religious leaders had already decided the outcome. They needed a charge that would stick with the Roman authorities, so they went with sedition — claiming Jesus called himself a king. Pontius Pilate, the Roman governor, found no basis for the charge. He tried to release Jesus.
 
 > Pilate said to them, "Then what shall I do with Jesus who is called Christ?" They all said, "Let him be crucified!"
 — [Matthew 27:22 ESV][6]
