@@ -55,7 +55,7 @@ Paul's conversion is significant for two reasons. First, it demonstrates that no
 
 ## The missionary journeys
 
-Paul traveled the Roman Empire for roughly thirty years — from the late 40s to the mid-60s AD. He established churches in modern-day Turkey, Greece, and Italy. He was beaten, shipwrecked, imprisoned, stoned and left for dead, and bitten by a snake. He kept going.
+Paul traveled the Roman Empire for roughly thirty years — from the late 40s to the mid-60s AD. He established churches in modern-day Turkey, Greece, and Italy. He was beaten, shipwrecked, imprisoned, bitten by a snake, and stoned and left for dead. He kept going.
 
 His letters — Romans, Corinthians, Galatians, Ephesians, Philippians, and others — make up a substantial portion of the New Testament. They were written to specific communities facing specific problems: divisions, sexual ethics, the role of the Law, meat sacrificed to idols, the rights of women in worship, the return of Christ. They are not abstract theology. They are a pastor trying to hold together a scattered, struggling, arguing community of people who were trying to live the mission in a world that didn't want them to.
 
