@@ -79,7 +79,7 @@ The Jerusalem Council (Acts 15) settled it: Gentiles did not need to become Jews
 
 Peter, the rock on which Jesus said the church would be built, compromising the mission out of social pressure. Paul, the former persecutor, calling him out. The early church was messy, political, and human in every way. That is not a weakness of the narrative. It is the point.
 
-If the early church had been populated by perfect people making perfect decisions, the story would be irrelevant to anyone who isn't perfect. Because it was populated by people who argued, compromised, wavered, and had to be corrected — and who still built something that outlasted the Roman Empire — the story says: imperfect people can carry the mission. You do not need to be worthy. You need to be willing.
+If the early church had been populated by perfect people making perfect decisions, the story would be irrelevant to anyone who isn't perfect. But because it was populated by people who argued, compromised, wavered, and had to be corrected — and who still built something that outlasted the Roman Empire — the story says: imperfect people can carry the mission. You do not need to be worthy. You need to be willing.
 
 ## Persecution and growth
 
