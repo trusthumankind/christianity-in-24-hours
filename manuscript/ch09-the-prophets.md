@@ -17,7 +17,7 @@ Then Israel asks for a king.
 > But the thing displeased Samuel when they said, "Give us a king to judge us." And Samuel prayed to the LORD. And the LORD said to Samuel, "Obey the voice of the people in all that they say to you, for they have not rejected you, but they have rejected me from being king over them."
 — [1 Samuel 8:6-7 ESV][1]
 
-God tells Samuel plainly: asking for a king is a rejection of God's leadership. But God doesn't stop them. This is the free will framework in action — humanity choosing its own path, and God allowing the choice even when it's the wrong one.
+God tells Samuel plainly: asking for a king is a rejection of God's leadership. But God doesn't stop them. This is the free will framework in action — humanity choosing its own path, and God allowing the choice even when another choice would be more suitable in that moment.
 
 Saul is the first king. He starts well and ends in paranoia, jealousy, and disobedience. David follows — the shepherd boy, the giant-killer, the poet who wrote the Psalms. David is called "a man after God's own heart" ([1 Samuel 13:14][2]), and he is also an adulterer and a murderer. He saw Bathsheba, took her, and when she became pregnant, he arranged for her husband Uriah to be killed in battle ([2 Samuel 11][3]).
 
@@ -102,7 +102,7 @@ That's the next chapter.
 
 ## What this means for the story
 
-The prophets reveal the heart of the Old Testament's failure — and the word "failure" is deliberate. Israel failed. The kingdom failed. The Law, as a mechanism for producing faithful people, failed. Not because the Law was wrong, but because external structure cannot transform internal character.
+The prophets reveal the heart of humanity's failure in the Old Testament — and the word "failure" is deliberate. Israel failed. The kingdom failed. The Law, as a mechanism for producing faithful people, failed. Not because the Law was wrong, but because external structure cannot transform internal character.
 
 The prophets knew this. That's why Jeremiah wrote about a new covenant:
 
