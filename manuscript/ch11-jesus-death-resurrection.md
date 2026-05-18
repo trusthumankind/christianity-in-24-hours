@@ -12,7 +12,7 @@ This chapter is about what happened next. But before we get there, a framing tha
 
 Traditional Christianity teaches that Jesus died as a sacrifice — that God required a payment for humanity's sin, and Jesus was the payment. This is called substitutionary atonement, and it is the dominant framework in most churches. It says: you owed a debt you couldn't pay, Jesus paid it, and now you're free.
 
-There is a different path.
+There is a different take.
 
 Not because the sacrificial language isn't in the Bible — it is. But because within the framework built across the last ten hours, the cross means something more specific than a cosmic transaction. Jesus was a prophet with gifts no one else had, who carried the mission without faltering where every prophet before him had broken. His death wasn't a payment. It was the final proof that faithful mission-carrying is possible — even when the cost is everything.
 
@@ -63,12 +63,12 @@ This is Hour 5's definition of faith, taken to its absolute limit. Choosing to a
 
 Judas betrayed him with a kiss. The disciples ran. Peter — the one who had sworn he would die before denying Jesus — denied him three times before dawn, exactly as Jesus had predicted.
 
-The trial was a farce. The religious leaders had already decided the outcome. They needed a charge that would stick with the Roman authorities, so they went with sedition — claiming Jesus called himself a king. Pontius Pilate, the Roman governor, found no basis for the charge. He tried to release Jesus. The crowd demanded Barabbas instead — a convicted criminal.
+The trial was a farce. The religious leaders had already decided the outcome. They needed a charge that would stick with the Roman authorities, so they went with sedition — claiming Jesus called himself a king. Pontius Pilate, the Roman governor, found no basis for the charge. He tried to release Jesus.
 
 > Pilate said to them, "Then what shall I do with Jesus who is called Christ?" They all said, "Let him be crucified!"
 — [Matthew 27:22 ESV][6]
 
-The person who had healed their sick, fed their hungry, and told them they mattered was rejected in favor of a man convicted of insurrection. This is the pattern from every chapter in Part II playing out one final time. God provides. Humanity rejects. The only difference is that this time, the rejection is of the person who embodied the mission itself.
+The person who had healed their sick, fed their hungry, and told them they mattered was rejected and condemned to death. This is the pattern from every chapter in Part II playing out one final time. God provides. Humanity rejects. The only difference is that this time, the rejection is of the person who embodied the mission itself.
 
 ## The cross
 
@@ -90,7 +90,7 @@ The last:
 > "Father, into your hands I commit my spirit!"
 — [Luke 23:46 ESV][8]
 
-He died as he lived. Trusting God. Choosing the mission. Holding where everyone before him had broken.
+He died as he lived. Trusting God. Choosing the mission. Holding steadfast where everyone before him had broken.
 
 ## Why this matters
 
@@ -98,15 +98,15 @@ Here is the question the cross forces: if Jesus could have avoided it and chose 
 
 It proves the mission is possible.
 
-Every chapter of Part II has been building a case for why humanity fails. The golden calf. The grumbling in the wilderness. The exile. David and Bathsheba. Four hundred years of prophets warning and being ignored. The evidence for the prosecution — that humanity will always choose self over mission — is overwhelming.
+Every chapter of Part II has been building a case for why humanity fails. The golden calf. The grumbling in the wilderness. The exile. David and Bathsheba. Four hundred years of prophets warning and being ignored. The evidence for Satan's pessimism — that humanity will always choose self over mission — is overwhelming.
 
-The cross is the evidence for the defense.
+The cross is our reason for hope.
 
 One person, faced with the ultimate cost, chose the mission anyway. Not because he had to. Not because a cosmic ledger required balancing. Because the test from Hour 1 — can humanity overcome its fears and vices? — needed at least one person to answer yes, completely, with nothing held back.
 
 Jesus held. That is what the cross means.
 
-It does not mean God required blood. It does not mean you owe a debt that was paid on your behalf. It means that when the hardest test imaginable was placed in front of a human being — die for the people who are killing you, forgive the people who are betraying you, trust a God you can't see while the people you can see drive nails into your hands — one person chose faithfulness over self-preservation. And that choice opened a door for everyone who would come after.
+It does not mean God requires blood. It does not mean you owe a debt that was paid on your behalf. It means that when the hardest test imaginable was placed in front of a human being — die for the people who are killing you, forgive the people who are betraying you, trust a God you can't see while the people you can see drive nails into your hands — one person chose faithfulness over self-preservation. And that choice opened a door for everyone who would come after.
 
 ## The resurrection
 
