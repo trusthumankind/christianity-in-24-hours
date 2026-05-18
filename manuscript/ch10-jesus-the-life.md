@@ -39,7 +39,7 @@ This is the transition from childhood to adulthood that the Law was always point
 
 External rules regulate behavior. Jesus is after something deeper — the internal orientation that produces the behavior in the first place. This is what Jeremiah meant by "the law written on hearts." Not a new set of rules. A new kind of person. Someone who doesn't need the rule because the character behind the rule has become part of who they are.
 
-The child who doesn't steal because the parent is watching has learned the rule. The adult who doesn't steal because taking what belongs to someone else is incompatible with who they are has internalized it. Jesus is describing the adult version of faithfulness.
+The child who doesn't steal because the parent is watching has learned the rule. The adult who's internalized the rule doesn't steal because stealing is incompatible with who they are. Jesus is describing the adult version of faithfulness.
 
 ## How he lived
 
