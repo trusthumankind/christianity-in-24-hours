@@ -106,7 +106,7 @@ One person, faced with the ultimate cost, chose the mission anyway. Not because 
 
 Jesus held. That is what the cross means.
 
-It does not mean God required blood. It does not mean you owe a debt that was paid on your behalf. It means that when the hardest test imaginable was placed in front of a human being — die for the people who are killing you, forgive the people who are betraying you, trust a God you can't see while the people you can see drive nails into your hands — one person chose faithfulness over self-preservation. And that choice opened a door for everyone who would come after.
+It does not mean God requires blood. It does not mean you owe a debt that was paid on your behalf. It means that when the hardest test imaginable was placed in front of a human being — die for the people who are killing you, forgive the people who are betraying you, trust a God you can't see while the people you can see drive nails into your hands — one person chose faithfulness over self-preservation. And that choice opened a door for everyone who would come after.
 
 ## The resurrection
 
