@@ -42,7 +42,7 @@ It was not perfect. Ananias and Sapphira sold property, kept some of the money, 
 
 Then the story takes its most unlikely turn.
 
-Saul of Tarsus was a Pharisee. A zealot. He hunted Christians. He stood and watched while Stephen — the first Christian martyr — was stoned to death ([Acts 7:58][6]). He went house to house, dragging believers to prison ([Acts 8:3][7]). If the early church had a most-wanted list, Saul was on it.
+Saul of Tarsus was a Pharisee. A zealot. He hunted Christians. He stood and watched while Stephen — the first Christian martyr — was stoned to death ([Acts 7:58][6]). He went house to house, dragging believers to prison ([Acts 8:3][7]). If there was a name the early church dreaded, it was Saul.
 
 On the road to Damascus, headed to arrest more Christians, something happened:
 
@@ -55,7 +55,7 @@ Paul's conversion is significant for two reasons. First, it demonstrates that no
 
 ## The missionary journeys
 
-Paul traveled the Roman Empire for roughly thirty years — from the late 40s to the mid-60s AD. He established churches in modern-day Turkey, Greece, and Italy. He was beaten, shipwrecked, imprisoned, stoned and left for dead, and bitten by a snake. He kept going.
+Paul traveled the Roman Empire for roughly thirty years — from the late 40s to the mid-60s AD. He established churches in modern-day Turkey, Greece, and Italy. He was beaten, shipwrecked, imprisoned, bitten by a snake, and stoned and left for dead. He kept going.
 
 His letters — Romans, Corinthians, Galatians, Ephesians, Philippians, and others — make up a substantial portion of the New Testament. They were written to specific communities facing specific problems: divisions, sexual ethics, the role of the Law, meat sacrificed to idols, the rights of women in worship, the return of Christ. They are not abstract theology. They are a pastor trying to hold together a scattered, struggling, arguing community of people who were trying to live the mission in a world that didn't want them to.
 
@@ -79,7 +79,7 @@ The Jerusalem Council (Acts 15) settled it: Gentiles did not need to become Jews
 
 Peter, the rock on which Jesus said the church would be built, compromising the mission out of social pressure. Paul, the former persecutor, calling him out. The early church was messy, political, and human in every way. That is not a weakness of the narrative. It is the point.
 
-If the early church had been populated by perfect people making perfect decisions, the story would be irrelevant to anyone who isn't perfect. Because it was populated by people who argued, compromised, wavered, and had to be corrected — and who still built something that outlasted the Roman Empire — the story says: imperfect people can carry the mission. You do not need to be worthy. You need to be willing.
+If the early church had been populated by perfect people making perfect decisions, the story would be irrelevant to anyone who isn't perfect. But because it was populated by people who argued, compromised, wavered, and had to be corrected — and who still built something that outlasted the Roman Empire — the story says: imperfect people can carry the mission. You do not need to be worthy. You need to be willing.
 
 ## Persecution and growth
 
@@ -87,9 +87,9 @@ The Roman Empire did not welcome the early church. Christians were arrested, tor
 
 And the church grew.
 
-This is one of the most striking facts in human history. A movement with no political power, no military backing, no institutional infrastructure, no wealthy patrons — a movement that was actively being destroyed by the most powerful empire on earth — survived and expanded.
+This is one of the most striking facts in Roman history. A movement with no political power, no military backing, no institutional infrastructure, no wealthy patrons — a movement that was actively being destroyed by the most powerful empire on earth — survived and expanded.
 
-How? Not through miracles — the Spirit's dramatic gifts were concentrated in the earliest years and faded as the church matured (Hour 6). Not through military conquest — Christians had no army. Not through intellectual superiority — most early Christians were uneducated.
+How? Not through miracles — the Spirit's dramatic gifts were concentrated in the earliest years and faded as the church matured (Hour 6). Not through military conquest — the early church had no army. Not through intellectual superiority — most early Christians were uneducated.
 
 They grew because they lived differently. They cared for the sick during plagues when everyone else fled. They welcomed the poor when Roman society discarded them. They treated women and slaves as people with dignity when the surrounding culture did not. They died rather than renounce what they believed, and the people who watched them die wanted to know what could inspire that kind of commitment.
 
