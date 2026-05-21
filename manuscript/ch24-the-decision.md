@@ -49,16 +49,20 @@ The wager is valid. But what does "believe" mean? In Pascal's era, belief meant 
 Here is the real wager — the one the mission actually asks you to make.
 
 Will you give your life to something bigger than yourself, knowing it will cost you?
+- Not: will you gain something by believing?
+- Not: will your life be better, easier, more blessed?
 
-Not: will you gain something by believing? Not: will your life be better, easier, more blessed? The mission does not promise you a comfortable life. Jesus was crucified. The disciples were martyred. The prophets were ignored, exiled, killed. Paul was beaten, shipwrecked, imprisoned. None of them lived an easy life. None of them were rewarded with comfort. The "better life" that mainstream Christianity sells — earthly blessing, eternal security in exchange for Sunday attendance — is a sweet poison. It is the opposite of what the mission demands. The mission does produce personal peace — the peace of knowing what you are for and giving yourself fully to it — but that peace accompanies the hardest work you will ever do. It is not a shortcut around it.
+The mission does not promise you a comfortable life. Jesus was crucified. The disciples were martyred. The prophets were ignored, exiled, killed. Paul was beaten, shipwrecked, imprisoned. None of them lived an easy life. None of them were rewarded with comfort. The "better life" that mainstream Christianity sells — earthly blessing, eternal security in exchange for Sunday attendance — is a sweet poison. It is the opposite of what the mission demands.
 
-The mission demands everything. And humanity needs you to carry it anyway.
+The mission _can_ produce personal peace — the peace of knowing what you stand for and dedicating yourself to a greater cause. But that peace accompanies the hardest work you will ever do. Peace, yes; comfort, no.
 
-Abraham left everything familiar — not because it would make his life better, but because something larger required it. Moses spent forty years in the wilderness — not for personal fulfillment, but because a people needed leading. Jesus went to the cross — not because it served him, but because the mission required someone to prove it could be carried to the end.
+The mission demands everything.
 
-That is belief. Not a proclamation. A life spent on others.
+Abraham left everything familiar — not because it would make his life better, but because something larger required it. Moses spent forty years in the wilderness — not for personal fulfillment, but because a people needed leadership. Jesus went to the cross — not because it served him, but because the mission required someone to prove it could be carried to the end.
 
-But not without hope. The reward is real — it is just not what mainstream Christianity advertises, and it may not arrive in your lifetime. The mission is generational. Abraham never saw the nation. Moses never entered the land. The prophets never saw the justice they demanded. They carried the mission knowing that future generations would inherit what they built. And the promise — the one that runs from Genesis through Revelation — is that the mission has an endpoint. Not a metaphorical one. A real one.
+That level of effort demonstrates faith. Not merely a verbal proclamation, but a life spent on others.
+
+And not without hope. The reward is real — it is just slightly different from what mainstream Christianity advertises. The reward may not arrive in your lifetime. The mission has always been generational. Abraham never saw the nation. Moses never entered the land. The prophets never saw the justice they demanded. They carried the mission knowing that future generations would inherit what they built. And the promise — the one that runs from Genesis through Revelation — is that the mission has an endpoint. Not a metaphorical one. A real one.
 
 ## The victory conditions
 
