@@ -2,7 +2,7 @@
 
 Q: Does prayer work?
 
-A: Define "work." If you mean whether God grant requests, then no. If you mean whether prayer changes you, then yes. And that's the point.
+A: Define "work." If you mean whether God grants requests, then no. If you mean whether prayer changes you, then yes. And that's the point.
 
 ## Commentary
 
