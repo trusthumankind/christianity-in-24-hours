@@ -13,7 +13,7 @@ That's not giving. That's a transaction. And God has no interest in transactions
 > Jesus entered the temple and drove out all who sold and bought in the temple, and he overturned the tables of the money-changers and the seats of those who sold pigeons. He said to them, "It is written, 'My house shall be called a house of prayer,' but you make it a den of robbers."
 — [Matthew 21:12-13 ESV][1]
 
-Jesus didn't politely suggest the money-changers relocate. He flipped their tables. If that doesn't tell you how God feels about people profiting off faith, nothing will.
+Jesus didn't politely suggest the money-changers relocate. He flipped their tables. That sums up how God feels about people profiting off faith.
 
 ## The 10% myth
 
