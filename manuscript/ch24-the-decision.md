@@ -50,7 +50,7 @@ Here is the real wager — the one the mission actually asks you to make.
 
 Will you give your life to something bigger than yourself, knowing it will cost you?
 
-Not: will you gain something by believing? Not: will your life be better, easier, more blessed? The mission does not promise you a comfortable life. Jesus was crucified. The disciples were martyred. The prophets were ignored, exiled, killed. Paul was beaten, shipwrecked, imprisoned. None of them lived an easy life. None of them were rewarded with comfort. The "better life" that mainstream Christianity sells — earthly blessing, eternal security in exchange for Sunday attendance — is a sweet poison. It is the opposite of what the mission demands. The mission does produce personal peace — the peace of knowing what you are for and giving yourself fully to it — but that peace accompanies the hardest work you will ever do, not a shortcut around it.
+Not: will you gain something by believing? Not: will your life be better, easier, more blessed? The mission does not promise you a comfortable life. Jesus was crucified. The disciples were martyred. The prophets were ignored, exiled, killed. Paul was beaten, shipwrecked, imprisoned. None of them lived an easy life. None of them were rewarded with comfort. The "better life" that mainstream Christianity sells — earthly blessing, eternal security in exchange for Sunday attendance — is a sweet poison. It is the opposite of what the mission demands. The mission does produce personal peace — the peace of knowing what you are for and giving yourself fully to it — but that peace accompanies the hardest work you will ever do. It is not a shortcut around it.
 
 The mission demands everything. And humanity needs you to carry it anyway.
 

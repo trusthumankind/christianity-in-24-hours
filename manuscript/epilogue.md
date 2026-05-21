@@ -1,6 +1,6 @@
 # Epilogue: Now Go
 
-You have the mission. You have the victory conditions. You have the honest reckoning with everything the institution got wrong and the clarity to carry the mission without repeating it.
+You have the mission. You have the victory conditions. You have the honest reckoning with everything the institution got wrong and the clarity to carry the mission without repeating those mistakes.
 
 What you don't have is a community.
 
