@@ -10,7 +10,10 @@ Prayer is the most misunderstood practice in Christianity. Not because it's comp
 
 The assumption: God is listening and might intervene.
 
-But here is the reality: God gave humanity everything we need — the example of Jesus, the record of Scripture, the capacity to reason — and stepped back. Not adjusting outcomes. Not granting requests. Not running a cosmic customer service line with hold music and a callback option.
+But here is the reality: God gave humanity everything we need — the example of Jesus, the record of Scripture, the capacity to reason — and stepped back.
+- Not adjusting outcomes.
+- Not granting requests.
+- Not running a cosmic customer service line with hold music and a callback option.
 
 So what is prayer?
 
