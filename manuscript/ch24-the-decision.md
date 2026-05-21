@@ -62,7 +62,7 @@ Abraham left everything familiar — not because it would make his life better, 
 
 That level of effort demonstrates faith. Not merely a verbal proclamation, but a life spent on others.
 
-And not without hope. The reward is real — it is just slightly different from what mainstream Christianity advertises. The reward may not arrive in your lifetime. The mission has always been generational. Abraham never saw the nation. Moses never entered the land. The prophets never saw the justice they demanded. They carried the mission knowing that future generations would inherit what they built. And the promise — the one that runs from Genesis through Revelation — is that the mission has an endpoint. Not a metaphorical one. A real one.
+And not without hope. The reward is real — it is just different from what mainstream Christianity advertises. The reward may not arrive in your lifetime. The mission has always been generational. Abraham never saw the nation. Moses never entered the land. The prophets never saw the justice they demanded. They carried the mission knowing that future generations would inherit what they built. And the promise — the one that runs from Genesis through Revelation — is that the mission has an endpoint. Not a metaphorical one. A real one.
 
 ## The victory conditions
 
