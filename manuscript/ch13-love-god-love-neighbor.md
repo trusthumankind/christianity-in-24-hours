@@ -90,7 +90,7 @@ The question is not whether you will fail. The question is what you do after you
 
 Do you pretend you didn't? That's the Pharisee approach — perform the external markers of love while protecting the internal selfishness. Do you give up? That's despair — deciding the standard is impossible and therefore irrelevant. Or do you get up, acknowledge the failure, and try again?
 
-Hour 5 defined faith as a direction, not a moment. The same applies here. Love is a direction. Some days you walk toward it. Some days you walk away. The point is not perfection. The point is whether you keep turning back.
+Hour 5 defined faith as a direction, not a moment. The same applies here. Love is a direction. Some days you walk toward it. Some days you walk away. The point is not perfection. The point is whether you pick yourself up and return to the mission.
 
 Peter denied Jesus three times and still built the church. Paul persecuted Christians and still carried the mission farther than anyone. The mission doesn't require you to be good enough. It requires you to keep choosing.
 
