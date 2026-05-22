@@ -77,7 +77,9 @@ Joseph didn't minimize what they did. He named it: "You meant evil." And he didn
 
 ## Forgiveness and the mission
 
-The mission from Hour 1 — prove we can overcome our fears and vices — runs directly through forgiveness. Unforgiveness is a vice. It's the decision to let a past wrong control your present choices. It shrinks your capacity for love, corrodes your relationships, and turns you inward when the mission requires you to turn outward.
+The mission from Hour 1 — prove we can overcome our fears and vices — runs directly through forgiveness.
+
+Holding on to resentment and grudges is a vice. Letting past wrongs control your present choices puts you in emotional captivity. It shrinks your capacity for love, corrodes your relationships, and turns you inward when the mission needs you to face outward.
 
 Every community described in Hour 15 — every real one, not the comfortable social club — will produce wounds. People will let you down. Leaders will fail. Friends will betray. The question is not whether you'll be hurt. The question is whether you'll let the hurt end the mission.
 
@@ -88,7 +90,7 @@ Paul wrote:
 
 The early church was not a group of perfect people. It was a group of forgiven people who kept choosing to forgive each other. Peter denied Jesus three times and was restored. Paul persecuted the church and was welcomed into it. Mark abandoned Paul's missionary journey and was eventually reconciled ([2 Timothy 4:11][5]). Every one of those stories could have ended differently if someone had decided that the offense was unforgivable.
 
-The mission survives on forgiveness. Not because forgiveness is easy or automatic, but because the alternative — a community that holds grudges, keeps score, and cuts people off when they fail — cannot sustain itself. It collapses under the weight of accumulated resentment.
+The mission survives on forgiveness. A community that holds grudges, keeps score, and shuns people when they fail will collapse under the weight of accumulated resentment. And the mission requires community.
 
 ## The daily practice
 
