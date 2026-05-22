@@ -77,7 +77,9 @@ Joseph didn't minimize what they did. He named it: "You meant evil." And he didn
 
 ## Forgiveness and the mission
 
-The mission from Hour 1 — prove we can overcome our fears and vices — runs directly through forgiveness. Unforgiveness is a vice. It's the decision to let a past wrong control your present choices. It shrinks your capacity for love, corrodes your relationships, and turns you inward when the mission requires you to turn outward.
+The mission from Hour 1 — prove we can overcome our fears and vices — runs directly through forgiveness.
+
+Holding on to resentment and grudges is a vice. Letting past wrongs control your present choices puts you in emotional captivity. It shrinks your capacity for love, corrodes your relationships, and turns you inward when the mission needs you to face outward.
 
 Every community described in Hour 15 — every real one, not the comfortable social club — will produce wounds. People will let you down. Leaders will fail. Friends will betray. The question is not whether you'll be hurt. The question is whether you'll let the hurt end the mission.
 
