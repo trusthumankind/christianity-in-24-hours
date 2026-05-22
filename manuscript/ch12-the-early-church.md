@@ -129,4 +129,4 @@ The story has been told. The question now is whether you will live it.
 
 ---
 
-[← Hour 11: Jesus — The Death and Resurrection](ch11-jesus-death-resurrection.html) · [Table of Contents](../) · [Hour 13: Love God, Love Your Neighbor →](ch13-love-god-love-neighbor.html)
+[← Hour 11: Jesus — The Death and Resurrection](ch11-jesus-death-resurrection.html) · [Table of Contents](../) · [Part III: The Life →](part3.html)
