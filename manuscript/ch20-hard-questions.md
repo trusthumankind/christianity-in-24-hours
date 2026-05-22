@@ -85,7 +85,9 @@ Hour 14 addressed this: prayer is orientation, not petition. But the question li
 
 The honest answer: if God has stepped back and the world operates on its own laws, then prayer was never going to change the medical outcome. That's not a failure of prayer — it's a misunderstanding of what prayer does. Prayer changed whether you were honest about your fear, whether you examined your priorities, whether you were prepared for what came next. It didn't change what came next.
 
-This is unsatisfying. It should be. If you want a God who intervenes on request, the framework of these twenty hours is not going to give you that God. What it gives you instead is a God who trusted you enough to let the outcome depend on you — and a practice of prayer that builds the capacity to face whatever comes.
+This is unsatisfying, if you want a God who intervenes on request. And at the same time, can you trust a God who plays favorites, when we all know the deck is stacked for or against you depending on where and to whom you are born?
+
+God trusts you enough to let the outcome depend on you. The practice of prayer builds your capacity to face whatever comes.
 
 ## What about marriage?
 
