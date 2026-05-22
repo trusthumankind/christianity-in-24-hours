@@ -86,13 +86,11 @@ Fake faith offers shortcuts. And shortcuts are why most of what passes for Chris
 
 ## The test
 
-How do you know if your faith is real? Not by your theology. Not by your church attendance. Not by how much you give or how often you pray or how many verses you've memorized.
+How do you know if your faith is real? Not by your theology. Not by your church attendance. Not by how much you tithe or how often you pray or how many verses you've memorized.
 
-You know by what you've honestly faced.
+You know by what you've honestly faced, what you've given to the mission, and what your community is working toward.
 
-Have you genuinely considered the possibility that you're wrong — that God doesn't exist, that the mission is a human invention, that none of this matters? Have you sat with the doubt, the uncertainty, the absence of proof? And after all of that, have you still chosen to act?
-
-That's the test. Not whether your faith produces visible results that others can evaluate — visible results can be performed, and the Pharisees proved that. The test is internal: have you reckoned honestly with every reason to walk away and still chosen to stay?
+Have you reckoned honestly with every reason to walk away and still chosen to stay? Have you genuinely considered the possibility that God doesn't exist? That the mission is a human invention? That none of this matters? Have you sat with the doubt, the uncertainty, the absence of proof? And after all of that, have you still chosen to work for peace on earth?
 
 This is not a one-time decision. It's the same discipline described in every chapter of Part III — the daily practice of prayer, the ongoing commitment to community, the repeated choice to forgive. Faith is a choice you make over and over, often without evidence that it's working, often without anyone watching, often against your own instincts. The Pharisees never faced this test — they had certainty, not faith. The prosperity gospel replaces it with a transaction. Cultural Christianity skips it. Legalism substitutes rules for honest reckoning.
 
