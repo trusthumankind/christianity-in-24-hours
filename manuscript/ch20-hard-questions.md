@@ -65,7 +65,7 @@ The conflict between science and faith is largely manufactured. It exists becaus
 
 The psalmist didn't know about DNA. He didn't need to. The point is not the mechanism — it's the meaning. God created a universe governed by elegant, discoverable laws. The fact that those laws are intelligible — that a human mind can comprehend the mathematics of a star — is itself remarkable, and is consistent with a universe created by an intelligent being.
 
-Faith and science conflict only when one tries to do the other's job. When faith makes scientific claims (the earth is 6,000 years old), it embarrasses itself. When science makes theological claims (there is no purpose), it exceeds its methodology. Stay in your lane.
+Faith and science conflict only when one tries to do the other's job. When faith makes scientific claims (the earth is 6,000 years old), it embarrasses itself. When science makes theological claims (there is no purpose), it exceeds its methodology.
 
 ## What about the contradictions in the Bible?
 
