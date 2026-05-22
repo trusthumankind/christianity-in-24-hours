@@ -13,9 +13,7 @@ He never condemned the Roman centurion for being a pagan. He never rebuked the S
 > "Not everyone who says to me, 'Lord, Lord,' will enter the kingdom of heaven, but the one who does the will of my Father who is in heaven. On that day many will say to me, 'Lord, Lord, did we not prophesy in your name, and cast out demons in your name, and do many mighty works in your name?' And then will I declare to them, 'I never knew you; depart from me, you workers of lawlessness.'"
 — [Matthew 7:21-23 ESV][1]
 
-Read that again. These are people who prophesied, cast out demons, and did mighty works — in Jesus's name. They had the vocabulary. They had the résumé. And they're told: I never knew you.
-
-That should unsettle you.
+Read that again. These are people who prophesied, cast out demons, and did mighty works — in Jesus's name. They had the vocabulary. They had the résumé. And Jesus told them: I never knew you.
 
 ## The Pharisees
 
