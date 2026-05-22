@@ -77,7 +77,7 @@ The Bible is sixty-six books written by roughly forty authors across approximate
 
 The contradictions in the gospels function like eyewitness testimony. If four people witness the same event, their accounts will differ on peripheral details — what time it happened, who spoke first, what was said verbatim. If all four accounts were identical, you'd suspect collusion, not accuracy. The core narrative — Jesus died, the tomb was empty, the disciples encountered something that transformed them from hiding in fear to proclaiming the resurrection at the cost of their lives — is consistent across all accounts. The differences in detail actually strengthen the historical case rather than weakening it.
 
-As for Paul and James: Paul argues that you cannot earn salvation through rule-following ([Romans 3:28][6]). James argues that faith without action is dead ([James 2:26][7]). These are not contradictions — they're two sides of the same coin, speaking to different audiences with different problems. Paul was fighting legalism. James was fighting complacency. Both were right.
+But most importantly, despite the contradictions, the Bible presents overwhelmingly consistent themes and stories that articulate God's expectations and the mission before us.
 
 ## What about unanswered prayer?
 
