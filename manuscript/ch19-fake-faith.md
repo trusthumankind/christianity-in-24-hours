@@ -113,4 +113,4 @@ Real faith is what remains when you've stripped away the performance, the incent
 
 ---
 
-[← Hour 18: Forgiveness](ch18-forgiveness.html) · [Table of Contents](../) · [Hour 20: Hard Questions →](ch20-hard-questions.html)
+[← Part IV: The Decision](part4.html) · [Table of Contents](../) · [Hour 20: Hard Questions →](ch20-hard-questions.html)

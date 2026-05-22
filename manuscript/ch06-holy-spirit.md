@@ -136,4 +136,4 @@ Part II will trace the story — from creation to the early church — so you ca
 
 ---
 
-[← Hour 5: Faith](ch05-faith.html) · [Table of Contents](../) · [Hour 7: Creation to Abraham →](ch07-creation-to-abraham.html)
+[← Hour 5: Faith](ch05-faith.html) · [Table of Contents](../) · [Part II: The Story →](part2.html)

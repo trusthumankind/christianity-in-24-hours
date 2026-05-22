@@ -16,4 +16,4 @@ Like Neo meeting Morpheus for the first time in _The Matrix_, you can choose now
 
 ---
 
-[Table of Contents](../) · [Hour 1: God →](ch01-god.html)
+[Table of Contents](../) · [Part I: The Foundation →](part1.html)

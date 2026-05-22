@@ -88,4 +88,4 @@ That last question matters more than you think. Because the mission isn't abstra
 
 ---
 
-[← Preface](preface.html) · [Table of Contents](../) · [Hour 2: The Bible →](ch02-the-bible.html)
+[← Part I: The Foundation](part1.html) · [Table of Contents](../) · [Hour 2: The Bible →](ch02-the-bible.html)

@@ -116,4 +116,4 @@ The point is not perfection. The point is direction. Are you moving toward relea
 
 ---
 
-[← Hour 17: Suffering](ch17-suffering.html) · [Table of Contents](../) · [Hour 19: Fake Faith →](ch19-fake-faith.html)
+[← Hour 17: Suffering](ch17-suffering.html) · [Table of Contents](../) · [Part IV: The Decision →](part4.html)

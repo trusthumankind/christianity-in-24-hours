@@ -117,4 +117,4 @@ The story has been told. This is where the living starts.
 
 ---
 
-[← Hour 12: The Early Church](ch12-the-early-church.html) · [Table of Contents](../) · [Hour 14: Prayer →](ch14-prayer.html)
+[← Part III: The Life](part3.html) · [Table of Contents](../) · [Hour 14: Prayer →](ch14-prayer.html)
