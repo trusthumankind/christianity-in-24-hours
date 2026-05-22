@@ -13,9 +13,7 @@ He never condemned the Roman centurion for being a pagan. He never rebuked the S
 > "Not everyone who says to me, 'Lord, Lord,' will enter the kingdom of heaven, but the one who does the will of my Father who is in heaven. On that day many will say to me, 'Lord, Lord, did we not prophesy in your name, and cast out demons in your name, and do many mighty works in your name?' And then will I declare to them, 'I never knew you; depart from me, you workers of lawlessness.'"
 — [Matthew 7:21-23 ESV][1]
 
-Read that again. These are people who prophesied, cast out demons, and did mighty works — in Jesus's name. They had the vocabulary. They had the résumé. And they're told: I never knew you.
-
-That should unsettle you.
+Read that again. These are people who prophesied, cast out demons, and did mighty works — in Jesus's name. They had the vocabulary. They had the résumé. And Jesus told them: I never knew you.
 
 ## The Pharisees
 
@@ -82,17 +80,17 @@ Every form of fake faith has the same root: it's easier than the real thing.
 
 Performance is easier than transformation. Transaction is easier than sacrifice. Identity is easier than discipline. Rules are easier than judgment.
 
-Real faith — the kind described across the last eighteen hours — demands that you examine your life honestly, change what needs changing, give until it costs you, forgive when everything in you says don't, sit with suffering you can't explain, and carry a mission that has no guaranteed payoff in your lifetime. That's hard. Fake faith offers shortcuts. And shortcuts are why most of what passes for Christianity in the world today would be unrecognizable to Jesus.
+Real faith — the kind described across the last eighteen hours — demands that you examine your life honestly, change what needs changing, give until it costs you, forgive when everything in you says don't, sit with suffering you can't explain, and carry a mission that has no guaranteed payoff in your lifetime. That's hard.
+
+Fake faith offers shortcuts. And shortcuts are why most of what passes for Christianity in the world today would be unrecognizable to Jesus.
 
 ## The test
 
-How do you know if your faith is real? Not by your theology. Not by your church attendance. Not by how much you give or how often you pray or how many verses you've memorized.
+How do you know if your faith is real? Not by your theology. Not by your church attendance. Not by how much you tithe or how often you pray or how many verses you've memorized.
 
-You know by what you've honestly faced.
+You know by what you've honestly faced, what you've given to the mission, and what your community is working toward.
 
-Have you genuinely considered the possibility that you're wrong — that God doesn't exist, that the mission is a human invention, that none of this matters? Have you sat with the doubt, the uncertainty, the absence of proof? And after all of that, have you still chosen to act?
-
-That's the test. Not whether your faith produces visible results that others can evaluate — visible results can be performed, and the Pharisees proved that. The test is internal: have you reckoned honestly with every reason to walk away and still chosen to stay?
+Have you reckoned honestly with every reason to walk away and still chosen to stay? Have you genuinely considered the possibility that God doesn't exist? That the mission is a human invention? That none of this matters? Have you sat with the doubt, the uncertainty, the absence of proof? And after all of that, have you still chosen to work for peace on earth?
 
 This is not a one-time decision. It's the same discipline described in every chapter of Part III — the daily practice of prayer, the ongoing commitment to community, the repeated choice to forgive. Faith is a choice you make over and over, often without evidence that it's working, often without anyone watching, often against your own instincts. The Pharisees never faced this test — they had certainty, not faith. The prosperity gospel replaces it with a transaction. Cultural Christianity skips it. Legalism substitutes rules for honest reckoning.
 
