@@ -23,6 +23,10 @@ Ready for a shot of the truth? Straight, no chaser? Then let's go!
 [2]: https://www.esv.org/Matthew+22/
 [3]: http://themelios.thegospelcoalition.org/article/the-art-of-imperious-ignorance
 
+## Style guide
+
+See [STYLE.md](STYLE.md) for voice, tone, and editorial conventions.
+
 ## How to contribute
 
 Readers, ask your question or (respectfully) challenge existing content by creating an issue on [the Issues tab][4].
