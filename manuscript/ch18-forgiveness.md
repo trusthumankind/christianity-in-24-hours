@@ -90,7 +90,7 @@ Paul wrote:
 
 The early church was not a group of perfect people. It was a group of forgiven people who kept choosing to forgive each other. Peter denied Jesus three times and was restored. Paul persecuted the church and was welcomed into it. Mark abandoned Paul's missionary journey and was eventually reconciled ([2 Timothy 4:11][5]). Every one of those stories could have ended differently if someone had decided that the offense was unforgivable.
 
-The mission survives on forgiveness. Not because forgiveness is easy or automatic, but because the alternative — a community that holds grudges, keeps score, and cuts people off when they fail — cannot sustain itself. It collapses under the weight of accumulated resentment.
+The mission survives on forgiveness. A community that holds grudges, keeps score, and shuns people when they fail will collapse under the weight of accumulated resentment. And the mission requires community.
 
 ## The daily practice
 
