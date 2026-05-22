@@ -142,11 +142,11 @@ He tells her he understands. He respects her decision. All he says is that he'd 
 
 No lecture. No scripture quoted. No ultimatum. Just a preference stated with honesty, and a woman's autonomy respected with love. That interaction — quiet, mutual, agonizing — is closer to what faith looks like in practice than any political platform or protest sign.
 
-But notice what's missing from that story: a community. If a village of people living the mission surrounded that family — sharing the cost of childcare, guaranteeing healthcare, ensuring no family drowns under the weight of another mouth to feed — the calculus changes. Not the woman's right to choose. The pressure that makes the choice feel impossible.
+But notice what's missing from that story: a community. If a village of people living the mission surrounded that family — sharing the cost of childcare, guaranteeing healthcare, ensuring no family drowns under the weight of another mouth to feed — the calculus changes. Not the woman's right to choose, but the pressure that makes the choice feel impossible.
 
-This is where the institutional church fails most visibly. The same voices that say "abortion is murder" overwhelmingly oppose universal healthcare, paid family leave, free childcare, and the social infrastructure that would make keeping an unplanned child survivable. They demand the birth and then disappear. That is not pro-life. It is pro-birth. And the difference is the entire mission.
+This is where the institutional church fails most visibly. The same voices that say "abortion is murder" overwhelmingly oppose universal healthcare, paid family leave, free childcare, and the social infrastructure that would make keeping an unplanned child survivable. They demand the birth and then disappear. That is not pro-life. It is pro-birth.
 
-The honest framework: life is sacred, and so is the woman carrying it. She is your neighbor. Her impossible choice is not a political talking point — it is a failure of the community that was supposed to be there and wasn't. The grown-up response to abortion is not to police individual decisions. It is to build the world where fewer people face the decision at all — and to love, without judgment, the ones who do.
+The honest framework: life is sacred, and so is the woman carrying it. She is your neighbor. Her impossible choice is not a political talking point — it is a failure of the community that was supposed to be there and wasn't. The grown-up response to abortion is not to police individual decisions. It is to build the world where fewer people face the decision at all — and to love, without judgment, these women regardless of what they choose.
 
 This is why the mission matters. The victory conditions from Hour 24 — food security, housing security, education, a community that actually carries each other — are not abstractions. They are the answer to this question. Build the village, and the impossible choices get fewer.
 
@@ -154,9 +154,9 @@ This is why the mission matters. The victory conditions from Hour 24 — food se
 
 Every hard question has the same thing underneath it: *can I trust this?*
 
-Can I trust a God who allows suffering? Can I trust a Bible with contradictions? Can I trust a faith that can't prove itself scientifically? Can I trust a religion that claims to be right when thousands of others make the same claim?
+Can I trust a God who allows suffering? Can I trust a Bible with contradictions? Can I trust a faith that can't prove itself scientifically? Can I trust any one religion that claims to be right when thousands of others make the same claim?
 
-The answer from Hour 19: real faith means sitting with these questions, honestly considering the possibility that the answer is no, and choosing to act anyway. Not because the doubts have been resolved, but because the mission — love God, love your neighbor, overcome your fears and vices — is worth carrying even in the presence of doubt.
+The answer from Hour 19: real faith means sitting with these questions, honestly considering the possibility that the answer is no, and choosing to act anyway. Not because the doubts have been resolved, but because the mission — love God, love your neighbor, overcome our fears and vices — is worth carrying even in the presence of doubt.
 
 The questions don't go away. A faith that requires them to go away is fragile. A faith that carries them is the only kind that lasts.
 
