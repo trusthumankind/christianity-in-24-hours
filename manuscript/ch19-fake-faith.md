@@ -80,7 +80,9 @@ Every form of fake faith has the same root: it's easier than the real thing.
 
 Performance is easier than transformation. Transaction is easier than sacrifice. Identity is easier than discipline. Rules are easier than judgment.
 
-Real faith — the kind described across the last eighteen hours — demands that you examine your life honestly, change what needs changing, give until it costs you, forgive when everything in you says don't, sit with suffering you can't explain, and carry a mission that has no guaranteed payoff in your lifetime. That's hard. Fake faith offers shortcuts. And shortcuts are why most of what passes for Christianity in the world today would be unrecognizable to Jesus.
+Real faith — the kind described across the last eighteen hours — demands that you examine your life honestly, change what needs changing, give until it costs you, forgive when everything in you says don't, sit with suffering you can't explain, and carry a mission that has no guaranteed payoff in your lifetime. That's hard.
+
+Fake faith offers shortcuts. And shortcuts are why most of what passes for Christianity in the world today would be unrecognizable to Jesus.
 
 ## The test
 
