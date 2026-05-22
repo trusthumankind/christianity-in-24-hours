@@ -32,7 +32,7 @@ Read in context, Jesus is speaking to his disciples at the Last Supper — peopl
 
 If God created everyone without partiality, then the mission was always meant for everyone. A Buddhist practicing compassion, a Muslim giving zakat, a secular humanist building clean water systems — each is contributing to the same mission, whether they use the same language or not. The specific vehicle matters less than whether someone is actually carrying the mission. The question is not what label you wear. The question is whether you're doing what is right.
 
-What we don't know — and should be honest about not knowing — is the specifics of the afterlife: who gets in, who doesn't, and by what exact mechanism. Anyone who claims certainty about the eternal fate of billions of people they've never met is claiming knowledge they don't have. But God's original intent is clear: everyone, no favorites.
+What we don't know — and should be honest about not knowing — are the mechanics of restoration: how the reckoning unfolds, what the timeline looks like, what the experience is. But we do have a good idea of the victory conditions (Hour 24), and we know the scope of salvation: everyone. Not some. Not the elect. Everyone — or the mission has failed.
 
 ## What about the violence in the Old Testament?
 
