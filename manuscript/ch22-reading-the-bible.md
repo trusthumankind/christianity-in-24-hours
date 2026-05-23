@@ -53,7 +53,7 @@ You already know how to do this. You don't read a poem the way you read a news a
 
 The most common misreading comes from treating one genre as another. Proverbs offers observations about life, not guarantees. "Train up a child in the way he should go" ([Proverbs 22:6][1]) is a general principle, not a contract with God. When the psalmist writes "the Lord is my shepherd" ([Psalm 23:1][2]), no one takes that literally. Apply the same instinct to the rest.
 
-The genre that causes the most confusion is apocalyptic — the symbolic, visionary writing found in Daniel and Revelation. It needs its own section.
+The genre that causes the most confusion is **apocalyptic** — the symbolic, visionary writing found in Daniel and Revelation. This genre needs its own section.
 
 ## Revelation: the most misread book
 
