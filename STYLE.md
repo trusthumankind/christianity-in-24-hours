@@ -30,6 +30,8 @@ These are writing rules, not doctrinal statements. The reasoning lives in [Core 
 
 **Faith is internal, not performative.** The test of genuine faith is whether you've honestly faced doubt and still chosen to act — not whether others can see results. Visible results can be performed.
 
+**No core tenet references.** The [Core Tenets](reference/core-tenets.md) are internal authoring tools — they guide consistency but should never appear in reader-facing text. Don't cite "(Tenet 5)" or reference tenets by number. State the principle directly or cross-reference the chapter where it was established (e.g., "(Hour 2)" instead of "(Tenet 5)").
+
 ## Conventions
 
 - Scripture references use ESV
