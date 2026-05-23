@@ -32,7 +32,7 @@ Read in context, Jesus is speaking to his disciples at the Last Supper — peopl
 
 If God created everyone without partiality, then the mission was always meant for everyone. A Buddhist practicing compassion, a Muslim giving zakat, a secular humanist building clean water systems — each is contributing to the same mission, whether they use the same language or not. The specific vehicle matters less than whether someone is actually carrying the mission. The question is not what label you wear. The question is whether you're doing what is right.
 
-What we don't know — and should be honest about not knowing — is the specifics of the afterlife: who gets in, who doesn't, and by what exact mechanism. Anyone who claims certainty about the eternal fate of billions of people they've never met is claiming knowledge they don't have. But God's original intent is clear: everyone, no favorites.
+What we don't know — and should be honest about not knowing — are the mechanics of restoration: how the reckoning unfolds, what the timeline looks like, what the experience is. But we do have a good idea of the victory conditions (Hour 24), and we know the scope of salvation: everyone. Not some. Not the elect. Everyone — or the mission has failed.
 
 ## What about the violence in the Old Testament?
 
@@ -65,7 +65,7 @@ The conflict between science and faith is largely manufactured. It exists becaus
 
 The psalmist didn't know about DNA. He didn't need to. The point is not the mechanism — it's the meaning. God created a universe governed by elegant, discoverable laws. The fact that those laws are intelligible — that a human mind can comprehend the mathematics of a star — is itself remarkable, and is consistent with a universe created by an intelligent being.
 
-Faith and science conflict only when one tries to do the other's job. When faith makes scientific claims (the earth is 6,000 years old), it embarrasses itself. When science makes theological claims (there is no purpose), it exceeds its methodology. Stay in your lane.
+Faith and science conflict only when one tries to do the other's job. When faith makes scientific claims (the earth is 6,000 years old), it embarrasses itself. When science makes theological claims (there is no purpose), it exceeds its methodology.
 
 ## What about the contradictions in the Bible?
 
@@ -79,13 +79,17 @@ The contradictions in the gospels function like eyewitness testimony. If four pe
 
 As for Paul and James: Paul argues that you cannot earn salvation through rule-following ([Romans 3:28][6]). James argues that faith without action is dead ([James 2:26][7]). These are not contradictions — they're two sides of the same coin, speaking to different audiences with different problems. Paul was fighting legalism. James was fighting complacency. Both were right.
 
+But most importantly, despite the contradictions, the Bible presents overwhelmingly consistent themes and stories that articulate God's expectations and the mission before us.
+
 ## What about unanswered prayer?
 
 Hour 14 addressed this: prayer is orientation, not petition. But the question lingers because it's personal. You prayed for your mother to be healed, and she died. You prayed for guidance, and heard nothing. You prayed for strength, and felt weaker.
 
 The honest answer: if God has stepped back and the world operates on its own laws, then prayer was never going to change the medical outcome. That's not a failure of prayer — it's a misunderstanding of what prayer does. Prayer changed whether you were honest about your fear, whether you examined your priorities, whether you were prepared for what came next. It didn't change what came next.
 
-This is unsatisfying. It should be. If you want a God who intervenes on request, the framework of these twenty hours is not going to give you that God. What it gives you instead is a God who trusted you enough to let the outcome depend on you — and a practice of prayer that builds the capacity to face whatever comes.
+This is unsatisfying, if you want a God who intervenes on request. And at the same time, can you trust a God who plays favorites, when we all know the deck is stacked for or against you depending on where and to whom you are born?
+
+God trusts you enough to let the outcome depend on you. The practice of prayer builds your capacity to face whatever comes.
 
 ## What about marriage?
 
@@ -140,11 +144,11 @@ He tells her he understands. He respects her decision. All he says is that he'd 
 
 No lecture. No scripture quoted. No ultimatum. Just a preference stated with honesty, and a woman's autonomy respected with love. That interaction — quiet, mutual, agonizing — is closer to what faith looks like in practice than any political platform or protest sign.
 
-But notice what's missing from that story: a community. If a village of people living the mission surrounded that family — sharing the cost of childcare, guaranteeing healthcare, ensuring no family drowns under the weight of another mouth to feed — the calculus changes. Not the woman's right to choose. The pressure that makes the choice feel impossible.
+But notice what's missing from that story: a community. If a village of people living the mission surrounded that family — sharing the cost of childcare, guaranteeing healthcare, ensuring no family drowns under the weight of another mouth to feed — the calculus changes. Not the woman's right to choose, but the pressure that makes the choice feel impossible.
 
-This is where the institutional church fails most visibly. The same voices that say "abortion is murder" overwhelmingly oppose universal healthcare, paid family leave, free childcare, and the social infrastructure that would make keeping an unplanned child survivable. They demand the birth and then disappear. That is not pro-life. It is pro-birth. And the difference is the entire mission.
+This is where the institutional church fails most visibly. The same voices that say "abortion is murder" overwhelmingly oppose universal healthcare, paid family leave, free childcare, and the social infrastructure that would make keeping an unplanned child survivable. They demand the birth and then disappear. That is not pro-life. It is pro-birth.
 
-The honest framework: life is sacred, and so is the woman carrying it. She is your neighbor. Her impossible choice is not a political talking point — it is a failure of the community that was supposed to be there and wasn't. The grown-up response to abortion is not to police individual decisions. It is to build the world where fewer people face the decision at all — and to love, without judgment, the ones who do.
+The honest framework: life is sacred, and so is the woman carrying it. She is your neighbor. Her impossible choice is not a political talking point — it is a failure of the community that was supposed to be there and wasn't. The grown-up response to abortion is not to police individual decisions. It is to build the world where fewer people face the decision at all — and to love, without judgment, these women regardless of what they choose.
 
 This is why the mission matters. The victory conditions from Hour 24 — food security, housing security, education, a community that actually carries each other — are not abstractions. They are the answer to this question. Build the village, and the impossible choices get fewer.
 
@@ -152,9 +156,9 @@ This is why the mission matters. The victory conditions from Hour 24 — food se
 
 Every hard question has the same thing underneath it: *can I trust this?*
 
-Can I trust a God who allows suffering? Can I trust a Bible with contradictions? Can I trust a faith that can't prove itself scientifically? Can I trust a religion that claims to be right when thousands of others make the same claim?
+Can I trust a God who allows suffering? Can I trust a Bible with contradictions? Can I trust a faith that can't prove itself scientifically? Can I trust any one religion that claims to be right when thousands of others make the same claim?
 
-The answer from Hour 19: real faith means sitting with these questions, honestly considering the possibility that the answer is no, and choosing to act anyway. Not because the doubts have been resolved, but because the mission — love God, love your neighbor, overcome your fears and vices — is worth carrying even in the presence of doubt.
+The answer from Hour 19: real faith means sitting with these questions, honestly considering the possibility that the answer is no, and choosing to act anyway. Not because the doubts have been resolved, but because the mission — love God, love your neighbor, overcome our fears and vices — is worth carrying even in the presence of doubt.
 
 The questions don't go away. A faith that requires them to go away is fragile. A faith that carries them is the only kind that lasts.
 
