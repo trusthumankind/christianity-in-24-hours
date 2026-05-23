@@ -45,7 +45,7 @@ European colonial expansion from the 15th through the 20th centuries was consist
 
 The residential school systems in North America and Australia forcibly removed Indigenous children from their families to "civilize" them in Christian institutions. Languages were forbidden. Cultures were erased. Physical and sexual abuse was rampant. This happened not despite Christianity but in its name.
 
-The mission Jesus described in Luke 4:18 — "to proclaim good news to the poor... to set at liberty those who are oppressed" — was inverted into a tool of oppression. The people who needed liberation were the ones being conquered by the people claiming to bring it.
+The mission Jesus described in Luke 4:18 — "to proclaim good news to the poor... to set at liberty those who are oppressed" — was inverted into a tool of oppression.
 
 ## Slavery
 
