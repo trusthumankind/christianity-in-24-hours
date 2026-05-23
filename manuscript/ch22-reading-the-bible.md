@@ -6,7 +6,7 @@ A: With the story. The Bible tells one story across sixty-six books: humanity gr
 
 ## Commentary
 
-The Bible can feel overwhelming. Sixty-six books, roughly forty authors, approximately 1,500 years. Ancient languages, unfamiliar customs, contradictory-seeming passages. Churches treat it like a mystery that only trained interpreters can unlock. Seminaries offer multi-year degrees in understanding it.
+The Bible can feel overwhelming. Sixty-six books, roughly forty authors, approximately 1,500 years. Ancient languages, unfamiliar customs, passages that contradict each other. Churches treat it like a mystery that only trained interpreters can unlock. Seminaries offer multi-year degrees in understanding it.
 
 Ignore all of that. The Bible is readable. The core story is simple. And you already have the key.
 
