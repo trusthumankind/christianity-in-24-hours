@@ -2,7 +2,7 @@
 
 Q: If the mission is so clear, why has the church gotten it so wrong?
 
-A: Because the institution chose power over the mission — and it's been doing it for seventeen centuries.
+A: Because the institution was captured by empire seventeen centuries ago — and the church never recovered.
 
 ## Commentary
 
