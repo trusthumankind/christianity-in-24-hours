@@ -59,9 +59,9 @@ The Bible is a mirror. It reflects what you bring to it. That's why reading it h
 
 ## The pattern
 
-Every one of these failures has the same structure: the mission was traded for power.
+Every one of these failures has the same structure: the mission was bent to serve power.
 
-Constantine traded it for political control. The Crusaders traded it for territorial ambition. The colonizers traded it for economic exploitation. The slaveholders traded it for the preservation of wealth. In each case, the language of the mission was preserved — God, Jesus, salvation, love — while the substance was gutted.
+Constantine co-opted it for political control. The Crusaders weaponized it for territorial ambition. The colonizers exploited it for economic domination. The slaveholders twisted it to preserve their wealth. In each case, the language of the mission was preserved — God, Jesus, salvation, love — while the substance was gutted.
 
 Jesus anticipated this:
 
