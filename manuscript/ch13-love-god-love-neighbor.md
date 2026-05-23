@@ -8,7 +8,7 @@ A: Love God, love your neighbor. Everything else is commentary.
 
 Part II told the story. Part III asks what you do with it.
 
-The transition matters. Knowing the story — creation, fall, Law, prophets, Jesus, the early church — is not the same as living it. You can read every chapter, understand the framework, agree with the tenets, and still walk away unchanged. Knowledge without action is the older brother in the Prodigal Son parable: technically correct, spiritually empty.
+The transition matters. Knowing the story — creation, fall, Law, prophets, Jesus, the early church — is not the same as living it. You can read every chapter, understand the framework, agree with every principle, and still walk away unchanged. Knowledge without action is the older brother in the Prodigal Son parable: technically correct, spiritually empty.
 
 Part III is about the doing. And it starts with the simplest, hardest thing Jesus ever said.
 

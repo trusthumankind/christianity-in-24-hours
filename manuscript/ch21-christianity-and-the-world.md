@@ -55,7 +55,7 @@ The abolition movement was also Christian. William Wilberforce, Harriet Beecher 
 
 This matters: the Bible was not the problem. The problem was people reading it to confirm what they already wanted to believe. Slaveholders didn't discover slavery in the Bible — they found verses they could twist to bless what they'd already decided to do. The abolitionists read the same text and found a God who liberated slaves from Egypt, a Jesus who came to set captives free, and a mission built on the dignity of every human being.
 
-The Bible is a mirror. It reflects what you bring to it. That's why reading it honestly — with critical thinking, historical context, and intellectual humility (Tenet 5) — is not optional.
+The Bible is a mirror. It reflects what you bring to it. That's why reading it honestly — with critical thinking, historical context, and intellectual humility — is not optional.
 
 ## The pattern
 
