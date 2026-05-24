@@ -19,8 +19,7 @@ The New Testament introduces more language about resurrection and judgment, but 
 What *is* consistent across the entire Bible:
 
 1. **Death is not the final word.** Something comes after.
-2. **There is accountability.** How you lived matters.
-3. **The criterion is love.** Not doctrinal correctness, not religious performance — love enacted toward the vulnerable.
+2. **There is accountability.** How we live matters.
 
 ## The Sheep and the Goats
 
