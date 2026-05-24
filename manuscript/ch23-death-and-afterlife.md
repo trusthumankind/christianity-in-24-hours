@@ -102,13 +102,13 @@ The Christian hope is resurrection — the renewal of all things. The dead are r
 
 The endpoint is not escape from the physical world. It is the full redemption of it. God moves *in*, not away. The mission — love God, love your neighbor, extend that love to every corner of creation — reaches its fulfillment not in some ethereal afterlife but in a renewed creation where the mission is finally, fully accomplished.
 
-Death is real. Loss is real. But the story does not end with loss. It ends with restoration — and with the question of whether you participated in building what was restored.
+Death is real. Loss is real. But the story does not end with loss. It ends with restoration made possible through your direct participation.
 
 ## Questions to sit with
 
-* If judgment is measured by how you loved the vulnerable — not by what you believed about God — how does that change your sense of urgency about your daily life?
 * Think of someone you consider irredeemable. Now ask: does God agree with you? What would it mean if restoration were possible even for them?
 * If "goat" is a posture you can change rather than a category you're born into, what posture are you choosing today?
+* If restoration is not guaranteed, how does that change your sense of urgency about your daily life?
 
 [1]: https://www.esv.org/Psalm+115/
 [2]: https://www.esv.org/1+Corinthians+13/
