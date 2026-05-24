@@ -2,7 +2,7 @@
 
 Q: What happens when we die?
 
-A: The honest answer is that Christians disagree. But the Bible's consistent picture is that death is not the end of accountability — and the measure is not what you believed but how you loved.
+A: The honest answer is that Christians disagree. But the Bible's consistent picture is that death is not the end.
 
 ## Commentary
 
