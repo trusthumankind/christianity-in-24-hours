@@ -38,7 +38,7 @@ And the criterion that stings: "As you did it to one of the least of these my br
 
 The goats — those who are turned away — are not atheists or pagans or members of the wrong religion. They are people who saw need and did nothing. They had the opportunity to love and chose comfort instead.
 
-This is the mission in miniature. The judgment is not about what you believed. It is about whether you loved the person in front of you who needed love.
+This is the mission in miniature. The judgment is not about what you believed. It is about whether you loved the person in front of you who needed help.
 
 ## "Goat" is a posture, not an identity
 
