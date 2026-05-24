@@ -78,7 +78,7 @@ You will encounter passages that confuse you. Genealogies that seem pointless. L
 
 That's fine. Those are trees. The forest is the story: God created humanity with a mission. Humanity has been growing toward the capacity to carry it. Some have carried it faithfully. Many have failed. The story is still being written — by you, today, in how you live.
 
-When a passage doesn't make sense, set it aside and keep reading. The mission — love God, love your neighbor, overcome your fears and vices — is clear on every page that matters. Don't let a confusing tree convince you that the forest is impenetrable. It isn't. The story is simple. The living of it is what's hard.
+When a passage doesn't make sense, set it aside and keep reading. The mission — love God, love your neighbor, overcome your fears and vices — is clear on every page that matters. Don't let a confusing tree convince you that the forest is impenetrable. It isn't. The story is simple. Living the moral of that story is what's hard.
 
 ## Questions to sit with
 
