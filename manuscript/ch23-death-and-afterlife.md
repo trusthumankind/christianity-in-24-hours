@@ -6,9 +6,7 @@ A: The honest answer is that Christians disagree. But the Bible's consistent pic
 
 ## Commentary
 
-Every religion addresses death. Christianity is no exception. But the range of Christian belief about what happens after death is far wider than most people realize — and the loudest voices have not always been the most faithful to the text.
-
-What follows is not a definitive map of the afterlife. It is an honest reading of what the Bible says, what it doesn't say, and what the "humanity growing up" arc implies about death, judgment, and what comes after.
+Every religion addresses death. Christianity is no exception. What follows is not a definitive map of the afterlife. It is an honest reading of what the Bible says, what it doesn't say, and what "humanity growing up" implies about death, judgment, and what comes after.
 
 ## What the Bible actually says
 
