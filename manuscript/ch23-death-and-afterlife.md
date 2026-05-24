@@ -2,13 +2,11 @@
 
 Q: What happens when we die?
 
-A: The honest answer is that Christians disagree. But the Bible's consistent picture is that death is not the end of accountability — and the measure is not what you believed but how you loved.
+A: The honest answer is that Christians disagree. But the Bible's consistent picture is that death is not the end.
 
 ## Commentary
 
-Every religion addresses death. Christianity is no exception. But the range of Christian belief about what happens after death is far wider than most people realize — and the loudest voices have not always been the most faithful to the text.
-
-What follows is not a definitive map of the afterlife. It is an honest reading of what the Bible says, what it doesn't say, and what the "humanity growing up" arc implies about death, judgment, and what comes after.
+Every religion addresses death. Christianity is no exception. What follows is not a definitive map of the afterlife. It is an honest reading of what the Bible says, what it doesn't say, and what "humanity growing up" implies about death, judgment, and what comes after.
 
 ## What the Bible actually says
 
@@ -21,8 +19,7 @@ The New Testament introduces more language about resurrection and judgment, but 
 What *is* consistent across the entire Bible:
 
 1. **Death is not the final word.** Something comes after.
-2. **There is accountability.** How you lived matters.
-3. **The criterion is love.** Not doctrinal correctness, not religious performance — love enacted toward the vulnerable.
+2. **There is accountability.** How we live matters.
 
 ## The Sheep and the Goats
 
@@ -40,7 +37,7 @@ And the criterion that stings: "As you did it to one of the least of these my br
 
 The goats — those who are turned away — are not atheists or pagans or members of the wrong religion. They are people who saw need and did nothing. They had the opportunity to love and chose comfort instead.
 
-This is the mission in miniature. The judgment is not about what you believed. It is about whether you loved the person in front of you who needed love.
+This is the mission in miniature. The judgment is not about what you believed. It is about whether you loved the person in front of you who needed help.
 
 ## "Goat" is a posture, not an identity
 
@@ -105,13 +102,13 @@ The Christian hope is resurrection — the renewal of all things. The dead are r
 
 The endpoint is not escape from the physical world. It is the full redemption of it. God moves *in*, not away. The mission — love God, love your neighbor, extend that love to every corner of creation — reaches its fulfillment not in some ethereal afterlife but in a renewed creation where the mission is finally, fully accomplished.
 
-Death is real. Loss is real. But the story does not end with loss. It ends with restoration — and with the question of whether you participated in building what was restored.
+Death is real. Loss is real. But the story does not end with loss. It ends with restoration made possible through your direct participation.
 
 ## Questions to sit with
 
-* If judgment is measured by how you loved the vulnerable — not by what you believed about God — how does that change your sense of urgency about your daily life?
 * Think of someone you consider irredeemable. Now ask: does God agree with you? What would it mean if restoration were possible even for them?
 * If "goat" is a posture you can change rather than a category you're born into, what posture are you choosing today?
+* If restoration is not guaranteed, how does that change your sense of urgency about your daily life?
 
 [1]: https://www.esv.org/Psalm+115/
 [2]: https://www.esv.org/1+Corinthians+13/
