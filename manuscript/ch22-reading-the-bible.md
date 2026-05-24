@@ -6,7 +6,7 @@ A: With the story. The Bible tells one story across sixty-six books: humanity gr
 
 ## Commentary
 
-The Bible can feel overwhelming. Sixty-six books, roughly forty authors, approximately 1,500 years. Ancient languages, unfamiliar customs, contradictory-seeming passages. Churches treat it like a mystery that only trained interpreters can unlock. Seminaries offer multi-year degrees in understanding it.
+The Bible can feel overwhelming. Sixty-six books, roughly forty authors, approximately 1,500 years. Ancient languages, unfamiliar customs, passages that contradict each other. Churches treat it like a mystery that only trained interpreters can unlock. Seminaries offer multi-year degrees in understanding it.
 
 Ignore all of that. The Bible is readable. The core story is simple. And you already have the key.
 
@@ -53,7 +53,7 @@ You already know how to do this. You don't read a poem the way you read a news a
 
 The most common misreading comes from treating one genre as another. Proverbs offers observations about life, not guarantees. "Train up a child in the way he should go" ([Proverbs 22:6][1]) is a general principle, not a contract with God. When the psalmist writes "the Lord is my shepherd" ([Psalm 23:1][2]), no one takes that literally. Apply the same instinct to the rest.
 
-The genre that causes the most confusion is apocalyptic — the symbolic, visionary writing found in Daniel and Revelation. It needs its own section.
+The genre that causes the most confusion is **apocalyptic** — the symbolic, visionary writing found in Daniel and Revelation. This genre needs its own section.
 
 ## Revelation: the most misread book
 
@@ -78,7 +78,7 @@ You will encounter passages that confuse you. Genealogies that seem pointless. L
 
 That's fine. Those are trees. The forest is the story: God created humanity with a mission. Humanity has been growing toward the capacity to carry it. Some have carried it faithfully. Many have failed. The story is still being written — by you, today, in how you live.
 
-When a passage doesn't make sense, set it aside and keep reading. The mission — love God, love your neighbor, overcome your fears and vices — is clear on every page that matters. Don't let a confusing tree convince you that the forest is impenetrable. It isn't. The story is simple. The living of it is what's hard.
+When a passage doesn't make sense, set it aside and keep reading. The mission — love God, love your neighbor, overcome your fears and vices — is clear on every page that matters. Don't let a confusing tree convince you that the forest is impenetrable. It isn't. The story is simple. Living the moral of that story is what's hard.
 
 ## Questions to sit with
 
