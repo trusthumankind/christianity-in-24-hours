@@ -19,11 +19,17 @@ And you don't need the institution to carry the mission.
 
 For most of Christian history, access to Scripture required a priest, literacy required privilege, and the mission was filtered through gatekeepers who shaped it to serve themselves. That era is over. You can read the story yourself. You can see where the institution deviated from it. And you can carry the mission without repeating those mistakes — not because you're better, but because you've inherited the hard lessons of everyone who came before you.
 
-The numbers bear this out. In 1800, roughly twelve percent of the world's population could read. Today it is over eighty-six percent. More than five billion people have access to the internet — instantaneous connection to information, to each other, to the full text of Scripture in hundreds of languages. More humans have completed formal education than at any point in history. This is not triumphalism — the world is full of suffering, injustice, and willful ignorance. But the *capacity* to carry the mission — the literacy, the access, the connectivity — has never been greater. The gatekeepers have never had less power. The individual has never had more.
+The numbers bear this out. In 1800, roughly twelve percent of the world's population could read. Today it is over eighty-six percent. More than five billion people have access to the internet — instantaneous connection to information, to each other, to the full text of Scripture in hundreds of languages. More humans have completed formal education than at any point in history. 
 
-That is why there is more reason for hope now than at any point in this story. Not because the world is fixed — it isn't. But because you have more clarity, more access, and more honest reckoning with failure than any previous generation of people who tried to carry this mission. Hard questions remain unanswered. The Bible tells one story — humanity growing up — and you're in it. But you're in it with open eyes.
+And the world is _still_ full of suffering, injustice, and willful ignorance.
 
-Everything has been building to this hour. Not to a conclusion — to a decision.
+But the *capacity* to carry the mission — the literacy, the access, the connectivity — has never been greater.
+- The gatekeepers have never had less power.
+- The individual has never had more.
+
+That is why there is more reason for hope now than at any point in our story. Not because the world is fixed — it isn't. But because you have more clarity, more access, and more honest reckoning with failure than any previous generation of people who tried to carry this mission. The Bible tells one story — humanity growing up — and you're in it with open eyes.
+
+Everything has been building to this hour. Not to a conclusion, but to a decision.
 
 ## What growing up looks like
 
