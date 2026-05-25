@@ -6,7 +6,7 @@ A: You decide. That was always the point.
 
 ## Commentary
 
-Hour 1 opened with a question: why did God create humanity? The answer: to prove we can get this right. Twenty-three hours later, the question returns — but now it's personal. Not whether humanity can get it right. Whether *you* will.
+Hour 1 opened with a question: why did God create humanity? The answer: to prove we can get this right. Twenty-three hours later, the question returns. And now it's personal: not whether humanity can get it right, but whether *you* will. 
 
 You've been through the full arc. God creates. Humanity stumbles. The Law provides guardrails. The prophets redirect. Jesus lives the mission without faltering. The early church carries it forward, imperfectly. The institution corrupts it — trading the mission for power, comfort, and control.
 
