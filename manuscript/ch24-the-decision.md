@@ -12,7 +12,12 @@ You've been through the full arc. God creates. Humanity stumbles. The Law provid
 
 But here is what's different now: you can see it. You can see the corruption clearly because humanity has grown enough to name it. The Crusades, the forced assimilation, the prosperity gospel, the political co-option — these are visible to you in a way they were not visible to the people living inside them. That clarity is itself evidence of the maturation. Humanity has grown up enough to diagnose its own failures.
 
-And you don't need the institution to carry the mission. You have the text. You have the example. You have the two commandments. For most of Christian history, access to Scripture required a priest, literacy required privilege, and the mission was filtered through gatekeepers who shaped it to serve themselves. That era is over. You can read the story yourself. You can see where the institution deviated from it. And you can carry the mission without repeating those mistakes — not because you're better, but because you've inherited the hard lessons of everyone who came before you.
+And you don't need the institution to carry the mission.
+- You have the text.
+- You have the example.
+- You have the two great commandments.
+
+For most of Christian history, access to Scripture required a priest, literacy required privilege, and the mission was filtered through gatekeepers who shaped it to serve themselves. That era is over. You can read the story yourself. You can see where the institution deviated from it. And you can carry the mission without repeating those mistakes — not because you're better, but because you've inherited the hard lessons of everyone who came before you.
 
 The numbers bear this out. In 1800, roughly twelve percent of the world's population could read. Today it is over eighty-six percent. More than five billion people have access to the internet — instantaneous connection to information, to each other, to the full text of Scripture in hundreds of languages. More humans have completed formal education than at any point in history. This is not triumphalism — the world is full of suffering, injustice, and willful ignorance. But the *capacity* to carry the mission — the literacy, the access, the connectivity — has never been greater. The gatekeepers have never had less power. The individual has never had more.
 
