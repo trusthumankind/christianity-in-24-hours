@@ -22,7 +22,7 @@ That framing turns God into a threat and Jesus into a shield. It makes the entir
 
 So what are you actually saved from?
 
-Immediately, you are saved from nothing, aside from some personal anxiety. But the eventual salvation at stake would save you from regret, guilt, and the weight of countless "why's" and "what-if's".
+Immediately, you are saved from nothing, aside from a measure of personal anxiety. But the eventual salvation at stake would save you from regret, guilt, and the weight of countless "why's" and "what-if's".
 
 ## Earning salvation
 
