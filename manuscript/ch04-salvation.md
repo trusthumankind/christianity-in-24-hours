@@ -104,7 +104,7 @@ You will be saved by faith, lived out in community. The rest of Part I is about 
 ## Questions to sit with
 
 * If salvation is not a one-time event but a long-term goal, how does that change your sense of urgency about how you live today?
-* What would you want to hear after your worst failure? Is it punishment? Or encouragement to try again and keep going?
+* After Peter renounced him, Jesus responded, "Do you love me? Then keep going." What would you want to hear after your worst failure?
 * What is choking the seed in your life right now — comfort, fear, busyness, cynicism? Name it honestly.
 
 [1]: https://www.esv.org/2+Corinthians+5/
