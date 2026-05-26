@@ -9,7 +9,12 @@
   -->
 
   <!-- Background: deep charcoal across entire wrap -->
-  <rect width="3780" height="2775" fill="#1a1a1a"/>
+  <rect width="3784" height="2775" fill="#1a1a1a"/>
+
+  <!-- Gold accent stripe across full wrap — top -->
+  <rect x="0" y="0" width="3784" height="12" fill="#c49a3c"/>
+  <!-- Gold accent stripe across full wrap — bottom -->
+  <rect x="0" y="2763" width="3784" height="12" fill="#c49a3c"/>
 
   <!-- ═══ BACK COVER (left side, ~38 to ~1838) ═══ -->
 
@@ -78,9 +83,6 @@
 
   <!-- ═══ FRONT COVER (right side, ~1980 to ~3780) ═══ -->
 
-  <!-- Gold accent stripe at top of front cover -->
-  <rect x="1980" y="0" width="1804" height="12" fill="#c49a3c"/>
-
   <!-- Large ghosted "24" -->
   <text x="2880" y="1700" text-anchor="middle" font-family="Georgia, 'Times New Roman', serif" font-size="1100" font-weight="bold" fill="#222222">24</text>
 
@@ -98,9 +100,6 @@
 
   <!-- Tagline -->
   <text x="2880" y="1270" text-anchor="middle" font-family="Georgia, 'Times New Roman', serif" font-size="48" fill="#999999" letter-spacing="6" font-style="italic">One story. One decision.</text>
-
-  <!-- Gold accent stripe at bottom of front cover -->
-  <rect x="1980" y="2763" width="1804" height="12" fill="#c49a3c"/>
 
   <!-- Authors -->
   <text x="2880" y="2680" text-anchor="middle" font-family="Georgia, 'Times New Roman', serif" font-size="48" fill="#c49a3c" letter-spacing="8">Marty Chang &amp; Coraline Chang</text>
