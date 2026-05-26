@@ -45,20 +45,20 @@ And in proving it, he gave us something no amount of Law or prophets ever could:
 
 ## Grace: the door stays open
 
-You will fail. That is not a prediction — it is a certainty. You will choose self over mission tomorrow, and the day after, and the day after that. Not every time. But often enough that perfection is not the standard.
+You will fail. That is not a prediction — it is a certainty. You will choose self over mission tomorrow, and the day after, and the day after that. Not every time, but often enough that perfection is an impossible.
 
-Grace is the fact that your failures do not disqualify you.
+Grace is the loving encouragement to rise and continue after every stumble.
 
 > But God shows his love for us in that while we were still sinners, Christ died for us.
 — [Romans 5:8 ESV][4]
 
-Read that carefully. Not "after we cleaned ourselves up." Not "once we proved we were worthy." *While we were still sinners.* The door to the mission was opened before anyone earned it — because earning it was never the point.
+Read that carefully. Not "after we cleaned ourselves up." Not "once we proved we were worthy." *While we were still sinners.* The door to the mission was opened before anyone reached perfection — because perfection was never the point.
 
-Grace is not permission to keep failing. It is the assurance that the mission doesn't reject you for having failed. You fell off the path. You can get back on. That option does not expire.
+Grace is not permission to keep failing. It is the assurance that the mission — the team — still wants you and needs you even when you falter. You'll fall off the path, and you can get back on. There is always an on-ramp for you just ahead.
 
-Peter denied Jesus three times the night before the crucifixion — after swearing he never would ([Luke 22:54-62][5]). After the resurrection, Jesus found Peter and asked him one question, three times: "Do you love me?" Three chances to reverse three denials. No lecture. No punishment. No probationary period. Just: do you love me? Then feed my sheep ([John 21:15-17][6]).
+Peter denied Jesus three times the night before the crucifixion — after swearing he never would ([Luke 22:54-62][5]). After the resurrection, Jesus found Peter and asked him one question, three times: "Do you love me?" Three chances to reverse three denials. No lecture. No punishment. No probationary period. Just: do you love me? Yes? Then feed my sheep ([John 21:15-17][6]).
 
-That is grace. Not the absence of accountability — Peter had to face what he did. But the refusal to let failure be the final word.
+That is grace. Not the absence of accountability — Peter had to face what he did. But Jesus refused to let failure be the final word.
 
 ## The Parable of the Sower
 
