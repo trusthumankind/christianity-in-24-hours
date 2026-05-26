@@ -11,11 +11,6 @@
   <!-- Background: deep charcoal across entire wrap -->
   <rect width="3784" height="2775" fill="#1a1a1a"/>
 
-  <!-- Gold accent stripe across full wrap — top -->
-  <rect x="0" y="0" width="3784" height="12" fill="#c49a3c"/>
-  <!-- Gold accent stripe across full wrap — bottom -->
-  <rect x="0" y="2763" width="3784" height="12" fill="#c49a3c"/>
-
   <!-- ═══ BACK COVER (left side, ~38 to ~1838) ═══ -->
 
   <!-- Back cover blurb -->
@@ -103,4 +98,8 @@
 
   <!-- Authors -->
   <text x="2880" y="2680" text-anchor="middle" font-family="Georgia, 'Times New Roman', serif" font-size="48" fill="#c49a3c" letter-spacing="8">Marty Chang &amp; Coraline Chang</text>
+
+  <!-- Gold accent stripes across full wrap (rendered last to paint over spine background) -->
+  <rect x="0" y="0" width="3784" height="12" fill="#c49a3c"/>
+  <rect x="0" y="2763" width="3784" height="12" fill="#c49a3c"/>
 </svg>
