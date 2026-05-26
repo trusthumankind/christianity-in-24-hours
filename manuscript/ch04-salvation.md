@@ -24,17 +24,6 @@ So what are you actually saved from?
 
 Immediately, you are saved from nothing, aside from a measure of personal anxiety. But the eventual salvation at stake would save you from regret, guilt, and the weight of countless "why's" and "what-if's".
 
-## Earning salvation
-
-You are saved from the pattern. The pattern of choosing self. The cycle of rationalization, indifference, and slow spiritual decay that Hour 3 described. Left alone, the tendency toward self wins. It always wins. You rationalize one compromise, then another, until you can no longer see the gap between who you are and who you were meant to be.
-
-Salvation is rescue from that trajectory — not by an external force overriding your choices, but by a model, a community, and a daily practice that keeps pulling you back toward the mission.
-
-> Therefore, if anyone is in Christ, he is a new creation. The old has passed away; behold, the new has come.
-— [2 Corinthians 5:17 ESV][1]
-
-Paul is not describing a legal status change. He is describing a reorientation so fundamental that it constitutes a new life. The "old" that passes away is the pattern — the default of self-over-others. The "new" that comes is the direction — mission over self, chosen daily.
-
 ## Jesus and the gap
 
 Hour 3 established that every person falls short. The standard is love God, love your neighbor — and nobody sustains it. That gap between what we are and what the mission requires is real.
