@@ -45,7 +45,7 @@ And in proving it, he gave us something no amount of Law or prophets ever could:
 
 ## Grace: the door stays open
 
-You will fail. That is not a prediction — it is a certainty. You will choose self over mission tomorrow, and the day after, and the day after that. Not every time, but often enough that perfection is an impossible.
+You will fail. That is not a prediction — it is a certainty. You will choose self over mission tomorrow, and the day after, and the day after that. Not every time, but often enough that perfection is impossible.
 
 Grace is the loving encouragement to rise and continue after every stumble.
 
