@@ -1,0 +1,53 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1800 2775" width="1800" height="2775">
+  <!-- Back cover only — center-aligned version -->
+  <rect width="1800" height="2775" fill="#1a1a1a"/>
+
+  <!-- All text center-aligned -->
+
+  <!-- Hook -->
+  <text text-anchor="middle" font-family="Georgia, 'Times New Roman', serif" font-size="52" font-weight="bold" fill="#ffffff" letter-spacing="1">
+    <tspan x="900" y="440">The church had two thousand years</tspan>
+    <tspan x="900" dy="68">to carry the mission Jesus started.</tspan>
+  </text>
+
+  <text x="900" y="660" text-anchor="middle" font-family="Georgia, 'Times New Roman', serif" font-size="44" fill="#c49a3c" font-style="italic">It chose power instead.</text>
+
+  <!-- Body -->
+  <text text-anchor="middle" font-family="Georgia, 'Times New Roman', serif" font-size="36" fill="#bbbbbb" letter-spacing="1">
+    <tspan x="900" y="790">But the mission didn't die. It's been waiting —</tspan>
+    <tspan x="900" dy="52">for a generation with enough clarity to see</tspan>
+    <tspan x="900" dy="52">what went wrong, enough honesty to name it,</tspan>
+    <tspan x="900" dy="52">and enough courage to try again.</tspan>
+  </text>
+
+  <text text-anchor="middle" font-family="Georgia, 'Times New Roman', serif" font-size="36" fill="#bbbbbb">
+    <tspan x="900" y="1070">This book strips Christianity to its core:</tspan>
+    <tspan x="900" dy="52">one story, two commandments, and a decision</tspan>
+    <tspan x="900" dy="52">that no one else can make for you.</tspan>
+  </text>
+
+  <!-- Divider -->
+  <line x1="600" y1="1260" x2="1200" y2="1260" stroke="#444444" stroke-width="1"/>
+
+  <!-- Key questions -->
+  <text text-anchor="middle" font-family="Georgia, 'Times New Roman', serif" font-size="33" fill="#999999" font-style="italic">
+    <tspan x="900" y="1340">What if the Bible tells one story —</tspan>
+    <tspan x="900" dy="48">humanity growing up?</tspan>
+    <tspan x="900" dy="72">What if salvation isn't a prayer you say</tspan>
+    <tspan x="900" dy="48">but a mission you carry?</tspan>
+    <tspan x="900" dy="72">What if the victory conditions are measurable —</tspan>
+    <tspan x="900" dy="48">and achievable?</tspan>
+  </text>
+
+  <!-- Closer — with line break -->
+  <text x="900" y="1820" text-anchor="middle" font-family="Georgia, 'Times New Roman', serif" font-size="34" fill="#c49a3c" letter-spacing="2">Twenty-four hours.</text>
+  <text x="900" y="1866" text-anchor="middle" font-family="Georgia, 'Times New Roman', serif" font-size="34" fill="#c49a3c" letter-spacing="2">Everything you need to decide for yourself.</text>
+
+  <!-- Open source note -->
+  <text x="900" y="1980" text-anchor="middle" font-family="Georgia, 'Times New Roman', serif" font-size="28" fill="#777777" font-style="italic">The full text is available free at</text>
+  <text x="900" y="2020" text-anchor="middle" font-family="Georgia, 'Times New Roman', serif" font-size="28" fill="#777777" font-style="italic">christianity.trusthumankind.org</text>
+
+  <!-- ISBN barcode placeholder -->
+  <rect x="1200" y="2300" width="400" height="260" fill="#ffffff" rx="4"/>
+  <text x="1400" y="2445" text-anchor="middle" font-family="monospace" font-size="24" fill="#333333">ISBN BARCODE</text>
+</svg>
