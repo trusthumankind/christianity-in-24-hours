@@ -110,13 +110,13 @@ You have the example: Jesus lived it. Not as God overriding the test, but as a h
 
 You have the tools: prayer for honesty, community for accountability, giving for generosity, forgiveness for freedom, Scripture for orientation. Not magic. Disciplines. The practices that build the capacity to do what the mission demands.
 
-You have the honest reckoning: the church has failed repeatedly. The Bible has been misused. Hard questions remain unanswered. Doubt is permanent. None of that invalidates the mission. It means carrying it requires more courage than the institution ever told you — and more honesty than most Sunday sermons will give you.
+You have the honest reckoning: the church has failed repeatedly. The Bible has been misused. Questions remain unanswered. Doubt is permanent. None of that invalidates the mission. It means carrying it requires more courage than the institution ever told you — and more honesty than most Sunday sermons will give you.
 
 You have the victory conditions: one country, one currency, food and housing for every human being, education without gatekeepers. Measurable. Achievable. The logical conclusions of "love your neighbor as yourself" — extended across generations until the mission is complete.
 
 And you have a choice. The same choice that has defined every chapter of this story: will you carry the mission or walk away?
 
-No one can make this choice for you. Not a pastor, not a parent, not a book. The decision is yours — and it is yours every single day. Not once, at an altar call. Not once, in a prayer. Every morning. Every interaction. Every moment you choose love over indifference, courage over comfort, the mission over yourself.
+No one can make this choice for you. Not a pastor, not a parent, not a book. The decision is yours — and it is yours every single day. Not once, at an altar call. Not once, in a prayer. Every morning. Every interaction. Every moment you choose love over indifference, courage over comfort, mission over self-interest.
 
 > "I call heaven and earth to witness against you today, that I have set before you life and death, blessing and curse. Therefore choose life."
 — [Deuteronomy 30:19 ESV][1]
