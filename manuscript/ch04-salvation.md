@@ -26,17 +26,17 @@ Immediately, you are saved from nothing, aside from a measure of personal anxiet
 
 ## Jesus and the gap
 
-Hour 3 established that every person falls short. The standard is love God, love your neighbor — and nobody sustains it. That gap between what we are and what the mission requires is real.
+Hour 3 established that every person falls short from the standard: to love God, and to love your neighbor. Who can reach such an enormously high bar?
 
-Jesus bridges that gap. But not the way most churches explain it.
+Thankfully, Jesus bridges that gap. But not the way most churches explain it.
 
-The traditional framing says Jesus took the punishment for your sins — that God's justice demanded blood, and Jesus paid the price so you wouldn't have to. This is substitutionary atonement, and it has dominated Western Christianity for centuries. But it makes God a creditor and the cross a transaction. A God who demands a chosen prophet's torture and death to satisfy self-imposed rules is not a God of love. That is a God of accounting.
+The traditional framing says Jesus took the punishment for your sins — that God's justice demanded blood, and Jesus paid the price so you wouldn't have to. This is substitutionary atonement, and it has dominated Western Christianity for centuries. But substitutionary atonement makes God a creditor and the cross a transaction. A God who demands a chosen prophet's torture and death to satisfy self-imposed rules is not a God of love. That is a God of accounting.
 
-Here is what Jesus actually did: he lived the mission without faltering. That's it. That's everything.
+Here is what Jesus actually did: he lived the mission without faltering. That's all. And that's everything.
 
-One human being — blessed by God, yes, but human — faced every temptation, every pressure, every opportunity to choose self over others, and chose the mission every time. All the way to the cross. He didn't want to die. He asked God to take the cup from him ([Luke 22:42][2]). The test was real. He chose the mission anyway.
+Jesus was blessed by God, but he was still very human. And as a human being, he faced every temptation, every pressure, every opportunity to choose self over others. Yet he chose the mission every time, all the way to the cross. He didn't want to die. He asked God to take the cup from him ([Luke 22:42][2]). The test was real. The pain was immeasurable. And Jesus chose the mission anyway.
 
-That is the bridge. Not a cosmic debt payment. A proof of concept. The gap between human failure and God's standard is crossable — because one person crossed it. Jesus proved it can be done.
+That is the bridge. Not a cosmic debt payment, but a proof of concept. The gap between human failure and God's standard is _can_ be crossed, because Jesus proved it can be done.
 
 And in proving it, he gave us something no amount of Law or prophets ever could: a living example of what faithfulness looks like when the cost is everything. The Law told you what to do. Jesus showed you what it looks like.
 
