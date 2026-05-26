@@ -37,11 +37,13 @@ The maturation metaphor has run through every hour. The Law was childhood rules.
 
 So what does spiritual maturity actually look like? Not what the church usually measures — attendance, tithing records, committee participation, years of membership. Those are metrics for an institution. Spiritual maturity is measured differently.
 
-**You choose love when it costs you.** Not the easy love, but the love for people you'd rather not acknowledge (Hour 13): the neighbor whose politics enrage you, the family member who betrayed your trust, or the stranger who needs something you'd rather keep. Spiritual maturity is the gap narrowing between how you love yourself and how you love the person in front of you.
+**You choose love even when it hurts.** Not the easy love, but the love for people you'd rather not acknowledge (Hour 13): the neighbor whose politics enrage you, the family member who betrayed your trust, or the stranger who needs something you'd rather keep. Spiritual maturity is narrowing the gap between how you love yourself and how you love the person in front of you.
 
 **You tell the truth — especially to yourself.** Prayer (Hour 14) is the practice of honesty. Spiritual maturity means you've stopped performing for an audience — including the audience in your own head. You know where you fall short. You name it without deflecting. You don't confuse self-image with reality.
 
 **You stay when it's easier to leave.** Community (Hour 15) is messy. People disappoint you. Leaders fail. Friends betray. Spiritual maturity doesn't mean you tolerate abuse — forgiveness and reconciliation are not the same thing (Hour 18). It means you continue carrying the mission even when the people carrying it with you are imperfect.
+
+**You give until you notice.** Giving (Hour 16) that costs nothing changes nothing. Spiritual maturity is minimizing your wants to meet your neighbor's needs through what you give with open hands. Not a percentage, but a posture.
 
 **You sit with suffering without reaching for a platitude.** When someone is hurting, you don't say "God has a plan" (Hour 17). You sit with them. You do the practical work. You resist the urge to explain what can't be explained — and you keep carrying the mission through the pain.
 
