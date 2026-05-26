@@ -107,7 +107,6 @@ You will be saved by faith, lived out in community. The rest of Part I is about 
 * After Peter denied him, Jesus responded, "Do you love me? Then keep going." What would you want to hear after your worst failure?
 * What is choking the seed in your life right now — comfort, fear, busyness, cynicism? Name it honestly.
 
-[1]: https://www.esv.org/2+Corinthians+5/
 [2]: https://www.esv.org/Luke+22/
 [3]: https://www.esv.org/Hebrews+4/
 [4]: https://www.esv.org/Romans+5/
