@@ -28,7 +28,7 @@ Immediately, you are saved from nothing, aside from a measure of personal anxiet
 
 Hour 3 established that every person falls short of the standard: to love God, and to love your neighbor. Who can reach such an enormously high bar?
 
-Thankfully, Jesus bridges that gap. But not the way most churches explain it.
+Jesus did, and he bridged that gap for the rest of us. But not how it's explained by most denominations.
 
 The traditional framing says Jesus took the punishment for your sins — that God's justice demanded blood, and Jesus paid the price so you wouldn't have to. This is substitutionary atonement, and it has dominated Western Christianity for centuries. But substitutionary atonement makes God a creditor and the cross a transaction. A God who demands a chosen prophet's torture and death to satisfy self-imposed rules is not a God of love. That is a God of accounting.
 
