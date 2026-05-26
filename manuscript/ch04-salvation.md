@@ -26,7 +26,7 @@ Immediately, you are saved from nothing, aside from a measure of personal anxiet
 
 ## Jesus and the gap
 
-Hour 3 established that every person falls short from the standard: to love God, and to love your neighbor. Who can reach such an enormously high bar?
+Hour 3 established that every person falls short of the standard: to love God, and to love your neighbor. Who can reach such an enormously high bar?
 
 Thankfully, Jesus bridges that gap. But not the way most churches explain it.
 
