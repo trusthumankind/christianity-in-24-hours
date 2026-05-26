@@ -78,16 +78,16 @@ The parable is a diagnostic tool, not a verdict.
 
 ## Saved by faith
 
-So how does this work? If salvation is ongoing reorientation, what keeps you oriented?
+So how does this work? If salvation comes from commpleting a mission that requires ongoing reorientation, what keeps you oriented?
 
 Faith.
 
-Not belief — not intellectual agreement that God exists. Faith is the active, daily choice to keep walking toward the mission even when the evidence seems against it, even when it costs you, even when you've failed seventeen times already and the eighteenth attempt feels pointless.
+Not belief — not intellectual agreement that God exists. Faith is the active, daily choice to carry the mission even when skepticism is rampant, even when the mission costs you, even when you've failed seventeen times already and the eighteenth attempt feels pointless.
 
 > For by grace you have been saved through faith. And this is not your own doing; it is the gift of God, not a result of works, so that no one may boast. For we are his workmanship, created in Christ Jesus for good works, which God prepared beforehand, that we should walk in them.
 — [Ephesians 2:8-10 ESV][8]
 
-Grace opens the door. Faith is walking through it — not once, but every day. And notice Paul's words: "this is not your own doing" — and "we are his workmanship." You were made for this. The mission is not an obligation imposed from outside. It is the reason you exist. The next chapter unpacks what that looks like in practice.
+Grace opens the door. Faith is walking through it — not once, but every day. And notice Paul's words: "this is not your own doing" and "we are his workmanship." You were made for this mission, powered by faith.
 
 ## Not alone
 
@@ -97,9 +97,9 @@ Salvation is not a solo project. You are not meant to white-knuckle your way tow
 
 You will need people who see you honestly and love you anyway. People who call you back when you drift. People who carry the weight with you on the days you can't carry it yourself. That is what the church was supposed to be — not a building, not an institution, but a group of people committed to reorienting each other toward the mission.
 
-And if the mission is to carry humanity forward — all of it, not a saved remnant — then crossing the finish line alone is not victory. It is failure with good personal stats. The test described in Hour 1 is not whether *you* can get this right. It is whether *we* can.
+And if the mission is to take humanity forward — all of us, not a saved remnant — then crossing the finish line alone is not victory. It is failure with good personal stats. The test described in Hour 1 is not whether *you* can get this right. It is whether *we* can.
 
-You will be saved by faith. But faith is not lived in isolation. The rest of Part I is about what that looks like.
+You will be saved by faith, lived out in community. The rest of Part I is about what that looks like.
 
 ## Questions to sit with
 
