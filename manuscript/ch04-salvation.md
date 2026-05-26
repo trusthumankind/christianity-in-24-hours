@@ -10,7 +10,7 @@ The last chapter was blunt: every human being chooses self over the mission. Rep
 
 So where does that leave us? If the test is real and everyone fails, is salvation a disingenuous promise?
 
-No. The test was never pass/fail on the first attempt. And the test may not be over on your _personal_ last attempt. Salvation is the reward we stand to gain, through learning to reorient each other toward the mission every time someone drifts. And if you expire before the mission is complete, trust that someone else will pick up the baton and advance toward the finish line.
+No. The test was never pass/fail on the first attempt. And the test may not be over on your _personal_ last attempt. Salvation is the reward we stand to gain _together_, reorienting each other toward the mission every time someone drifts. And if you expire before the mission is complete, trust that someone else will pick up the baton and advance toward the finish line.
 
 ## What salvation means
 
