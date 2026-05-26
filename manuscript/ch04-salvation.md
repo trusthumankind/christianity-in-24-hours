@@ -36,7 +36,7 @@ Here is what Jesus actually did: he lived the mission without faltering. That's 
 
 Jesus was blessed by God, but he was still very human. And as a human being, he faced every temptation, every pressure, every opportunity to choose self over others. Yet he chose the mission every time, all the way to the cross. He didn't want to die. He asked God to take the cup from him ([Luke 22:42][2]). The test was real. The pain was immeasurable. And Jesus chose the mission anyway.
 
-That is the bridge. Not a cosmic debt payment, but a proof of concept. The gap between human failure and God's standard is _can_ be crossed, because Jesus proved it can be done.
+That is the bridge. Not a cosmic debt payment, but a proof of concept. The gap between human failure and God's standard _can_ be crossed, because Jesus proved it can be done.
 
 And in proving it, he gave us something no amount of Law or prophets ever could: a living example of what faithfulness looks like when the cost is everything. The Law told you what to do. Jesus showed you what it looks like.
 
