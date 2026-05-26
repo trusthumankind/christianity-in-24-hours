@@ -6,7 +6,7 @@ A: Yes, either _all_ of us are saved or _none_ of us.
 
 ## Commentary
 
-The last chapter was blunt: every human being chooses self over the mission. Repeatedly. Reliably. The tendency is real, the data is in, and no honest person can exempt themselves.
+The last chapter was blunt: every human being chooses self over the mission. Repeatedly. Reliably. The tendency is real, the data is in.
 
 So where does that leave us? If the test is real and everyone fails — is salvation a disingenuous promise?
 
