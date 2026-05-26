@@ -78,7 +78,7 @@ The parable is a diagnostic tool, not a verdict.
 
 ## Saved by faith
 
-So how does this work? If salvation comes from commpleting a mission that requires ongoing reorientation, what keeps you oriented?
+So how does this work? If salvation comes from completing a mission that requires ongoing reorientation, what keeps you oriented?
 
 Faith.
 
