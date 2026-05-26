@@ -37,19 +37,17 @@ The maturation metaphor has run through every hour. The Law was childhood rules.
 
 So what does spiritual maturity actually look like? Not what the church usually measures — attendance, tithing records, committee participation, years of membership. Those are metrics for an institution. Spiritual maturity is measured differently.
 
-**You choose love when it costs you.** Not the easy love — the love for people you'd rather not acknowledge (Hour 13). The neighbor whose politics enrage you. The family member who betrayed your trust. The stranger who needs something you'd rather keep. Spiritual maturity is the gap narrowing between how you love yourself and how you love the person in front of you.
+**You choose love when it costs you.** Not the easy love, but the love for people you'd rather not acknowledge (Hour 13): the neighbor whose politics enrage you, the family member who betrayed your trust, or the stranger who needs something you'd rather keep. Spiritual maturity is the gap narrowing between how you love yourself and how you love the person in front of you.
 
 **You tell the truth — especially to yourself.** Prayer (Hour 14) is the practice of honesty. Spiritual maturity means you've stopped performing for an audience — including the audience in your own head. You know where you fall short. You name it without deflecting. You don't confuse self-image with reality.
 
-**You stay when it's easier to leave.** Community (Hour 15) is messy. People disappoint you. Leaders fail. Friends betray. Spiritual maturity doesn't mean you tolerate abuse — forgiveness and reconciliation are not the same thing (Hour 18). It means you don't abandon the mission because the people carrying it with you are imperfect.
-
-**You give until you notice.** Giving (Hour 16) that costs nothing changes nothing. Spiritual maturity is the gap closing between what you have and what you hold with open hands. Not a percentage. A posture.
+**You stay when it's easier to leave.** Community (Hour 15) is messy. People disappoint you. Leaders fail. Friends betray. Spiritual maturity doesn't mean you tolerate abuse — forgiveness and reconciliation are not the same thing (Hour 18). It means you continue carrying the mission even when the people carrying it with you are imperfect.
 
 **You sit with suffering without reaching for a platitude.** When someone is hurting, you don't say "God has a plan" (Hour 17). You sit with them. You do the practical work. You resist the urge to explain what can't be explained — and you keep carrying the mission through the pain.
 
-**You forgive — again.** Seventy-seven times (Hour 18). Forgiveness is not a one-time event. It's the daily discipline of releasing the debts you're owed. Some days you succeed. Some days the old bitterness returns. Maturity is in the returning — not the perfection.
+**You forgive, again and again.** Seventy-seven times (Hour 18). Forgiveness is not a one-time event. It's the daily discipline of releasing the debts you're owed. Some days you succeed. Some days the old bitterness returns. Maturity is acknowledging the difficulty of forgiveness and still trying earnestly each day to forgive your debtors.
 
-**You hold doubt without panic.** Real faith is not certainty (Hour 19). It's choosing the mission in the presence of doubt. Spiritual maturity means you've reckoned honestly with every reason to walk away — and you're still here. Not because the questions were answered, but because the mission is worth carrying regardless.
+**You hold doubt without panic.** Real faith is not certainty (Hour 19), but choosing the mission in the presence of doubt. Spiritual maturity means you've reckoned honestly with every reason to walk away — and you're still here. Not because every question was answered, but because the mission is worth carrying regardless.
 
 ## The real wager
 
