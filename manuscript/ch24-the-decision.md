@@ -98,7 +98,7 @@ These are not utopian fantasies. They are the logical conclusions of "love your 
 
 And at the endpoint, part of the reward is the honest two-way conversation — the debrief with God _and_ with Satan. Why this test? Why the suffering? Why the silence? Why did humanity have to prove itself at all? The reward is not just reunion. It is understanding. Full clarity about what the test was, what it cost, and why it was worth our blood, sweat, and tears.
 
-And so, you can seek a higher reward: not a comfortable life _now_, but a seat at the table _then_ — with everyone who ever chose the mission over personal gain. And you will receives answers to every question you carried in faith.
+And so, you can seek a higher reward: not a comfortable life _now_, but a seat at the table _then_ — with everyone who ever chose the mission over personal gain. And you will receive answers to every question you carried in faith.
 
 ## The decision
 
