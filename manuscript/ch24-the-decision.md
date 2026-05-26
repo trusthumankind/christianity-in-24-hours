@@ -8,7 +8,7 @@ A: You decide. That was always the point.
 
 Hour 1 opened with a question: why did God create humanity? The answer: to prove we can get this right. Twenty-three hours later, the question returns. And now it's personal: not whether humanity can get it right, but whether *you* will. 
 
-You've been through the full arc. God creates. Humanity stumbles. The Law provides guardrails. The prophets speak truth. Jesus lives the mission without faltering. The early church carries it forward, imperfectly. Then, the institution corrupts it — trading the mission for power, comfort, and control throughout the last two millenia.
+You've been through the full arc. God creates. Humanity stumbles. The Law provides guardrails. The prophets speak truth. Jesus lives the mission without faltering. The early church carries it forward, imperfectly. Then, the institution corrupts it — trading the mission for power, comfort, and control throughout the last two millennia.
 
 But here is what's different now: you can see it. You can see the corruption clearly because humanity has grown enough to name it. The Crusades, the forced assimilation, the prosperity gospel, the political co-option — these are visible to you in a way they were not visible to the people living inside them. That clarity is itself evidence of the maturation. Humanity has grown up enough to diagnose its own failures.
 
