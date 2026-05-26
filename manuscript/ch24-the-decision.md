@@ -80,27 +80,25 @@ Hour 23 described it: restoration. Not souls floating to heaven. Not the destruc
 
 That is the celebration at the end. And before it, a thorough reckoning — not punishment but clarity. Every life understood. Every wound acknowledged. Every act of love remembered and every failure honestly faced. A debrief in the truest sense: what happened, what it cost, and what it produced.
 
-But what are the conditions that get us there? What does the mission require of humanity — collectively, across generations — to reach that endpoint?
+But what are the conditions that get us there? What does the mission require of humanity collectively to reach that endpoint?
 
 Not abstractions. Measurable conditions. Here is what "love your neighbor" looks like when it is fully realized:
 
-**One country.** No borders. No passports. No artificial lines drawn to separate humanity into competing tribes. God created all people without bias toward favored ethnicities (Hour 20). Countries are human fabrications designed to concentrate power and define who is *not* your neighbor. The victory condition is a world where no Palestinian is trapped behind a wall, no refugee drowns crossing a sea, and no human being is illegal for standing on the wrong patch of earth. Free movement of all people, everywhere.
+**One country.** No borders. No passports. No artificial lines drawn to separate humanity into competing tribes. God created all people without favoring one ethnicity over another (Hour 20). Countries are human fabrications designed to concentrate power and define who is *not* your neighbor. Victory is a world where no Palestinian is trapped behind a wall, no refugee drowns crossing a sea, and no human being is illegal for standing on the wrong patch of earth. Free movement of all people, everywhere.
 
-**One currency.** No financial arbitrage. No system where one nation's money exploits another nation's labor. Currency differences are mechanisms of power — they allow the wealthy to extract value from the poor across invisible lines. The victory condition is a single global economy — or no currency at all — where the free flow of goods and services is not gated by exchange rates designed to keep some rich and others desperate.
+**One currency.** No financial arbitrage. No system where one nation's money exploits another nation's labor. Currency differences are mechanisms of power — they allow the wealthy to extract value from the poor across invisible lines. Victory is a single global economy powered by _one_ currency — or no currency at all — where the free flow of goods and services is not gated by exchange rates.
 
-**Food security for every human being.** The world already produces enough food to feed ten billion people. The problem is not scarcity — it is distribution shaped by profit. "I was hungry and you gave me food" ([Matthew 25:35][3]) is not a suggestion. The victory condition is zero hunger — not as charity, but as a systemic guarantee. No one starves while food exists.
+**Food security for every human being.** The world already produces enough food to feed ten billion people. The problem is not scarcity — it is distribution blocked by profit motives. "I was hungry and you gave me food" ([Matthew 25:35][3]) is not a suggestion. Victory means zero hunger — not as charity, but as a systemic guarantee. No one starves while food exists.
 
-**Housing security for every human being.** No one sleeps outside because the system failed them. "I was a stranger and you welcomed me" ([Matthew 25:35][3]). If someone chooses to wander, that is their freedom. But homelessness as a systemic condition — people without shelter because shelter is a commodity rather than a right — is incompatible with the two commandments. The victory condition is a world where every person has a safe place to live.
+**Housing security for every human being.** No one sleeps outside because the system failed them. "I was a stranger and you welcomed me" ([Matthew 25:35][3]). If someone chooses to wander, that is their freedom. But homelessness cannot be a systemic condition, where people lack shelter because shelter is a commodity rather than a right. Victory is a world where every person has a safe place to live.
 
-**Education without gatekeepers.** No pay-to-win private schools that guarantee advantage to the wealthy. No overpriced school districts that sort children by their parents' income before they are old enough to read. Knowledge is not a commodity. The victory condition is a world where the quality of your education has nothing to do with the wealth of your family — where every child has equal access to grow into their full capacity.
+**Education without gatekeepers.** No pay-to-win private schools that guarantee advantage to the wealthy. No overpriced school districts that sort children by their parents' income before they are old enough to read. Knowledge is not a commodity. Victory is a world where the consistent quality of education gives every child equal access to grow into their full capacity.
 
-These are not utopian fantasies. They are the logical conclusions of "love your neighbor as yourself." Every one of them is measurable. Every one of them is achievable — not today, not this generation, perhaps not for many generations. But each act of love, each stand for justice, each sacrifice that chooses others over self moves humanity closer.
+These are not utopian fantasies. They are the logical conclusions of "love your neighbor as yourself." Every one of them is measurable. Every one of them is achievable if we gather together for one united mission. Each act of love, each stand for justice, each sacrifice that chooses others over self moves humanity closer to victory.
 
-And the promise is that the endpoint is real — that one day the mission is complete, the celebration happens, and every person who carried it across every generation is present for it.
+And at the endpoint, part of the reward is the honest two-way conversation — the debrief with God _and_ with Satan. Why this test? Why the suffering? Why the silence? Why did humanity have to prove itself at all? The reward is not just reunion. It is understanding. Full clarity about what the test was, what it cost, and why it was worth our blood, sweat, and tears.
 
-And part of that endpoint — part of the reward — is the honest conversation. The debrief with God. Why this test? Why the suffering? Why the silence? Why did humanity have to prove itself at all? And with Satan — the skeptic who wagered that we would fail, that given freedom we would always choose ourselves. The reward is not just reunion. It is understanding. Full clarity about what the test was, what it cost, and why it was worth it.
-
-That is the reward. Not a comfortable life now. A seat at the table then — with everyone who ever chose the mission over themselves. And the answers to every question you carried in faith.
+And so, you can seek a higher reward: not a comfortable life _now_, but a seat at the table _then_ — with everyone who ever chose the mission over personal gain. And you will receives answers to every question you carried in faith.
 
 ## The decision
 
