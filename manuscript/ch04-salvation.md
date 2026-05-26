@@ -87,7 +87,7 @@ Not belief — not intellectual agreement that God exists. Faith is the active, 
 > For by grace you have been saved through faith. And this is not your own doing; it is the gift of God, not a result of works, so that no one may boast. For we are his workmanship, created in Christ Jesus for good works, which God prepared beforehand, that we should walk in them.
 — [Ephesians 2:8-10 ESV][8]
 
-Grace opens the door. Faith is walking through it — not once, but every day. And notice Paul's words: "this is not your own doing" and "we are his workmanship." You were made for this mission, powered by faith.
+Grace opens the door. Faith is walking through it — not once, but every day. And notice Paul's words: "this is not your own doing" and "we are his workmanship." You were made for this mission, not as an obligation imposed from outside, but as the reason you exist.
 
 ## Not alone
 
