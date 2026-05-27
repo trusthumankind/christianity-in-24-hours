@@ -1,3 +1,7 @@
+halftitle.md
+titlepage.md
+copyright.md
+toc.md
 preface.md
 part1.md
 ch01-god.md
@@ -11,7 +15,7 @@ ch07-creation-to-abraham.md
 ch08-moses-and-the-law.md
 ch09-the-prophets.md
 ch10-jesus-the-life.md
-ch11-jesus-death-and-resurrection.md
+ch11-jesus-death-resurrection.md
 ch12-the-early-church.md
 part3.md
 ch13-love-god-love-neighbor.md
@@ -28,3 +32,4 @@ ch22-reading-the-bible.md
 ch23-death-and-afterlife.md
 ch24-the-decision.md
 epilogue.md
+about-authors.md

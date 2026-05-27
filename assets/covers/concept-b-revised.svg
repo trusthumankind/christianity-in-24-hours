@@ -1,0 +1,31 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1600 2560" width="1600" height="2560">
+  <!-- Background: deep charcoal -->
+  <rect width="1600" height="2560" fill="#1a1a1a"/>
+
+  <!-- Accent stripe at top -->
+  <rect x="0" y="0" width="1600" height="12" fill="#c49a3c"/>
+
+  <!-- Large "24" as background texture -->
+  <text x="800" y="1500" text-anchor="middle" font-family="Georgia, 'Times New Roman', serif" font-size="1100" font-weight="bold" fill="#222222" letter-spacing="-30">24</text>
+
+  <!-- Title block — title case, serif -->
+  <text x="800" y="680" text-anchor="middle" font-family="Georgia, 'Times New Roman', serif" font-size="136" font-weight="bold" fill="#ffffff" letter-spacing="6">Christianity</text>
+
+  <!-- "in" small -->
+  <text x="800" y="790" text-anchor="middle" font-family="Georgia, 'Times New Roman', serif" font-size="52" fill="#888888" letter-spacing="12" font-style="italic">in</text>
+
+  <!-- 24 Hours -->
+  <text x="800" y="960" text-anchor="middle" font-family="Georgia, 'Times New Roman', serif" font-size="156" font-weight="bold" fill="#c49a3c" letter-spacing="8">24 Hours</text>
+
+  <!-- Thin divider -->
+  <line x1="600" y1="1040" x2="1000" y2="1040" stroke="#444444" stroke-width="1"/>
+
+  <!-- Tagline -->
+  <text x="800" y="1130" text-anchor="middle" font-family="Georgia, 'Times New Roman', serif" font-size="48" fill="#999999" letter-spacing="6" font-style="italic">One story. One decision.</text>
+
+  <!-- Accent stripe at bottom -->
+  <rect x="0" y="2548" width="1600" height="12" fill="#c49a3c"/>
+
+  <!-- Authors — title case, serif -->
+  <text x="800" y="2480" text-anchor="middle" font-family="Georgia, 'Times New Roman', serif" font-size="48" fill="#c49a3c" letter-spacing="8">Marty Chang &amp; Coraline Chang</text>
+</svg>
