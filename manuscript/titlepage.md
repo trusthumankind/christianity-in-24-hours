@@ -3,5 +3,3 @@
 *One story. One decision.*
 
 **Marty Chang & Coraline Chang**
-
-Mission H LLC
