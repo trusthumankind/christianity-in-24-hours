@@ -52,7 +52,7 @@ The popular image of hell — eternal fire, conscious torment, pitchforks and a 
 
 Jesus used the word *Gehenna* ([Matthew 5:22][3], [Mark 9:43][4]) — a reference to the Valley of Hinnom outside Jerusalem, a garbage dump where refuse burned continuously. It was a vivid, local image his audience would recognize. Whether he meant it as a literal description of the afterlife or as a metaphor for the destruction of a wasted life is a question the text doesn't settle definitively.
 
-What the framework of the first nineteen hours suggests: the mission is collective. Humanity succeeds or fails together. The promise of eternal life described in Hour 1 is conditional on collective success, not individual performance. If that's the structure, then hell as individual punishment for individual sins doesn't fit the framework. What fits is this: if humanity fails the mission, we all face the consequences — not as targeted retribution, but as the natural result of collective failure.
+What the framework of the first nineteen hours suggests: the mission is collective. Humanity succeeds or fails together. The collective victory described in Hour 1 is conditional on collective success, not individual performance. If that's the structure, then hell as individual punishment for individual sins doesn't fit the framework. What fits is this: if humanity fails the mission, we all face the consequences — not as targeted retribution, but as the natural result of collective failure.
 
 ## What about science?
 
@@ -150,7 +150,7 @@ This is where the institutional church fails most visibly. The same voices that 
 
 The honest framework: life is sacred, and so is the woman carrying it. She is your neighbor. Her impossible choice is not a political talking point — it is a failure of the community that was supposed to be there and wasn't. The grown-up response to abortion is not to police individual decisions. It is to build the world where fewer people face the decision at all — and to love, without judgment, these women regardless of what they choose.
 
-This is why the mission matters. The victory conditions from Hour 24 — food security, housing security, education, a community that actually carries each other — are not abstractions. They are the answer to this question. Build the village, and the impossible choices get fewer.
+This is why the mission matters. The victory conditions from Hour 24 — food security, housing security, education without gatekeepers — are not abstractions. They are the answer to this question. Build the village, and the impossible choices get fewer.
 
 ## The question behind the questions
 
