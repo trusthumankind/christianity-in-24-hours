@@ -1,7 +1,5 @@
-halftitle.md
 titlepage.md
 copyright.md
-toc.md
 preface.md
 part1.md
 ch01-god.md
