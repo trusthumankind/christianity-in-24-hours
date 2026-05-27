@@ -52,7 +52,7 @@ The popular image of hell — eternal fire, conscious torment, pitchforks and a 
 
 Jesus used the word *Gehenna* ([Matthew 5:22][3], [Mark 9:43][4]) — a reference to the Valley of Hinnom outside Jerusalem, a garbage dump where refuse burned continuously. It was a vivid, local image his audience would recognize. Whether he meant it as a literal description of the afterlife or as a metaphor for the destruction of a wasted life is a question the text doesn't settle definitively.
 
-What the framework of the first nineteen hours suggests: the mission is collective. Humanity succeeds or fails together. The collective victory described in Hour 1 is conditional on collective success, not individual performance. If that's the structure, then hell as individual punishment for individual sins doesn't fit the framework. What fits is this: if humanity fails the mission, we all face the consequences — not as targeted retribution, but as the natural result of collective failure.
+What the framework of the first nineteen hours suggests: the mission is collective. Humanity succeeds or fails together. The victory described in Hour 1 is conditional on humanity succeeding together, not on individual performance. If that's the structure, then hell as individual punishment for individual sins doesn't fit the framework. What fits is this: if humanity fails the mission, we all face the consequences — not as targeted retribution, but as the natural result of collective failure.
 
 ## What about science?
 
