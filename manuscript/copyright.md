@@ -2,7 +2,7 @@
 
 Christianity in 24 Hours
 
-Copyright © 2026 Marty Chang
+Copyright © 2026 Marty Chang. All rights reserved.
 
 No part of this book may be reproduced in any form without written permission from the copyright holder, except as permitted by U.S. copyright law.
 
