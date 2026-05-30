@@ -10,7 +10,7 @@ That is what we are building. Not a new church — the original one. A unified, 
 
 This is an invitation.
 
-**Join the community.** We are gathering on [Discord](https://discord.gg/2xdup499t). Come as you are. Bring your doubt. Bring your questions. Bring your willingness to do the hard work.
+**Join the community.** We are gathering at [thechurch.one](https://thechurch.one/) on Discord. Come as you are. Bring your doubt. Bring your questions. Bring your willingness to do the hard work.
 
 **Support the mission.** If you believe humanity is worth saving — if the victory conditions are worth pursuing across generations — then put something behind that belief. We are raising funds to build God's kingdom on Earth, openly and transparently: [gofundme.com/f/open-source-society](https://www.gofundme.com/f/open-source-society)
 
