@@ -5,7 +5,7 @@ title: Christianity in 24 Hours
 
 # Christianity in 24 Hours
 
-**By Marty Chang and Cora Chang**
+**By Marty Chang and Coraline Chang**
 
 *The Bible tells one story. Humanity growing up.*
 
