@@ -35,13 +35,13 @@
 
   <line x1="497" y1="1050" x2="1097" y2="1050" stroke="#444444" stroke-width="1"/>
 
-  <text font-family="Georgia, 'Times New Roman', serif" font-size="62" fill="#999999" font-style="italic">
-    <tspan x="150" y="1120">What if the Bible tells one story —</tspan>
-    <tspan x="150" dy="76">humanity growing up?</tspan>
-    <tspan x="150" dy="104">What if salvation isn't a prayer you say</tspan>
-    <tspan x="150" dy="76">but a mission you carry?</tspan>
-    <tspan x="150" dy="104">What if the victory conditions are measurable —</tspan>
-    <tspan x="150" dy="76">and achievable?</tspan>
+  <text text-anchor="middle" font-family="Georgia, 'Times New Roman', serif" font-size="62" fill="#999999" font-style="italic">
+    <tspan x="797" y="1120">What if the Bible tells one story —</tspan>
+    <tspan x="797" dy="76">humanity growing up?</tspan>
+    <tspan x="797" dy="104">What if salvation isn't a prayer you say</tspan>
+    <tspan x="797" dy="76">but a mission you carry?</tspan>
+    <tspan x="797" dy="104">What if the victory conditions are measurable —</tspan>
+    <tspan x="797" dy="76">and achievable?</tspan>
   </text>
 
   <text x="797" y="1660" text-anchor="middle" font-family="Georgia, 'Times New Roman', serif" font-size="62" fill="#c49a3c" letter-spacing="2">Twenty-four hours. Everything you need</text>
