@@ -24,7 +24,7 @@ Not as pets. Not for entertainment. And not because God needed worshippers.
 God created humanity with a mission, a test. Think of it this way: God has a vision for what we could be — a species that overcomes its fears and vices to sustainably manage the world we're given. Can _we_ become that species?
 - If Earth becomes uninhabitable, game over.
 - If we destroy each other, game over.
-- But if we prove we can live together in balance and in peace, we _win_.
+- But if we can live together in balance and in peace, we _win_.
 
 > Then God said, "Let us make man in our image, after our likeness. And let them have dominion over the fish of the sea and over the birds of the heavens and over the livestock and over all the earth and over every creeping thing that creeps on the earth."
 — [Genesis 1:26 ESV][2]
@@ -77,8 +77,6 @@ Simple to understand. Extraordinarily difficult to live. And that tension betwee
 * If God experiences emotions like we do, what does that change about how you relate to God?
 * Do you believe humanity's problems are solvable, or have you already decided we're doomed? What does your answer say about your faith?
 * When you hear "love your neighbor as yourself," who is the neighbor you find hardest to love?
-
-That last question matters more than you think. Because the mission isn't abstract — it's built from eight billion individual choices to love or not love the person in front of you.
 
 [1]: https://www.esv.org/Genesis+6/
 [2]: https://www.esv.org/Genesis+1/
