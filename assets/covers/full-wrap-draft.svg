@@ -5,7 +5,7 @@
     Spine: 0.519 in = 156px | Bleed: 0.125 in = 38px each side
     Cover: 10.889 × 8.060 in = 3267 × 2418 px at 300 DPI
     Back cover: x 0–1556 | Spine: x 1556–1712 | Front cover: x 1712–3267
-    Font: back 60/54px (blurb/body), front/spine 1.2x original
+    Font: back 60/50px (blurb/body), front/spine 1.2x original
   -->
 
   <rect width="3267" height="2418" fill="#1a1a1a"/>
@@ -17,37 +17,38 @@
     <tspan x="225" dy="77">to carry the mission Jesus started.</tspan>
   </text>
 
-  <text x="225" y="560" text-anchor="start" font-family="Georgia, 'Times New Roman', serif" font-size="54" fill="#c49a3c" font-style="italic">It chose power instead.</text>
+  <text x="225" y="560" text-anchor="start" font-family="Georgia, 'Times New Roman', serif" font-size="50" fill="#c49a3c" font-style="italic">It chose power instead.</text>
 
-  <text x="225" y="670" text-anchor="start" font-family="Georgia, 'Times New Roman', serif" font-size="54" fill="#bbbbbb">
+  <text x="225" y="670" text-anchor="start" font-family="Georgia, 'Times New Roman', serif" font-size="50" fill="#bbbbbb">
     <tspan x="225" dy="0">But the mission didn't die. It's been waiting —</tspan>
-    <tspan x="225" dy="69">for a generation with enough clarity to see</tspan>
-    <tspan x="225" dy="69">what went wrong, enough honesty to name it,</tspan>
-    <tspan x="225" dy="69">and enough courage to try again.</tspan>
+    <tspan x="225" dy="64">for a generation with enough clarity to see</tspan>
+    <tspan x="225" dy="64">what went wrong, enough honesty to name it,</tspan>
+    <tspan x="225" dy="64">and enough courage to try again.</tspan>
   </text>
 
-  <text x="225" y="1005" text-anchor="start" font-family="Georgia, 'Times New Roman', serif" font-size="54" fill="#bbbbbb">
+  <text x="225" y="1005" text-anchor="start" font-family="Georgia, 'Times New Roman', serif" font-size="50" fill="#bbbbbb">
     <tspan x="225" dy="0">This book strips Christianity to its core:</tspan>
-    <tspan x="225" dy="69">one story, two commandments, and a decision</tspan>
-    <tspan x="225" dy="69">that no one else can make for you.</tspan>
+    <tspan x="225" dy="64">one story, two commandments, and a decision</tspan>
+    <tspan x="225" dy="64">that no one else can make for you.</tspan>
   </text>
 
   <line x1="225" y1="1230" x2="825" y2="1230" stroke="#444444" stroke-width="1"/>
 
-  <text text-anchor="start" font-family="Georgia, 'Times New Roman', serif" font-size="54" fill="#999999" font-style="italic">
+  <text text-anchor="start" font-family="Georgia, 'Times New Roman', serif" font-size="50" fill="#999999" font-style="italic">
     <tspan x="225" y="1290">What if the Bible tells one story —</tspan>
-    <tspan x="225" dy="69">humanity growing up?</tspan>
-    <tspan x="225" dy="93">What if salvation isn't a prayer you say</tspan>
-    <tspan x="225" dy="69">but a mission you carry?</tspan>
-    <tspan x="225" dy="93">What if the victory conditions are measurable —</tspan>
-    <tspan x="225" dy="69">and achievable?</tspan>
+    <tspan x="225" dy="64">humanity growing up?</tspan>
+    <tspan x="225" dy="86">What if salvation isn't a prayer you say</tspan>
+    <tspan x="225" dy="64">but a mission you carry?</tspan>
+    <tspan x="225" dy="86">What if the victory conditions are measurable —</tspan>
+    <tspan x="225" dy="64">and achievable?</tspan>
   </text>
 
-  <text x="225" y="1825" text-anchor="start" font-family="Georgia, 'Times New Roman', serif" font-size="54" fill="#c49a3c" letter-spacing="2">Twenty-four hours.</text>
-  <text x="225" y="1890" text-anchor="start" font-family="Georgia, 'Times New Roman', serif" font-size="54" fill="#c49a3c" letter-spacing="2">Everything you need to decide for yourself.</text>
+  <text x="225" y="1825" text-anchor="start" font-family="Georgia, 'Times New Roman', serif" font-size="50" fill="#c49a3c" letter-spacing="2">Twenty-four hours.</text>
+  <text x="225" y="1889" text-anchor="start" font-family="Georgia, 'Times New Roman', serif" font-size="50" fill="#c49a3c" letter-spacing="2">Everything you need</text>
+  <text x="225" y="1953" text-anchor="start" font-family="Georgia, 'Times New Roman', serif" font-size="50" fill="#c49a3c" letter-spacing="2">to decide for yourself.</text>
 
-  <text x="225" y="1985" text-anchor="start" font-family="Georgia, 'Times New Roman', serif" font-size="54" fill="#777777" font-style="italic">The full text is available free at</text>
-  <text x="225" y="2040" text-anchor="start" font-family="Georgia, 'Times New Roman', serif" font-size="54" fill="#777777" font-style="italic">christianity.trusthumankind.org</text>
+  <text x="225" y="2040" text-anchor="start" font-family="Georgia, 'Times New Roman', serif" font-size="50" fill="#777777" font-style="italic">The full text is available free at</text>
+  <text x="225" y="2100" text-anchor="start" font-family="Georgia, 'Times New Roman', serif" font-size="50" fill="#777777" font-style="italic">christianity.trusthumankind.org</text>
 
   <!-- ═══ SPINE (x 1556–1712, center 1634) ═══ -->
 
