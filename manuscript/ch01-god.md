@@ -78,8 +78,6 @@ Simple to understand. Extraordinarily difficult to live. And that tension betwee
 * Do you believe humanity's problems are solvable, or have you already decided we're doomed? What does your answer say about your faith?
 * When you hear "love your neighbor as yourself," who is the neighbor you find hardest to love?
 
-That last question matters more than you think. Because the mission isn't abstract — it's built from eight billion individual choices to love or not love the person in front of you.
-
 [1]: https://www.esv.org/Genesis+6/
 [2]: https://www.esv.org/Genesis+1/
 [3]: https://www.esv.org/Job+1/
