@@ -10,44 +10,44 @@
 
   <rect width="3267" height="2418" fill="#1a1a1a"/>
 
-  <!-- ═══ BACK COVER (x 0–1556, center 797) ═══ -->
+  <!-- ═══ BACK COVER (x 0–1556, left-align 225) ═══ -->
 
-  <text x="797" y="365" text-anchor="middle" font-family="Georgia, 'Times New Roman', serif" font-size="60" font-weight="bold" fill="#ffffff" letter-spacing="2">
-    <tspan x="797" dy="0">The church has had two thousand years</tspan>
-    <tspan x="797" dy="77">to carry the mission Jesus started.</tspan>
+  <text x="225" y="365" text-anchor="start" font-family="Georgia, 'Times New Roman', serif" font-size="60" font-weight="bold" fill="#ffffff" letter-spacing="2">
+    <tspan x="225" dy="0">The church had two thousand years</tspan>
+    <tspan x="225" dy="77">to carry the mission Jesus started.</tspan>
   </text>
 
-  <text x="797" y="560" text-anchor="middle" font-family="Georgia, 'Times New Roman', serif" font-size="54" fill="#c49a3c" font-style="italic">It chose power instead.</text>
+  <text x="225" y="560" text-anchor="start" font-family="Georgia, 'Times New Roman', serif" font-size="54" fill="#c49a3c" font-style="italic">It chose power instead.</text>
 
-  <text x="797" y="670" text-anchor="middle" font-family="Georgia, 'Times New Roman', serif" font-size="54" fill="#bbbbbb">
-    <tspan x="797" dy="0">But the mission didn't die. It's been waiting —</tspan>
-    <tspan x="797" dy="69">for a generation with enough clarity to see</tspan>
-    <tspan x="797" dy="69">what went wrong, enough honesty to name it,</tspan>
-    <tspan x="797" dy="69">and enough courage to try again.</tspan>
+  <text x="225" y="670" text-anchor="start" font-family="Georgia, 'Times New Roman', serif" font-size="54" fill="#bbbbbb">
+    <tspan x="225" dy="0">But the mission didn't die. It's been waiting —</tspan>
+    <tspan x="225" dy="69">for a generation with enough clarity to see</tspan>
+    <tspan x="225" dy="69">what went wrong, enough honesty to name it,</tspan>
+    <tspan x="225" dy="69">and enough courage to try again.</tspan>
   </text>
 
-  <text x="797" y="1005" text-anchor="middle" font-family="Georgia, 'Times New Roman', serif" font-size="54" fill="#bbbbbb">
-    <tspan x="797" dy="0">This book strips Christianity to its core:</tspan>
-    <tspan x="797" dy="69">one story, two commandments, and a decision</tspan>
-    <tspan x="797" dy="69">that no one else can make for you.</tspan>
+  <text x="225" y="1005" text-anchor="start" font-family="Georgia, 'Times New Roman', serif" font-size="54" fill="#bbbbbb">
+    <tspan x="225" dy="0">This book strips Christianity to its core:</tspan>
+    <tspan x="225" dy="69">one story, two commandments, and a decision</tspan>
+    <tspan x="225" dy="69">that no one else can make for you.</tspan>
   </text>
 
-  <line x1="497" y1="1230" x2="1097" y2="1230" stroke="#444444" stroke-width="1"/>
+  <line x1="225" y1="1230" x2="825" y2="1230" stroke="#444444" stroke-width="1"/>
 
-  <text text-anchor="middle" font-family="Georgia, 'Times New Roman', serif" font-size="54" fill="#999999" font-style="italic">
-    <tspan x="797" y="1290">What if the Bible tells one story —</tspan>
-    <tspan x="797" dy="69">humanity growing up?</tspan>
-    <tspan x="797" dy="93">What if salvation isn't a prayer you say</tspan>
-    <tspan x="797" dy="69">but a mission you carry?</tspan>
-    <tspan x="797" dy="93">What if the victory conditions are measurable —</tspan>
-    <tspan x="797" dy="69">and achievable?</tspan>
+  <text text-anchor="start" font-family="Georgia, 'Times New Roman', serif" font-size="54" fill="#999999" font-style="italic">
+    <tspan x="225" y="1290">What if the Bible tells one story —</tspan>
+    <tspan x="225" dy="69">humanity growing up?</tspan>
+    <tspan x="225" dy="93">What if salvation isn't a prayer you say</tspan>
+    <tspan x="225" dy="69">but a mission you carry?</tspan>
+    <tspan x="225" dy="93">What if the victory conditions are measurable —</tspan>
+    <tspan x="225" dy="69">and achievable?</tspan>
   </text>
 
-  <text x="797" y="1825" text-anchor="middle" font-family="Georgia, 'Times New Roman', serif" font-size="54" fill="#c49a3c" letter-spacing="2">Twenty-four hours. Everything you need</text>
-  <text x="797" y="1890" text-anchor="middle" font-family="Georgia, 'Times New Roman', serif" font-size="54" fill="#c49a3c" letter-spacing="2">to decide for yourself.</text>
+  <text x="225" y="1825" text-anchor="start" font-family="Georgia, 'Times New Roman', serif" font-size="54" fill="#c49a3c" letter-spacing="2">Twenty-four hours.</text>
+  <text x="225" y="1890" text-anchor="start" font-family="Georgia, 'Times New Roman', serif" font-size="54" fill="#c49a3c" letter-spacing="2">Everything you need to decide for yourself.</text>
 
-  <text x="797" y="1985" text-anchor="middle" font-family="Georgia, 'Times New Roman', serif" font-size="54" fill="#777777" font-style="italic">The full text is available free at</text>
-  <text x="797" y="2040" text-anchor="middle" font-family="Georgia, 'Times New Roman', serif" font-size="54" fill="#777777" font-style="italic">christianity.trusthumankind.org</text>
+  <text x="225" y="1985" text-anchor="start" font-family="Georgia, 'Times New Roman', serif" font-size="54" fill="#777777" font-style="italic">The full text is available free at</text>
+  <text x="225" y="2040" text-anchor="start" font-family="Georgia, 'Times New Roman', serif" font-size="54" fill="#777777" font-style="italic">christianity.trusthumankind.org</text>
 
   <!-- ═══ SPINE (x 1556–1712, center 1634) ═══ -->
 
@@ -62,7 +62,7 @@
 
   <!-- ═══ FRONT COVER (x 1712–3267, center 2471) ═══ -->
 
-  <text x="2471" y="1684" text-anchor="middle" font-family="Georgia, 'Times New Roman', serif" font-size="1100" font-weight="bold" fill="#222222">24</text>
+  <text x="2471" y="1580" text-anchor="middle" font-family="Georgia, 'Times New Roman', serif" font-size="1100" font-weight="bold" fill="#222222">24</text>
 
   <text x="2471" y="670" text-anchor="middle" font-family="Georgia, 'Times New Roman', serif" font-size="163" font-weight="bold" fill="#ffffff" letter-spacing="7">Christianity</text>
 
