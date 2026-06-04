@@ -147,10 +147,10 @@
           }
         }
 
-        // Part divider
+        // Part divider — always starts on a right-hand (recto) page
         if n == 4 or n == 11 or n == 18 or n == 25 {
 
-          pagebreak(weak: true)
+          pagebreak(to: "odd")
           align(center + horizon)[
             #text(size: 20pt, weight: "bold")[#it.body]
           ]
@@ -201,8 +201,8 @@
   show outline.entry.where(level: 1): it => context {
     let all-h1s = query(heading.where(level: 1))
     let idx = all-h1s.position(h => h.location() == it.element.location())
-    if idx == none or idx < 2 { return }
-    let section-headings = (2, 3, 10, 17, 24, 31, 32)
+    if idx == none or idx < 3 { return }
+    let section-headings = (3, 10, 17, 24, 31, 32)
     if idx in section-headings { it } else { pad(left: 1.5em, text(weight: "regular", it)) }
   }
 
