@@ -24,7 +24,7 @@ Not as pets. Not for entertainment. And not because God needed worshippers.
 God created humanity with a mission, a test. Think of it this way: God has a vision for what we could be — a species that overcomes its fears and vices to sustainably manage the world we're given. Can _we_ become that species?
 - If Earth becomes uninhabitable, game over.
 - If we destroy each other, game over.
-- But if we prove we can live together in balance and in peace, we _win_.
+- But if we can live together in balance and in peace, we _win_.
 
 > Then God said, "Let us make man in our image, after our likeness. And let them have dominion over the fish of the sea and over the birds of the heavens and over the livestock and over all the earth and over every creeping thing that creeps on the earth."
 — [Genesis 1:26 ESV][2]
