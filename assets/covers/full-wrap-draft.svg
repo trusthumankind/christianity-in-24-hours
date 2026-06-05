@@ -5,16 +5,16 @@
     Spine: 0.519 in = 156px | Bleed: 0.125 in = 38px each side
     Cover: 10.889 × 8.060 in = 3267 × 2418 px at 300 DPI
     Back cover: x 0–1556 | Spine: x 1556–1712 | Front cover: x 1712–3267
-    Font: back 60/50px (blurb/body), front/spine 1.2x original
+    Font: back 50px uniform, front cover resized
   -->
 
   <rect width="3267" height="2418" fill="#1a1a1a"/>
 
   <!-- ═══ BACK COVER (x 0–1556, left-align 225) ═══ -->
 
-  <text x="225" y="365" text-anchor="start" font-family="'Crimson Text', Georgia, serif" font-size="60" font-weight="bold" fill="#ffffff" letter-spacing="2">
+  <text x="225" y="365" text-anchor="start" font-family="'Crimson Text', Georgia, serif" font-size="50" font-weight="bold" fill="#ffffff" letter-spacing="2">
     <tspan x="225" dy="0">The church had two thousand years</tspan>
-    <tspan x="225" dy="77">to carry the mission Jesus started.</tspan>
+    <tspan x="225" dy="64">to carry the mission Jesus started.</tspan>
   </text>
 
   <text x="225" y="560" text-anchor="start" font-family="'Crimson Text', Georgia, serif" font-size="50" fill="#bbbbbb">It chose power instead.</text>
@@ -49,8 +49,8 @@
   <text x="225" y="1889" text-anchor="start" font-family="'Crimson Text', Georgia, serif" font-size="50" fill="#c49a3c" letter-spacing="2">Everything you need</text>
   <text x="225" y="1953" text-anchor="start" font-family="'Crimson Text', Georgia, serif" font-size="50" fill="#c49a3c" letter-spacing="2">to decide for yourself.</text>
 
-  <text x="225" y="2090" text-anchor="start" font-family="'Crimson Text', Georgia, serif" font-size="42" fill="#777777" font-style="italic">The full text is available free at</text>
-  <text x="225" y="2145" text-anchor="start" font-family="'Crimson Text', Georgia, serif" font-size="42" fill="#777777" font-style="italic">christianity.trusthumankind.org</text>
+  <text x="225" y="2090" text-anchor="start" font-family="'Crimson Text', Georgia, serif" font-size="42" fill="#777777">The full text is available free at</text>
+  <text x="225" y="2145" text-anchor="start" font-family="'Crimson Text', Georgia, serif" font-size="42" fill="#777777">christianity.trusthumankind.org</text>
 
   <!-- ═══ SPINE (x 1556–1712, center 1634) ═══ -->
 
@@ -65,13 +65,13 @@
 
   <!-- ═══ FRONT COVER (x 1712–3267, center 2471) ═══ -->
 
-  <text x="2471" y="1580" text-anchor="middle" font-family="'Crimson Text', Georgia, serif" font-size="1100" font-weight="bold" fill="#222222">24</text>
+  <text x="2471" y="1535" text-anchor="middle" font-family="'Crimson Text', Georgia, serif" font-size="960" font-weight="bold" fill="#222222">24</text>
 
-  <text x="2471" y="670" text-anchor="middle" font-family="'Crimson Text', Georgia, serif" font-size="163" font-weight="bold" fill="#ffffff" letter-spacing="7">Christianity</text>
+  <text x="2471" y="670" text-anchor="middle" font-family="'Crimson Text', Georgia, serif" font-size="150" font-weight="bold" fill="#ffffff" letter-spacing="7">Christianity</text>
 
-  <text x="2471" y="802" text-anchor="middle" font-family="'Crimson Text', Georgia, serif" font-size="62" fill="#888888" letter-spacing="14" font-style="italic">in</text>
+  <text x="2471" y="790" text-anchor="middle" font-family="'Crimson Text', Georgia, serif" font-size="58" fill="#888888" letter-spacing="14" font-style="italic">in</text>
 
-  <text x="2471" y="1006" text-anchor="middle" font-family="'Crimson Text', Georgia, serif" font-size="187" font-weight="bold" fill="#c49a3c" letter-spacing="10">24 Hours</text>
+  <text x="2471" y="980" text-anchor="middle" font-family="'Crimson Text', Georgia, serif" font-size="150" font-weight="bold" fill="#c49a3c" letter-spacing="10">24 Hours</text>
 
   <line x1="2137" y1="1102" x2="2805" y2="1102" stroke="#444444" stroke-width="1"/>
 
