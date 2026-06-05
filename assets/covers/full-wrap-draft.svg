@@ -34,13 +34,13 @@
 
   <line x1="225" y1="1200" x2="825" y2="1200" stroke="#444444" stroke-width="1"/>
 
-  <text text-anchor="start" font-family="'Crimson Text', Georgia, serif" font-size="50" fill="#999999" font-style="italic">
-    <tspan x="225" y="1290">What if — the Bible tells one story</tspan>
-    <tspan x="225" dy="64">about humanity growing up?</tspan>
-    <tspan x="225" dy="86">What if — salvation isn't a prayer you say</tspan>
-    <tspan x="225" dy="64">but a mission you carry?</tspan>
-    <tspan x="225" dy="86">What if — the victory conditions are measurable</tspan>
-    <tspan x="225" dy="64">and achievable?</tspan>
+  <text text-anchor="start" font-family="'Crimson Text', Georgia, serif" font-size="50" fill="#999999">
+    <tspan x="225" y="1290"><tspan>What if —</tspan> <tspan font-style="italic">the Bible tells one story</tspan></tspan>
+    <tspan x="225" dy="64" font-style="italic">about humanity growing up?</tspan>
+    <tspan x="225" dy="86"><tspan>What if —</tspan> <tspan font-style="italic">salvation isn't a prayer you say</tspan></tspan>
+    <tspan x="225" dy="64" font-style="italic">but a mission you carry?</tspan>
+    <tspan x="225" dy="86"><tspan>What if —</tspan> <tspan font-style="italic">the victory conditions are measurable</tspan></tspan>
+    <tspan x="225" dy="64" font-style="italic">and achievable?</tspan>
   </text>
 
   <line x1="225" y1="1728" x2="825" y2="1728" stroke="#444444" stroke-width="1"/>
