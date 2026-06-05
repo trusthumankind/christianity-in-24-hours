@@ -34,12 +34,12 @@
 
   <line x1="225" y1="1200" x2="825" y2="1200" stroke="#444444" stroke-width="1"/>
 
-  <text text-anchor="start" font-family="'Crimson Text', Georgia, serif" font-size="50" fill="#999999" font-style="italic" word-spacing="4">
-    <tspan x="225" y="1290">What if the Bible tells one story —</tspan>
-    <tspan x="225" dy="64">humanity growing up?</tspan>
-    <tspan x="225" dy="86">What if salvation isn't a prayer you say</tspan>
+  <text text-anchor="start" font-family="'Crimson Text', Georgia, serif" font-size="50" fill="#999999" font-style="italic">
+    <tspan x="225" y="1290">What if — the Bible tells one story</tspan>
+    <tspan x="225" dy="64">about humanity growing up?</tspan>
+    <tspan x="225" dy="86">What if — salvation isn't a prayer you say</tspan>
     <tspan x="225" dy="64">but a mission you carry?</tspan>
-    <tspan x="225" dy="86">What if the victory conditions are measurable —</tspan>
+    <tspan x="225" dy="86">What if — the victory conditions are measurable</tspan>
     <tspan x="225" dy="64">and achievable?</tspan>
   </text>
 
