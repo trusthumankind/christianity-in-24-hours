@@ -20,7 +20,7 @@
   <text x="225" y="560" text-anchor="start" font-family="'Crimson Text', Georgia, serif" font-size="50" fill="#bbbbbb">It chose power instead.</text>
 
   <text x="225" y="670" text-anchor="start" font-family="'Crimson Text', Georgia, serif" font-size="50" fill="#bbbbbb">
-    <tspan x="225" dy="0">But the mission didn't die. It's been waiting —</tspan>
+    <tspan x="225" dy="0">But the mission didn't die. It's been waiting</tspan>
     <tspan x="225" dy="64">for a generation with enough clarity to see</tspan>
     <tspan x="225" dy="64">what went wrong, enough honesty to name it,</tspan>
     <tspan x="225" dy="64">and enough courage to try again.</tspan>
