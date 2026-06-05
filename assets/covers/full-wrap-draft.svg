@@ -17,7 +17,7 @@
     <tspan x="225" dy="77">to carry the mission Jesus started.</tspan>
   </text>
 
-  <text x="225" y="560" text-anchor="start" font-family="Georgia, 'Times New Roman', serif" font-size="50" fill="#c49a3c" font-style="italic">It chose power instead.</text>
+  <text x="225" y="560" text-anchor="start" font-family="Georgia, 'Times New Roman', serif" font-size="50" fill="#bbbbbb">It chose power instead.</text>
 
   <text x="225" y="670" text-anchor="start" font-family="Georgia, 'Times New Roman', serif" font-size="50" fill="#bbbbbb">
     <tspan x="225" dy="0">But the mission didn't die. It's been waiting —</tspan>
@@ -32,7 +32,7 @@
     <tspan x="225" dy="64">that no one else can make for you.</tspan>
   </text>
 
-  <line x1="225" y1="1230" x2="825" y2="1230" stroke="#444444" stroke-width="1"/>
+  <line x1="225" y1="1200" x2="825" y2="1200" stroke="#444444" stroke-width="1"/>
 
   <text text-anchor="start" font-family="Georgia, 'Times New Roman', serif" font-size="50" fill="#999999" font-style="italic">
     <tspan x="225" y="1290">What if the Bible tells one story —</tspan>
@@ -43,12 +43,14 @@
     <tspan x="225" dy="64">and achievable?</tspan>
   </text>
 
+  <line x1="225" y1="1728" x2="825" y2="1728" stroke="#444444" stroke-width="1"/>
+
   <text x="225" y="1825" text-anchor="start" font-family="Georgia, 'Times New Roman', serif" font-size="50" fill="#c49a3c" letter-spacing="2">Twenty-four hours.</text>
   <text x="225" y="1889" text-anchor="start" font-family="Georgia, 'Times New Roman', serif" font-size="50" fill="#c49a3c" letter-spacing="2">Everything you need</text>
   <text x="225" y="1953" text-anchor="start" font-family="Georgia, 'Times New Roman', serif" font-size="50" fill="#c49a3c" letter-spacing="2">to decide for yourself.</text>
 
-  <text x="225" y="2040" text-anchor="start" font-family="Georgia, 'Times New Roman', serif" font-size="50" fill="#777777" font-style="italic">The full text is available free at</text>
-  <text x="225" y="2100" text-anchor="start" font-family="Georgia, 'Times New Roman', serif" font-size="50" fill="#777777" font-style="italic">christianity.trusthumankind.org</text>
+  <text x="225" y="2090" text-anchor="start" font-family="Georgia, 'Times New Roman', serif" font-size="42" fill="#777777" font-style="italic">The full text is available free at</text>
+  <text x="225" y="2145" text-anchor="start" font-family="Georgia, 'Times New Roman', serif" font-size="42" fill="#777777" font-style="italic">christianity.trusthumankind.org</text>
 
   <!-- ═══ SPINE (x 1556–1712, center 1634) ═══ -->
 
