@@ -1,105 +1,84 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 3784 2775" width="3784" height="2775">
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 3267 2418" width="10.889in" height="8.060in">
   <!--
-    Full wrap layout for 6×9 trim, 189 pages cream paper
-    Spine width: 189 × 0.0025" = 0.4725" ≈ 142px at 300dpi
-    Bleed: 0.125" = 37.5px each side
-    Back cover: left side | Spine: center | Front cover: right side
-    Total: (37.5 + 1800 + 142 + 1800 + 37.5) × (37.5 + 2700 + 37.5) = 3817 × 2775
-    Simplified to approximate pixel values
+    Full wrap cover for KDP paperback
+    Trim: 5.06 × 7.81 in | Pages: 221 | Paper: BW white (groundwood)
+    Spine: 0.519 in = 156px | Bleed: 0.125 in = 38px each side
+    Cover: 10.889 × 8.060 in = 3267 × 2418 px at 300 DPI
+    Back cover: x 0–1556 | Spine: x 1556–1712 | Front cover: x 1712–3267
+    Font: back 50px uniform, front cover resized
   -->
 
-  <!-- Background: deep charcoal across entire wrap -->
-  <rect width="3784" height="2775" fill="#1a1a1a"/>
+  <rect width="3267" height="2418" fill="#1a1a1a"/>
 
-  <!-- ═══ BACK COVER (left side, ~38 to ~1838) ═══ -->
+  <!-- ═══ BACK COVER (x 0–1556, left-align 225) ═══ -->
 
-  <!-- Back cover blurb -->
-  <text x="940" y="440" text-anchor="middle" font-family="Georgia, 'Times New Roman', serif" font-size="52" font-weight="bold" fill="#ffffff" letter-spacing="2">
-    <tspan x="940" dy="0">The church has had two thousand years</tspan>
-    <tspan x="940" dy="68">to carry the mission Jesus started.</tspan>
+  <text x="225" y="365" text-anchor="start" font-family="'Crimson Text', Georgia, serif" font-size="50" font-weight="bold" fill="#ffffff" letter-spacing="2">
+    <tspan x="225" dy="0">The church had two thousand years</tspan>
+    <tspan x="225" dy="64">to carry the mission Jesus started.</tspan>
   </text>
 
-  <text x="940" y="620" text-anchor="middle" font-family="Georgia, 'Times New Roman', serif" font-size="44" fill="#c49a3c" font-style="italic">It chose power instead.</text>
+  <text x="225" y="560" text-anchor="start" font-family="'Crimson Text', Georgia, serif" font-size="50" fill="#bbbbbb">It chose power instead.</text>
 
-  <text x="940" y="740" text-anchor="middle" font-family="Georgia, 'Times New Roman', serif" font-size="36" fill="#bbbbbb" letter-spacing="1">
-    <tspan x="940" dy="0">But the mission didn't die. It's been waiting —</tspan>
-    <tspan x="940" dy="52">for a generation with enough clarity to see</tspan>
-    <tspan x="940" dy="52">what went wrong, enough honesty to name it,</tspan>
-    <tspan x="940" dy="52">and enough courage to try again.</tspan>
+  <text x="225" y="670" text-anchor="start" font-family="'Crimson Text', Georgia, serif" font-size="50" fill="#bbbbbb">
+    <tspan x="225" dy="0">But the mission didn't die. It's been waiting</tspan>
+    <tspan x="225" dy="64">for a generation with enough clarity to see</tspan>
+    <tspan x="225" dy="64">what went wrong, enough honesty to name it,</tspan>
+    <tspan x="225" dy="64">and enough courage to try again.</tspan>
   </text>
 
-  <text x="940" y="1020" text-anchor="middle" font-family="Georgia, 'Times New Roman', serif" font-size="36" fill="#bbbbbb">
-    <tspan x="940" dy="0">This book strips Christianity to its core:</tspan>
-    <tspan x="940" dy="52">one story, two commandments, and a decision</tspan>
-    <tspan x="940" dy="52">that no one else can make for you.</tspan>
+  <text x="225" y="1005" text-anchor="start" font-family="'Crimson Text', Georgia, serif" font-size="50" fill="#bbbbbb">
+    <tspan x="225" dy="0">This book strips Christianity to its core:</tspan>
+    <tspan x="225" dy="64">one story, two commandments, and a decision</tspan>
+    <tspan x="225" dy="64">that no one else can make for you.</tspan>
   </text>
 
-  <!-- Divider -->
-  <line x1="640" y1="1200" x2="1240" y2="1200" stroke="#444444" stroke-width="1"/>
+  <line x1="225" y1="1200" x2="825" y2="1200" stroke="#444444" stroke-width="1"/>
 
-  <!-- Key questions -->
-  <text font-family="Georgia, 'Times New Roman', serif" font-size="33" fill="#999999" font-style="italic">
-    <tspan x="340" y="1290">What if the Bible tells one story —</tspan>
-    <tspan x="340" dy="48">humanity growing up?</tspan>
-    <tspan x="340" dy="72">What if salvation isn't a prayer you say</tspan>
-    <tspan x="340" dy="48">but a mission you carry?</tspan>
-    <tspan x="340" dy="72">What if the victory conditions are measurable —</tspan>
-    <tspan x="340" dy="48">and achievable?</tspan>
+  <text text-anchor="start" font-family="'Crimson Text', Georgia, serif" font-size="50" fill="#999999">
+    <tspan x="225" y="1290"><tspan>What if —</tspan> <tspan font-style="italic">the Bible tells one story</tspan></tspan>
+    <tspan x="225" dy="64" font-style="italic">about humanity growing up?</tspan>
+    <tspan x="225" dy="86"><tspan>What if —</tspan> <tspan font-style="italic">salvation isn't a prayer you say</tspan></tspan>
+    <tspan x="225" dy="64" font-style="italic">but a mission you carry?</tspan>
+    <tspan x="225" dy="86"><tspan>What if —</tspan> <tspan font-style="italic">the victory conditions are measurable</tspan></tspan>
+    <tspan x="225" dy="64" font-style="italic">and achievable?</tspan>
   </text>
 
-  <!-- Bottom tagline -->
-  <text x="940" y="1780" text-anchor="middle" font-family="Georgia, 'Times New Roman', serif" font-size="34" fill="#c49a3c" letter-spacing="2">Twenty-four hours. Everything you need</text>
-  <text x="940" y="1826" text-anchor="middle" font-family="Georgia, 'Times New Roman', serif" font-size="34" fill="#c49a3c" letter-spacing="2">to decide for yourself.</text>
+  <line x1="225" y1="1728" x2="825" y2="1728" stroke="#444444" stroke-width="1"/>
 
-  <!-- Open source note -->
-  <text x="940" y="1940" text-anchor="middle" font-family="Georgia, 'Times New Roman', serif" font-size="28" fill="#777777" font-style="italic">The full text is available free at</text>
-  <text x="940" y="1980" text-anchor="middle" font-family="Georgia, 'Times New Roman', serif" font-size="28" fill="#777777" font-style="italic">christianity.trusthumankind.org</text>
+  <text x="225" y="1825" text-anchor="start" font-family="'Crimson Text', Georgia, serif" font-size="50" fill="#c49a3c" letter-spacing="2">Twenty-four hours.</text>
+  <text x="225" y="1889" text-anchor="start" font-family="'Crimson Text', Georgia, serif" font-size="50" fill="#c49a3c" letter-spacing="2">Everything you need</text>
+  <text x="225" y="1953" text-anchor="start" font-family="'Crimson Text', Georgia, serif" font-size="50" fill="#c49a3c" letter-spacing="2">to decide for yourself.</text>
 
-  <!-- ISBN barcode placeholder (bottom right of back cover) -->
-  <rect x="1380" y="2200" width="400" height="260" fill="#ffffff" rx="4"/>
-  <text x="1580" y="2345" text-anchor="middle" font-family="monospace" font-size="24" fill="#333333">ISBN BARCODE</text>
+  <text x="225" y="2090" text-anchor="start" font-family="'Crimson Text', Georgia, serif" font-size="42" fill="#777777">The full text is available free at</text>
+  <text x="225" y="2145" text-anchor="start" font-family="'Crimson Text', Georgia, serif" font-size="42" fill="#777777">christianity.trusthumankind.org</text>
 
-  <!-- ═══ SPINE (center, ~1838 to ~1976) ═══ -->
+  <!-- ═══ SPINE (x 1556–1712, center 1634) ═══ -->
 
-  <!-- Spine background slightly different shade for visibility in mockup -->
-  <rect x="1838" y="0" width="142" height="2775" fill="#1e1e1e"/>
+  <rect x="1556" y="0" width="156" height="2418" fill="#1a1a1a"/>
 
-  <!-- Spine accent lines -->
-  <line x1="1838" y1="0" x2="1838" y2="2775" stroke="#c49a3c" stroke-width="2"/>
-  <line x1="1980" y1="0" x2="1980" y2="2775" stroke="#c49a3c" stroke-width="2"/>
-
-  <!-- Spine text (rotated — reads bottom to top) -->
-  <g transform="translate(1909, 1387) rotate(-90)">
-    <text x="0" y="0" text-anchor="middle" font-family="Georgia, 'Times New Roman', serif" font-size="42" fill="#ffffff" letter-spacing="3">
+  <g transform="translate(1634, 1209) rotate(-90)">
+    <text x="0" y="0" text-anchor="middle" font-family="'Crimson Text', Georgia, serif" font-size="50" fill="#ffffff" letter-spacing="4">
       <tspan font-weight="bold">Christianity in 24 Hours</tspan>
-      <tspan dx="40" fill="#c49a3c">Marty Chang &amp; Coraline Chang</tspan>
+      <tspan dx="48" fill="#c49a3c">Marty Chang &amp; Coraline Chang</tspan>
     </text>
   </g>
 
-  <!-- ═══ FRONT COVER (right side, ~1980 to ~3780) ═══ -->
+  <!-- ═══ FRONT COVER (x 1712–3267, center 2471) ═══ -->
 
-  <!-- Large ghosted "24" -->
-  <text x="2880" y="1700" text-anchor="middle" font-family="Georgia, 'Times New Roman', serif" font-size="1100" font-weight="bold" fill="#222222">24</text>
+  <text x="2471" y="1617" text-anchor="middle" font-family="'Crimson Text', Georgia, serif" font-size="1200" font-weight="bold" fill="#222222">24</text>
 
-  <!-- Title -->
-  <text x="2880" y="820" text-anchor="middle" font-family="Georgia, 'Times New Roman', serif" font-size="136" font-weight="bold" fill="#ffffff" letter-spacing="6">Christianity</text>
+  <text x="2471" y="670" text-anchor="middle" font-family="'Crimson Text', Georgia, serif" font-size="150" font-weight="bold" fill="#ffffff" letter-spacing="6">Christianity</text>
 
-  <!-- "in" -->
-  <text x="2880" y="930" text-anchor="middle" font-family="Georgia, 'Times New Roman', serif" font-size="52" fill="#888888" letter-spacing="12" font-style="italic">in</text>
+  <text x="2471" y="790" text-anchor="middle" font-family="'Crimson Text', Georgia, serif" font-size="58" fill="#888888" letter-spacing="12" font-style="italic">in</text>
 
-  <!-- 24 Hours -->
-  <text x="2880" y="1100" text-anchor="middle" font-family="Georgia, 'Times New Roman', serif" font-size="156" font-weight="bold" fill="#c49a3c" letter-spacing="8">24 Hours</text>
+  <text x="2471" y="980" text-anchor="middle" font-family="'Crimson Text', Georgia, serif" font-size="150" font-weight="bold" fill="#c49a3c" letter-spacing="6">24 Hours</text>
 
-  <!-- Divider -->
-  <line x1="2480" y1="1180" x2="3280" y2="1180" stroke="#444444" stroke-width="1"/>
+  <line x1="2137" y1="1102" x2="2805" y2="1102" stroke="#444444" stroke-width="1"/>
 
-  <!-- Tagline -->
-  <text x="2880" y="1270" text-anchor="middle" font-family="Georgia, 'Times New Roman', serif" font-size="48" fill="#999999" letter-spacing="6" font-style="italic">One story. One decision.</text>
+  <text x="2471" y="1210" text-anchor="middle" font-family="'Crimson Text', Georgia, serif" font-size="58" fill="#999999" letter-spacing="12" font-style="italic">One story. One decision.</text>
 
-  <!-- Authors -->
-  <text x="2880" y="2680" text-anchor="middle" font-family="Georgia, 'Times New Roman', serif" font-size="48" fill="#c49a3c" letter-spacing="8">Marty Chang &amp; Coraline Chang</text>
+  <text x="2471" y="2300" text-anchor="middle" font-family="'Crimson Text', Georgia, serif" font-size="58" fill="#c49a3c">Marty Chang &amp; Coraline Chang</text>
 
-  <!-- Gold accent stripes across full wrap (rendered last to paint over spine background) -->
-  <rect x="0" y="0" width="3784" height="12" fill="#c49a3c"/>
-  <rect x="0" y="2763" width="3784" height="12" fill="#c49a3c"/>
+  <rect x="0" y="0" width="3267" height="12" fill="#c49a3c"/>
+  <rect x="0" y="2406" width="3267" height="12" fill="#c49a3c"/>
 </svg>
