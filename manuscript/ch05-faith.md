@@ -62,7 +62,7 @@ What faith does is sustain your commitment to the mission regardless of outcomes
 
 Here is where everything connects.
 
-Hour 1 established the mission: humanity proving we can overcome our fears and vices. Hour 3 established that we all fail at this — we reliably choose self over others. Hour 4 established that Jesus bridges the gap between our failure and God's standard.
+Hour 1 established the mission: humanity proving we can overcome our fears and vices. Hour 3 established that we often fail by choosing self over others. Hour 4 established that Jesus gives us hope that we can rise to God's expectations.
 
 Could the mission succeed without faith? In theory, yes — if every human chose love over self, the verdict would be the same regardless of what anyone believed about God. But the odds are terrible. Faith is what gives you the edge. Faith in eternal life means you can stop clawing for one more day and start giving your days away. It frees you from the need to accumulate, to protect, to hedge — because the material stakes of this life are not the final stakes. Faith lets you look at billions of strangers and see one family, because that is how God sees us. Without that edge, sustainable selflessness is nearly impossible. With it, you can endure, sacrifice, and even give your life — not out of recklessness, but out of the quiet confidence that this world is not all there is.
 
