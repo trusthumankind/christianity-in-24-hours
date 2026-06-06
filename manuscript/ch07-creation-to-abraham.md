@@ -117,7 +117,7 @@ This is not a transaction. It's a covenant — a binding commitment from God to 
 
 But Abraham wasn't perfect. He lied about his wife being his sister — twice ([Genesis 12:13][9], [Genesis 20:2][10]). He slept with Hagar because he and Sarah doubted God's promise of a son ([Genesis 16][11]). He was a man who said yes to God and then stumbled, repeatedly, like every person who has ever tried to live faithfully.
 
-This is important. The Bible does not present its heroes as paragons. It presents them as people — flawed, uncertain, capable of extraordinary faith and ordinary failure in the same week. If Abraham were perfect, his story would be irrelevant to anyone who isn't. Because he wasn't, his story says: you don't have to be perfect. You have to keep choosing.
+This is important. The Bible does not present its heroes as paragons. It presents them as people — flawed, uncertain, capable of extraordinary faith and ordinary failure in the same week. If Abraham was perfect, his story would be irrelevant to anyone who isn't. Because he wasn't, his story says: you don't have to be perfect. You have to keep choosing.
 
 ## The binding of Isaac
 
