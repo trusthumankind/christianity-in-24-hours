@@ -26,7 +26,8 @@ The creation account in Genesis 1 follows a structure: light, sky, land and sea,
 
 Hour 1 unpacked what "dominion" means — not a trophy but a responsibility. Humanity was made to steward creation. The test begins the moment the first humans open their eyes.
 
-And notice the language: "Let us make man in our image." Not "Let me make a servant." Not "Let me create something to worship me." In our image. God created beings with agency, with the capacity to reason, to choose, to love — and to refuse all three.
+And notice the language: "Let us make man in our image." Not "Let me make a servant."
+- Not "Let me create something to worship me." In our image. God created beings with agency, with the capacity to reason, to choose, to love — and to refuse all three.
 
 That capacity is the whole point.
 
@@ -77,7 +78,12 @@ If Cain's sin was individual — one man choosing self — Babel was collective.
 > Then they said, "Come, let us build ourselves a city and a tower with its top in the heavens, and let us make a name for ourselves, lest we be scattered over the face of the whole earth."
 — [Genesis 11:4 ESV][6]
 
-"Let us make a name for ourselves." Not: let us steward the earth. Not: let us love our neighbors. Not: let us fulfill the mission God gave us. Let us make a name. For ourselves.
+"Let us make a name for ourselves."
+- Not: let us steward the earth.
+- Not: let us love our neighbors.
+- Not: let us fulfill the mission God gave us.
+
+Let us make a name. For ourselves.
 
 Babel is the story of humanity using its collective capability — its cooperation, its engineering, its ambition — in service of its own glory rather than the mission. There's nothing wrong with building cities. There's nothing wrong with towers. What went wrong is the purpose: self-aggrandizement masquerading as achievement.
 
