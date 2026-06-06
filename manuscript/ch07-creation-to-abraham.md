@@ -8,7 +8,7 @@ A: God created, humanity failed, God refused to give up, and one man said yes.
 
 Part I gave you the framework. Part II gives you the story.
 
-The next six chapters trace the arc of the Bible from the beginning of everything to the founding of the early church. This isn't a comprehensive survey — a library of sixty-six books can't be compressed into six hours. What it is: the critical thread. The backbone of the narrative that connects creation to Christ. The events that set up the mission, tested it, nearly destroyed it, and ultimately made it possible.
+These six chapters trace the arc of the Bible from the beginning of everything to the founding of the early church. This isn't a comprehensive survey — a library of sixty-six books can't be compressed into six hours. What it is: the critical thread. The backbone of the narrative that connects creation to Christ. The events that set up the mission, tested it, nearly destroyed it, and ultimately made it possible.
 
 We start where the Bible starts.
 
