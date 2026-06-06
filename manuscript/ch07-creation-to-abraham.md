@@ -47,7 +47,7 @@ The Fall opened the door. Cain walked through it.
 
 The first murder. One generation after creation. And Cain's response — "Am I my brother's keeper?" — is the most honest articulation of sin in the entire Bible. It's not a denial. It's a question: why should I be responsible for someone else?
 
-The answer is: because that is the entire mission. You are your brother's keeper. That's what "love your neighbor as yourself" means at its most basic. Every person you encounter is your responsibility, not in the sense that you control their outcomes, but in the sense that how you treat them is evidence in the trial.
+The answer is: because that is the entire mission. You are your brother's keeper. That's what "love your neighbor as yourself" means at its most basic. Every person you encounter is your responsibility, not in the sense that you control their outcomes, but in the sense that you genuinely support their wellbeing.
 
 Cain chose self. And the consequence was exile — separation from the community, from the ground that would have sustained him, from God's direct presence. Sin doesn't just harm the victim. It isolates the one who commits it.
 
