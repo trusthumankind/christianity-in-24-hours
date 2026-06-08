@@ -41,7 +41,7 @@ Using a Forum channel instead of 24 separate channels because:
 
 - **Sunday morning:** New forum post created for the week's chapter (title, key themes, 2-3 discussion questions)
 - **Sunday–Saturday:** Async discussion in the forum thread
-- **One live voice session per week** (day/time TBD based on group availability) — strongly encouraged, not optional. The live conversations are where the real wrestling happens.
+- **One live voice session per week** (day/time TBD based on group availability) — strongly encouraged. The live conversations are where the real wrestling happens.
 
 ## Facilitation
 
