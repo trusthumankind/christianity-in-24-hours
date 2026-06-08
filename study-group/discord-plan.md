@@ -35,13 +35,13 @@ Using a Forum channel instead of 24 separate channels because:
 2. **Disagreement is welcome. Disrespect is not.** Challenge ideas, not people.
 3. **No one is an authority here.** The book takes positions. You're allowed to reject any of them.
 4. **Stay on the current week.** Spoilers from later chapters can undercut someone else's journey. Use #general for ahead-of-schedule thoughts.
-5. **This is not a church.** There's no membership, no doctrine, no hierarchy. Just people reading and thinking together.
+5. **This is not a religion.** There's no membership, no doctrine, no hierarchy. Just people reading and thinking together.
 
 ## Weekly Cadence
 
-- **Sunday evening:** New forum post created for the week's chapter (title, key themes, 2-3 discussion questions)
-- **Monday–Saturday:** Async discussion in the forum thread
-- **Optional:** One live voice session per week (day/time TBD based on group availability)
+- **Sunday morning:** New forum post created for the week's chapter (title, key themes, 2-3 discussion questions)
+- **Sunday–Saturday:** Async discussion in the forum thread
+- **One live voice session per week** (day/time TBD based on group availability) — strongly encouraged, not optional. The live conversations are where the real wrestling happens.
 
 ## Facilitation
 
