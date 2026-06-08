@@ -12,7 +12,7 @@ The full text is free online at [christianity.trusthumankind.org](https://christ
 
 This isn't a Bible study in the traditional sense. No one is going to tell you what to believe. The book takes positions — strong ones — and the study group is where we test them together. Bring your doubt. Bring your pushback. The whole point is honest engagement, not agreement.
 
-**Starting late June 2026.** If you're interested — or even just curious — sign up here: [link]
+**Starting late June 2026.** If you're interested — or even just curious — let me know.
 
 You don't need to be a Christian. You don't need to be anything. You just need to be willing to read one chapter a week and show up honestly.
 
@@ -20,4 +20,4 @@ You don't need to be a Christian. You don't need to be anything. You just need t
 
 ---
 
-*Personalize as needed. Replace [link] with the Google Form URL once created.*
+*Personalize as needed. This is designed for personal invitations — adjust the tone for each person.*
