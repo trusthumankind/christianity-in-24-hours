@@ -1,0 +1,23 @@
+# Christianity in 24 Hours — Study Group Invitation
+
+Hey —
+
+I wrote a book about faith. Not the comfortable kind — the kind that looks at what Christianity actually says when you strip away the institutional scaffolding, the political baggage, and the "God has a plan" platitudes.
+
+It's called *Christianity in 24 Hours*. Twenty-four chapters, each readable in under an hour. It covers everything: who God is, what the Bible actually says, why the church got so much wrong, and what it would take to get the mission back on track.
+
+The full text is free online at [christianity.trusthumankind.org](https://christianity.trusthumankind.org). If you prefer a physical copy, the paperback is $4.99 on Amazon.
+
+**I'm starting a study group** — one chapter per week, twenty-four weeks. Small group, around a dozen people. We'll meet on Discord at [thechurch.one](https://thechurch.one) for weekly discussion threads, with optional live conversations.
+
+This isn't a Bible study in the traditional sense. No one is going to tell you what to believe. The book takes positions — strong ones — and the study group is where we test them together. Bring your doubt. Bring your pushback. The whole point is honest engagement, not agreement.
+
+**Starting late June 2026.** If you're interested — or even just curious — sign up here: [link]
+
+You don't need to be a Christian. You don't need to be anything. You just need to be willing to read one chapter a week and show up honestly.
+
+— Marty
+
+---
+
+*Personalize as needed. Replace [link] with the Google Form URL once created.*
