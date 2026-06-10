@@ -2,11 +2,11 @@
 
 ## #welcome Channel
 
-*This is the read-only welcome message new members see when they join thechurch.one.*
+*This is the read-only welcome message new members see when they join **the church**.*
 
 ---
 
-**Welcome to thechurch.one.**
+Welcome to **the church**.
 
 This is a study group for *Christianity in 24 Hours* — a book that asks what Christianity actually says when you strip away the institutional scaffolding, the political baggage, and the comfortable answers.
 
@@ -40,7 +40,7 @@ Questions? Ask in #questions or #general. See you in the discussion.
 
 ---
 
-Hey — welcome to thechurch.one. Glad you're here.
+Hey — welcome to **the church**. Glad you're here.
 
 Quick orientation:
 - **#welcome** has the ground rules and how everything works

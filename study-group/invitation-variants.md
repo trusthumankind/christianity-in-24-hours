@@ -32,7 +32,7 @@ All variants link to the same resources:
 >
 > I know you're not religious, and that's exactly why I'm reaching out.
 >
-> I wrote a book called *Christianity in 24 Hours*. It's not what you'd expect — it argues that most of what people associate with Christianity (the politics, the judgment, the prosperity gospel) is a distortion of the actual message. The real mission is simpler and harder: love God, love your neighbor, and build a world where both are possible.
+> I wrote a book called *Christianity in 24 Hours*. It's not what you'd expect — it argues that most of what people associate with Christianity (the politics, the judgment, the prosperity gospel) is a distortion of the actual message. The real mission is simpler and harder: reducing violence, ending poverty, fighting injustice, and building a world that's fair and equitable for everyone. You and I already share that goal — we just come at it from different starting points.
 >
 > I'm starting a study group — one chapter a week for 24 weeks, starting July 6. You don't need to be a Christian. You don't need to believe anything. The group exists to test the book's arguments honestly, and skepticism is more useful than agreement.
 >
