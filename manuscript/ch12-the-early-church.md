@@ -112,7 +112,7 @@ Part III will ask what all of this means for you. Not what happened in the first
 - What does community look like?
 - What do you do with your money, your suffering, and your capacity to forgive?
 
-The direction is set. All that's needed are people willing to carry the mission.
+The story has been told. The direction is set. All that's needed are people willing to carry the mission.
 
 ## Questions to sit with
 
