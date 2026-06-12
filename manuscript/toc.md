@@ -19,7 +19,7 @@ Preface
 - Hour 8: Moses and the Law
 - Hour 9: The Prophets
 - Hour 10: Jesus — The Life
-- Hour 11: Jesus — The Death and Resurrection
+- Hour 11: Jesus — Death and Resurrection
 - Hour 12: The Early Church
 
 **Part III — The Life**

@@ -84,7 +84,7 @@ Jesus loved the Pharisees who plotted to kill him. He loved Judas, knowing Judas
 
 Here is the honest part.
 
-You will fail at this. Not occasionally. Constantly. You will love yourself more than your neighbor every single day. You will draw the circle smaller than Jesus drew it. You will choose comfort over sacrifice, tribe over universality, convenience over love. Every human being who has ever lived has failed this commandment, including the people who wrote the Bible.
+You will fail at this. Not occasionally. Constantly. You will love yourself more than your neighbor every single day. You will draw the circle smaller than Jesus drew it. You will choose comfort over sacrifice, tribe over inclusion, convenience over love. Every human being who has ever lived has failed this commandment, including the people who wrote the Bible.
 
 The question is not whether you will fail. The question is what you do after you fail.
 

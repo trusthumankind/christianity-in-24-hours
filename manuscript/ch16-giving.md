@@ -77,13 +77,13 @@ Ananias and Sapphira didn't die because they kept some money. They died because 
 
 The early church didn't have a mortgage program. They didn't offer microloans to their members. They didn't charge interest on anything. They shared. If someone needed a house, the community housed them. If someone needed food, the community fed them. No paperwork. No repayment schedule. No profit margin.
 
-So what happened?
-
 The Bible is consistently hostile to lending for profit. The Old Testament prohibits charging interest to those in need ([Exodus 22:25][9], [Leviticus 25:35-37][10]). Ezekiel lists usury alongside bloodshed and adultery as sins that defile a nation ([Ezekiel 18:13][11]). The Year of Jubilee — every fifty years — cancelled all debts and returned all land to its original owners ([Leviticus 25:8-13][10]). A hard reset, by design, to prevent the permanent accumulation of wealth by a few at the expense of everyone else.
 
 Jesus flipped the money-changers' tables. That wasn't a footnote — it was one of the only times he used physical force. The people profiting from others' need, inside a sacred space, enraged him more than almost anything else recorded in the gospels.
 
 The principle underneath all of it: **don't profit from your neighbor's need.**
+
+So what happened?
 
 Lending exists because we stopped sharing. A mortgage puts a family in a home — but only if they pay back the principal plus profit over thirty years. A student loan funds an education — but only if the borrower spends a decade paying interest to a bank. A microloan starts a business in a village — but someone still takes a cut. Every one of these transactions does something good while extracting something from the person who can least afford to give it.
 
@@ -95,7 +95,7 @@ Lending is what happens when that trust breaks down. Interest is the price of a 
 
 Capitalism organized human productivity more efficiently than what came before it. That's true. But the Law organized Israelite society more efficiently than what came before it, and the Law was still parenting on a civilizational scale — rules for a species that hadn't grown up enough to do the right thing without being told. Capitalism is the same kind of scaffolding. Useful for a stage. Not the endpoint.
 
-The endpoint is Acts 2. The endpoint is a community where no one needs to borrow because no one is left without. The victory conditions from Hour 24 — food security, housing security, education without gatekeepers — describe a world where most lending becomes unnecessary. Not because lending was outlawed, but because the need for it disappeared.
+The endpoint is Acts 2. The endpoint is a community where no one needs to borrow because no one is left without. Hour 24 will lay out what that world looks like in concrete terms. For now, the principle: if the mission succeeds, most lending becomes unnecessary. Not because lending was outlawed, but because the need for it disappeared.
 
 If you work in financial services, the question is not whether your job is sinful. The question is whether you're using your position to move toward giving or to perpetuate the gap. Are you building products that trap people in debt, or products that help them escape it? Are you profiting from desperation, or reducing it? The industry you're in matters less than the direction you're pointed.
 
@@ -116,9 +116,7 @@ Jesus said it once. It bears repeating.
 
 * If someone audited your bank statements, what would they say you actually worship?
 * Are you giving in a way that costs you something, or in a way that's painless enough to ignore?
-* What are you holding back — not money, but time, comfort, safety — and what would change if you let go of it?
-
-The tithe was never the point. The point is whether you're willing to hold your life with open hands. God isn't checking your receipts. God is checking your grip.
+* What are you holding back (not just money, but time, comfort, safety) and what would change if you let go of it?
 
 [1]: https://www.esv.org/Matthew+21/
 [2]: https://www.esv.org/Leviticus+27/
