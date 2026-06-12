@@ -105,9 +105,14 @@ The help came as a life. Jesus showed what faithfulness looks like when it moves
 
 They took it anyway. They shared what they had. They traveled hostile roads. They built communities. They argued, failed, compromised, and kept going. Some of them died for it. And the mission that began with one man leaving home on a promise survived the death of every person who carried it in the first generation.
 
-Part III — The Life — will ask what all of this means for you. Not what happened in the first century. What happens in yours. How do you love your neighbor? How do you pray? What does community look like? What do you do with your money, your suffering, and your capacity to forgive?
+Part III will ask what all of this means for you. Not what happened in the first century, but what happens in this century:
 
-The story has been told. The question now is whether you will live it.
+- How do you love your neighbor?
+- How do you pray?
+- What does community look like?
+- What do you do with your money, your suffering, and your capacity to forgive?
+
+The story has been told. The direction is set. All that's needed are people willing to carry the mission.
 
 ## Questions to sit with
 
@@ -129,4 +134,4 @@ The story has been told. The question now is whether you will live it.
 
 ---
 
-[← Hour 11: Jesus — The Death and Resurrection](ch11-jesus-death-resurrection.html) · [Table of Contents](../) · [Part III: The Life →](part3.html)
+[← Hour 11: Jesus — Death and Resurrection](ch11-jesus-death-resurrection.html) · [Table of Contents](../) · [Part III: The Life →](part3.html)

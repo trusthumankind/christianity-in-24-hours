@@ -28,7 +28,7 @@ title: Christianity in 24 Hours
 - Hour 8: [Moses and the Law](manuscript/ch08-moses-and-the-law.html)
 - Hour 9: [The Prophets](manuscript/ch09-the-prophets.html)
 - Hour 10: [Jesus: The Life](manuscript/ch10-jesus-the-life.html)
-- Hour 11: [Jesus: The Death and Resurrection](manuscript/ch11-jesus-death-resurrection.html)
+- Hour 11: [Jesus: Death and Resurrection](manuscript/ch11-jesus-death-resurrection.html)
 - Hour 12: [The Early Church](manuscript/ch12-the-early-church.html)
 
 ### Part III: The Life
