@@ -49,7 +49,7 @@ Suffering is not the opposite of the mission. Suffering is where the mission get
 
 ## What suffering is not
 
-**Suffering is not punishment.** If it were, the most faithful people would suffer least. They don't. The biblical pattern runs the other way — the more faithfully someone carries the mission, the more they tend to suffer. Jesus, the prophets, the early church. Suffering as punishment is the theology of every well-meaning person who has ever said, "Maybe God is trying to teach you something."
+**Suffering is not punishment.** If it were, the most faithful people would suffer least. They don't. The biblical pattern runs the other way — the more faithfully someone carries the mission, the more they tend to suffer. Jesus, the prophets, the early church. Suffering as punishment is misguided theology, however well-meaning the person who says, "Maybe God is trying to teach you something."
 
 **Suffering is not a test administered by God.** God is not giving you cancer to see how you handle it. God stepped back. The world runs on its own laws. Cells mutate. Tectonic plates shift. People make choices that harm other people. These are not divine interventions — they are the mechanics of a world that operates on its own terms.
 

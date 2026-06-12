@@ -23,7 +23,7 @@ and real feedback comes in from readers.
 | 8 | Moses and the Law | Planned | Rules, purpose, and the Exodus |
 | 9 | The Prophets | Planned | God's messengers and Israel's failures |
 | 10 | Jesus: The Life | Planned | Who he was and what he did |
-| 11 | Jesus: The Death and Resurrection | Planned | Why it matters |
+| 11 | Jesus: Death and Resurrection | Planned | Why it matters |
 | 12 | The Early Church | Planned | Acts, Paul, and the spread of the gospel |
 
 **Cross-cutting theme — Special treatment then vs. expectations now:** The OT narrative

@@ -50,7 +50,7 @@ After dinner, Jesus went to a garden called Gethsemane. And here is where the ch
 
 He asked God to take the cup from him. He asked three times. He did not want to die.
 
-This is the most important detail in the entire narrative. If Jesus simply accepted his death with divine serenity — if he walked to the cross the way someone walks through a door — it wouldn't mean anything. The test of faithfulness is only real if the alternative is real. Jesus could have walked away. He could have used his gifts to escape. He could have called down those twelve legions of angels. He had every option available to him, including walking away. Every option except surrender.
+This is the most important detail in the entire narrative. If Jesus simply accepted his death with divine serenity — if he walked to the cross the way someone walks through a door — it wouldn't mean anything. The test of faithfulness is only real if the alternative is real. Jesus could have walked away. He could have used his gifts to escape. He could have called down those twelve legions of angels. He had every option available to him, including walking away.
 
 He chose the mission.
 
@@ -61,7 +61,7 @@ This is Hour 5's definition of faith, taken to its absolute limit. Choosing to a
 
 ## The arrest and trial
 
-Judas betrayed him with a kiss. The disciples ran. Peter — who had sworn he would die first — denied him three times before dawn, exactly as Jesus had predicted.
+Judas betrayed him with a kiss. The disciples ran. Peter — who had sworn he would die before denying Jesus — denied him three times before dawn, exactly as Jesus had predicted.
 
 The trial was a farce. The religious leaders had already decided the outcome. They needed a charge that would stick with the Roman authorities, so they went with sedition — claiming Jesus called himself a king. Pontius Pilate, the Roman governor, found no basis for the charge. He tried to release Jesus.
 
