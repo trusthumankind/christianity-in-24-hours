@@ -30,7 +30,7 @@ This is the first form of fake faith: **performance without purpose.** Going thr
 
 Jesus didn't criticize the Pharisees for believing too much. He criticized them for substituting behavior for character. They could quote Leviticus but couldn't see the person standing in front of them who needed help.
 
-The instinct didn't die with the Pharisees. It's alive in every church that reduces faith to a list of rules: don't drink, don't swear, don't dance, don't associate with the wrong people. The list is easier than the real questions: "Am I becoming the kind of person who loves God and loves my neighbor? Am I advancing the mission?" The mission has clear victory conditions (Hour 24). The list substitutes compliance for progress toward them.
+The instinct didn't die with the Pharisees. It's alive in every church that reduces faith to a list of rules: don't drink, don't swear, don't dance, don't associate with the wrong people. The list is easier than the real questions: "Am I becoming the kind of person who loves God and loves my neighbor? Am I advancing the mission?" The mission has clear victory conditions (Hour 24). The list substitutes compliance for measurable progress.
 
 Paul fought this battle constantly. Half of his letters are arguments against the idea that rule-following equals faithfulness:
 
@@ -74,7 +74,7 @@ This is not a judgment on sincerity. Many cultural Christians genuinely believe 
 
 Every form of fake faith has the same root: it's easier than the real thing.
 
-Performance is easier than transformation. Transaction is easier than sacrifice. Ignorance is easier than honest inquiry.
+Performance is easier than transformation. Transaction is easier than sacrifice. Willful ignorance is easier than honest inquiry.
 
 Real faith — the kind described across the last eighteen hours — demands that you examine your life honestly, change what needs changing, give until it costs you, forgive when everything in you says don't, sit with suffering you can't explain, and carry a mission that has no guaranteed payoff in your lifetime. That's hard.
 
@@ -92,7 +92,7 @@ This is not a one-time decision. It's the same discipline described in every cha
 
 The Pharisees never faced this test. They had legalism, not faith. The prosperity gospel replaces it with a transaction. Cultural Christianity drowns it in niceties.
 
-Real faith is what remains when you've stripped away the performance, the incentives, and the ignorance, and you're standing in the uncertainty, choosing the mission anyway.
+Real faith is what remains when you've stripped away the performance, the incentives, and the ignorance. You're standing in the uncertainty, choosing the mission anyway.
 
 ## Questions to sit with
 
