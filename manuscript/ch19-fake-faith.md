@@ -30,14 +30,14 @@ This is the first form of fake faith: **performance without purpose.** Going thr
 
 Jesus didn't criticize the Pharisees for believing too much. He criticized them for substituting behavior for character. They could quote Leviticus but couldn't see the person standing in front of them who needed help.
 
-The instinct didn't die with the Pharisees. It's alive in every church that reduces faith to a list of rules: don't drink, don't swear, don't dance, don't associate with the wrong people. The list is easier than the real question: "Am I becoming the kind of person who loves God and loves my neighbor?" The list is measurable. The real question isn't.
+The instinct didn't die with the Pharisees. It's alive in every church that reduces faith to a list of rules: don't drink, don't swear, don't dance, don't associate with the wrong people. The list is easier than the real questions: "Am I becoming the kind of person who loves God and loves my neighbor? Am I advancing the mission?" The mission has clear victory conditions (Hour 24). The list substitutes compliance for progress toward them.
 
 Paul fought this battle constantly. Half of his letters are arguments against the idea that rule-following equals faithfulness:
 
 > "For freedom Christ has set us free; stand firm therefore, and do not submit again to a yoke of slavery."
 — [Galatians 5:1 ESV][6]
 
-The "yoke of slavery" is not sin. It's the Law used as a cage. The early church nearly split apart over whether Gentile converts had to follow Jewish dietary laws and be circumcised. Paul's answer was unequivocal: if you reduce faith to rule-following, you've missed the point entirely. The Law was a developmental stage (Hour 8). Faith that clings to it as the final measure has stopped growing.
+The "yoke of slavery" is not sin. It's the Law used as a fence. The early church nearly split apart over whether Gentile converts had to follow Jewish dietary laws and be circumcised. Paul's answer was unequivocal: if you reduce faith to rule-following, you've missed the point entirely. The Law was a developmental stage (Hour 8). Faith that clings to it as the final measure has stopped growing.
 
 ## Prosperity gospel
 
@@ -74,7 +74,7 @@ This is not a judgment on sincerity. Many cultural Christians genuinely believe 
 
 Every form of fake faith has the same root: it's easier than the real thing.
 
-Performance is easier than transformation. Transaction is easier than sacrifice. Identity is easier than discipline.
+Performance is easier than transformation. Transaction is easier than sacrifice. Ignorance is easier than honest inquiry.
 
 Real faith — the kind described across the last eighteen hours — demands that you examine your life honestly, change what needs changing, give until it costs you, forgive when everything in you says don't, sit with suffering you can't explain, and carry a mission that has no guaranteed payoff in your lifetime. That's hard.
 
@@ -88,14 +88,16 @@ You know by what you've honestly faced, what you've given to the mission, and wh
 
 Have you reckoned honestly with every reason to walk away and still chosen to stay? Have you genuinely considered the possibility that God doesn't exist? That the mission is a human invention? That none of this matters? Have you sat with the doubt, the uncertainty, the absence of proof? And after all of that, have you still chosen to work for peace on earth?
 
-This is not a one-time decision. It's the same discipline described in every chapter of Part III — the daily practice of prayer, the ongoing commitment to community, the repeated choice to forgive. Faith is a choice you make over and over, often without evidence that it's working, often without anyone watching, often against your own instincts. The Pharisees never faced this test. They had certainty, not faith. The prosperity gospel replaces it with a transaction. Cultural Christianity skips it entirely.
+This is not a one-time decision. It's the same discipline described in every chapter of Part III — the daily practice of prayer, the ongoing commitment to community, the repeated choice to forgive. Faith is a choice you make over and over, often without evidence that it's working, often without anyone watching, often against your own instincts.
 
-Real faith is what remains when you've stripped away the performance, the incentives, and the identity, and you're standing in the uncertainty, choosing the mission anyway.
+The Pharisees never faced this test. They had legalism, not faith. The prosperity gospel replaces it with a transaction. Cultural Christianity drowns it in niceties.
+
+Real faith is what remains when you've stripped away the performance, the incentives, and the ignorance, and you're standing in the uncertainty, choosing the mission anyway.
 
 ## Questions to sit with
 
 * If someone watched your life for a week — not your Sunday, your whole week — what would they conclude you actually believe?
-* Which form of fake faith is closest to your own default? Performance, transaction, or identity?
+* Which form of fake faith is closest to your own default? Performance, transaction, or ignorance?
 * Jesus said "I never knew you" to people who did mighty works in his name. What's the difference between doing things for God and actually knowing God?
 
 [1]: https://www.esv.org/Matthew+7/
