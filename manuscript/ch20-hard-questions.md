@@ -93,7 +93,7 @@ God trusts you enough to let the outcome depend on you. The practice of prayer b
 
 ## What about marriage?
 
-The institutional church treats marriage as the default expectation for adult life. And often as the prerequisite for legitimate sex, partnership, and full participation in church community. Singles ministries exist, but they're usually holding pens for people who haven't paired up yet. The unspoken message: being single is a phase. Marriage is the destination.
+The institutional church treats marriage as the default expectation for adult life. Marriage is often the prerequisite for legitimate sex, partnership, and full participation in church community. Singles ministries exist, but they're usually holding pens for people who haven't paired up yet. The unspoken message: being single is a phase. Marriage is the destination.
 
 Paul disagreed.
 
@@ -144,7 +144,7 @@ He tells her he understands. He respects her decision. All he says is that he'd 
 
 No lecture. No scripture quoted. No ultimatum. Just a preference stated with honesty, and a woman's autonomy respected with love. That interaction — quiet, mutual, agonizing — is closer to what faith looks like in practice than any political platform or protest sign.
 
-But notice what's missing from that story: a community. The calculus changes if a village of people living the mission surrounded that family, sharing the cost of childcare, guaranteeing healthcare, ensuring no family drowns under the weight of another mouth to feed. Not the woman's right to choose, but the pressure that makes the choice feel impossible.
+But notice what's missing from that story: a community. The calculus changes if a village of people living the mission surrounded that family, sharing the cost of childcare, guaranteeing healthcare, ensuring no family drowns under the weight of another mouth to feed. The problem is not the woman's right to choose, but the pressure that makes the choice feel impossible.
 
 This is where the institutional church fails most visibly. The same voices that say "abortion is murder" overwhelmingly oppose universal healthcare, paid family leave, free childcare, and the social infrastructure that would make keeping an unplanned child survivable. They demand the birth and then disappear. That is not pro-life. It is pro-birth.
 
