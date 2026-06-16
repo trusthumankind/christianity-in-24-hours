@@ -44,7 +44,7 @@ There are three honest ways to engage with this:
 
 **The human authorship lens.** The Bible is a library (Hour 2), written by human beings in specific historical contexts. Some of those authors may have attributed their nation's military campaigns to God's command because that's what ancient cultures did. Every nation claimed divine mandate for its wars. Reading critically doesn't mean dismissing the text. It means asking whether "God commanded" and "we believed God commanded" can look identical in a text written by the victors.
 
-**The tension lens.** Perhaps the violence is in the text precisely because faith is not supposed to be comfortable. If you read the Bible and nothing troubles you, you're not reading carefully. The violence forces you to wrestle: with the text, with your understanding of God, with the distance between the Old Testament world and the one Jesus described. That wrestling is not a failure of faith. It's faith working.
+**The tension lens.** Perhaps the violence is in the text precisely because faith is not supposed to be comfortable. If you read the Bible and nothing troubles you, you're not reading carefully. The violence forces you to wrestle with the text, with your understanding of God, with the distance between the Old Testament world and the one Jesus described. That wrestling is not a failure of faith. It's faith working.
 
 ## What about hell?
 
@@ -63,7 +63,7 @@ The conflict between science and faith is largely manufactured. It exists becaus
 > "For you formed my inward parts; you knitted me together in my mother's womb."
 — [Psalm 139:13 ESV][5]
 
-The psalmist didn't know about DNA. He didn't need to. The point is not the mechanism. It's the meaning. God created a universe governed by elegant, discoverable laws. The fact that those laws are intelligible, that a human mind can comprehend the mathematics of a star, is itself remarkable, and is consistent with a universe created by an intelligent being.
+The psalmist didn't know about DNA. He didn't need to. The point is not the mechanism. It's the meaning. God created a universe governed by elegant, discoverable laws. The fact that those laws are intelligible, that a human mind can comprehend the mathematics of a star, is itself remarkable. And it is consistent with a universe created by an intelligent being.
 
 Faith and science conflict only when one tries to do the other's job. When faith makes scientific claims (the earth is 6,000 years old), it embarrasses itself. When science makes theological claims (there is no purpose), it exceeds its methodology.
 
@@ -85,7 +85,7 @@ But most importantly, despite the contradictions, the Bible presents overwhelmin
 
 Hour 14 addressed this: prayer is orientation, not petition. But the question lingers because it's personal. You prayed for your mother to be healed, and she died. You prayed for guidance, and heard nothing. You prayed for strength, and felt weaker.
 
-The honest answer: if God has stepped back and the world operates on its own laws, then prayer was never going to change the medical outcome. That's not a failure of prayer. It's a misunderstanding of what prayer does. Prayer changed whether you were honest about your fear, whether you examined your priorities, whether you were prepared for what came next. It didn't change what came next.
+The honest answer: if God has stepped back and the world operates on its own laws, then prayer was never going to change the medical outcome. That's not a failure of prayer. That's a misunderstanding of what prayer does. Prayer changed whether you were honest about your fear, whether you examined your priorities, whether you were prepared for what came next. It didn't change what came next.
 
 This is unsatisfying, if you want a God who intervenes on request. And at the same time, can you trust a God who plays favorites, when we all know the deck is stacked for or against you depending on where and to whom you are born?
 
@@ -93,18 +93,18 @@ God trusts you enough to let the outcome depend on you. The practice of prayer b
 
 ## What about marriage?
 
-The institutional church treats marriage as the default expectation for adult life, and often as the prerequisite for legitimate sex, partnership, and full participation in church community. Singles ministries exist, but they're usually holding pens for people who haven't paired up yet. The unspoken message: being single is a phase. Marriage is the destination.
+The institutional church treats marriage as the default expectation for adult life. And often as the prerequisite for legitimate sex, partnership, and full participation in church community. Singles ministries exist, but they're usually holding pens for people who haven't paired up yet. The unspoken message: being single is a phase. Marriage is the destination.
 
 Paul disagreed.
 
 > I wish that all were as I myself am. But each has his own gift from God, one of one kind and one of another. To the unmarried and the widows I say that it is good for them to remain single, as I am.
 — [1 Corinthians 7:7-8 ESV][9]
 
-Paul actively recommended singleness: not as a consolation prize, but as a better position for carrying the mission. His reasoning was practical: married people divide their attention between the mission and their spouse. Single people can give the mission their full focus. Jesus never married. Neither did Paul. The two most influential figures in Christianity chose singleness, and the church somehow turned marriage into a requirement.
+Paul actively recommended singleness not as a consolation prize, but as a better position for carrying the mission. His reasoning was practical: married people divide their attention between the mission and their spouse. Single people can give the mission their full focus. Jesus never married. Neither did Paul. The two most influential figures in Christianity chose singleness, and the church somehow turned marriage into a requirement.
 
 None of this means marriage is wrong. Marriage is a covenant between two people to carry the mission together: to build a household oriented toward love of God and love of neighbor. At its best, a marriage is a two-person community (Hour 15) practicing vulnerability, accountability, and showing up for each other every day. At its worst, it's a private fortress: two people turning inward, building comfort, and using "family first" as an excuse to opt out of the broader mission.
 
-The question is not whether you should get married. The question is what your marriage, or your singleness, is pointed toward. A single person carrying the mission is living more faithfully than a married couple accumulating comfort behind a locked front door.
+The question is not whether you should get married. The question is what your marriage or your singleness is pointed toward. A single person carrying the mission is living more faithfully than a married couple accumulating comfort behind a locked front door.
 
 ## Should Christians have children?
 
@@ -117,9 +117,9 @@ Jesus didn't have children. Paul didn't have children. Paul recommended singlene
 
 Jesus redefined family as the people carrying the mission. Blood relation is not the primary bond. Shared commitment is.
 
-So should you have children? That's between you, your partner, and your honest assessment of what you're building. If you're having children because you want to raise people who carry the mission (who learn to love their neighbor, question injustice, and hold their lives with open hands), that's a reason. If you're having children because it's expected, because your parents want grandchildren, because you want someone to take care of you when you're old, examine whether those reasons serve the mission or serve yourself.
+So should you have children? That's between you, your partner, and your honest assessment of what you're building. If you're having children because you want to raise people who carry the mission, that's a reason. If you're having children because it's expected, because your parents want grandchildren, because you want someone to take care of you when you're old, examine whether those reasons serve the mission or serve yourself.
 
-And if you choose not to have children, because the mission needs your full attention, because the world you'd bring them into isn't ready, because you know yourself well enough to know parenthood isn't your calling, that is not a failure of faith. It may be the clearest expression of it.
+You may choose not to have children, because the mission needs your full attention, because the world you'd bring them into isn't ready, because you know yourself well enough to know parenthood isn't your calling. That is not a failure of faith. It may be the clearest expression of it.
 
 The mission needs parents who raise children for the world, not for themselves. It also needs people who give everything to the mission without the weight of family obligations. Both paths serve. Neither is default.
 
@@ -132,25 +132,25 @@ Scripture says remarkably little about abortion directly. The passages most ofte
 > "For you formed my inward parts; you knitted me together in my mother's womb."
 — [Psalm 139:13 ESV][5]
 
-This is a poem about God's intimate knowledge of a person. It is not legislation. Jeremiah 1:5, "Before I formed you in the womb I knew you," describes God's foreknowledge of a specific prophet, not a universal policy statement. These verses affirm that life is sacred. They do not define the moment it begins or settle what a woman should do when every option in front of her involves suffering.
+This is a poem about God's intimate knowledge of a person. It is not legislation. Jeremiah 1:5 — "Before I formed you in the womb I knew you" — describes God's foreknowledge of a specific prophet, not a universal policy statement. These verses affirm that life is sacred. They do not define the moment it begins or settle what a woman should do when every option in front of her involves suffering.
 
 Meanwhile, Exodus 21:22-25 prescribes different penalties for harming a pregnant woman versus causing the loss of her pregnancy, a distinction the text draws without commentary. And Numbers 5 describes a ritual administered by a priest to a woman suspected of adultery, the outcome of which may terminate a pregnancy. It is prescribed by God, in the text. These passages don't settle the debate either, but they complicate the claim that Scripture speaks with one voice on the subject.
 
 Here is what Scripture *does* say clearly: love your neighbor.
 
-Consider a real situation. A couple with two children agrees their family is complete. They're not always careful. One month, a scare. She might be pregnant. She tells her husband plainly: if the test is positive, she's ending the pregnancy. She asks how he'd feel.
+Consider a real situation. A couple with two children agrees their family is complete. They're not always careful. One month, a scare: she might be pregnant. She tells her husband plainly: if the test is positive, she's ending the pregnancy. She asks how he'd feel.
 
 He tells her he understands. He respects her decision. All he says is that he'd prefer she keep the child.
 
-No lecture. No scripture quoted. No ultimatum. Just a preference stated with honesty, and a woman's autonomy respected with love. That interaction, quiet, mutual, agonizing, is closer to what faith looks like in practice than any political platform or protest sign.
+No lecture. No scripture quoted. No ultimatum. Just a preference stated with honesty, and a woman's autonomy respected with love. That interaction — quiet, mutual, agonizing — is closer to what faith looks like in practice than any political platform or protest sign.
 
-But notice what's missing from that story: a community. If a village of people living the mission surrounded that family, sharing the cost of childcare, guaranteeing healthcare, ensuring no family drowns under the weight of another mouth to feed, the calculus changes. Not the woman's right to choose, but the pressure that makes the choice feel impossible.
+But notice what's missing from that story: a community. The calculus changes if a village of people living the mission surrounded that family, sharing the cost of childcare, guaranteeing healthcare, ensuring no family drowns under the weight of another mouth to feed. Not the woman's right to choose, but the pressure that makes the choice feel impossible.
 
 This is where the institutional church fails most visibly. The same voices that say "abortion is murder" overwhelmingly oppose universal healthcare, paid family leave, free childcare, and the social infrastructure that would make keeping an unplanned child survivable. They demand the birth and then disappear. That is not pro-life. It is pro-birth.
 
-The honest framework: life is sacred, and so is the woman carrying it. She is your neighbor. Her impossible choice is not a political talking point. It is a failure of the community that was supposed to be there and wasn't. The grown-up response to abortion is not to police individual decisions. It is to build the world where fewer people face the decision at all, and to love, without judgment, these women regardless of what they choose.
+The honest framework: life is sacred, and so is the woman carrying it. She is your neighbor. Her impossible choice is not a political talking point. It is a failure of the community that was supposed to be there and wasn't. The grown-up response to abortion is not to police individual decisions. It is to build the world where fewer people face the decision at all. The compassionate response is to love, without judgment, these women regardless of what they choose.
 
-This is why the mission matters. The victory conditions from Hour 24 (food security, housing security, education without gatekeepers) are not abstractions. They are the answer to this question. Build the village, and the impossible choices get fewer.
+This is why the mission matters. Food security, housing security, education without gatekeepers: these are not abstractions. They are the answer to this question. Build the village, and the impossible choices get fewer.
 
 ## The question behind the questions
 
@@ -158,7 +158,7 @@ Every hard question has the same thing underneath it: *can I trust this?*
 
 Can I trust a God who allows suffering? Can I trust a Bible with contradictions? Can I trust a faith that can't prove itself scientifically? Can I trust any one religion that claims to be right when thousands of others make the same claim?
 
-The answer from Hour 19: real faith means sitting with these questions, honestly considering the possibility that the answer is no, and choosing to act anyway. Not because the doubts have been resolved, but because the mission (love God, love your neighbor, overcome our fears and vices) is worth carrying even in the presence of doubt.
+The answer from Hour 19: real faith means sitting with these questions, honestly considering the possibility that the answer is no, and choosing to act anyway. Not because the doubts have been resolved, but because the mission is worth carrying even in the presence of doubt.
 
 The questions don't go away. A faith that requires them to go away is fragile. A faith that carries them is the only kind that lasts.
 
@@ -166,7 +166,7 @@ The questions don't go away. A faith that requires them to go away is fragile. A
 
 * Which of these hard questions is the one you've been avoiding? What would it mean to face it honestly instead of pretending it doesn't bother you?
 * Has a question ever strengthened your faith rather than weakened it? What made the difference?
-* Is your faith strong enough to hold doubt without collapsing, or does it depend on certainty?
+* Is your faith strong enough to hold doubt without collapsing? Or does it depend on certainty?
 
 [1]: https://www.esv.org/Acts+10/
 [2]: https://www.esv.org/Deuteronomy+20/
