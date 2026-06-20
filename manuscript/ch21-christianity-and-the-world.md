@@ -41,7 +41,7 @@ Jesus rejected worldly power as a satanic temptation. The church accepted it as 
 
 ## Colonialism and forced conversion
 
-European colonial expansion from the 15th through the 20th centuries was consistently justified by Christianity. The Doctrine of Discovery, a series of papal decrees, gave Christian nations the right to claim lands inhabited by non-Christians. Indigenous peoples across the Americas, Africa, Asia, and the Pacific were subjected to forced conversion, cultural destruction, and genocide, often with missionaries and soldiers working side by side.
+European colonial expansion from the 15th through the 20th centuries was consistently justified by Christianity. A series of papal decrees together formed the Doctrine of Discovery, which gave Christian nations the right to claim lands inhabited by non-Christians. Indigenous peoples across the Americas, Africa, Asia, and the Pacific were subjected to forced conversion, cultural destruction, and genocide, often with missionaries and soldiers working side by side.
 
 The residential school systems in North America and Australia forcibly removed Indigenous children from their families to "civilize" them in Christian institutions. Languages were forbidden. Cultures were erased. Physical and sexual abuse was rampant. This happened not despite Christianity but in its name.
 
@@ -55,7 +55,7 @@ The abolition movement was also Christian. William Wilberforce, Harriet Beecher 
 
 This matters: the Bible was not the problem. The problem was people reading it to confirm what they already wanted to believe. Slaveholders didn't discover slavery in the Bible; they found verses they could twist to bless what they'd already decided to do. The abolitionists read the same text and found a God who liberated slaves from Egypt, a Jesus who came to set captives free, and a mission built on the dignity of every human being.
 
-The Bible is a mirror. It reflects what you bring to it. That's why reading it honestly, with critical thinking, historical context, and intellectual humility, is not optional.
+The Bible is a mirror. It reflects what you bring to it. That's why reading it honestly, with critical thinking, historical context, and intellectual humility, is a must.
 
 ## The pattern
 
@@ -91,12 +91,12 @@ The answer depends on what you mean by Christianity. If you mean the institution
 
 If you mean the mission — love God, love your neighbor, overcome your fears and vices — then yes. The mission is not invalidated by the institution's failures. It is, in fact, vindicated by them. Every institutional corruption proves exactly what the mission claims: that humans left to their own instincts will choose power over love, self-preservation over sacrifice, comfort over justice. The mission exists because that tendency exists. The failures of the church are evidence for the problem the mission was designed to address.
 
-The question is whether you can separate the signal from the noise. Whether you can hold the mission without inheriting the institution's worst impulses. That's what the remaining hours are about.
+The question is whether you can separate the signal from the noise. Can you hold the mission without inheriting the institution's worst impulses? That's what the remaining hours are about.
 
 ## Questions to sit with
 
 * What has been done in the name of your faith that you find indefensible? Have you reckoned with it honestly, or have you minimized it?
-* Can you distinguish between the mission Jesus described and the institution that claims his name? Where does the institution you belong to, if you belong to one, fall short?
+* Can you distinguish between the mission Jesus described and the institution that claims his name? If you belong to an institution, where does it fall short?
 * If Christianity's track record in the world is mixed at best, what would it look like for you to carry the mission without repeating the pattern?
 
 [1]: https://www.esv.org/John+18/
