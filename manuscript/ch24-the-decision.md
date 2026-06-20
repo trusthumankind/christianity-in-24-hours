@@ -58,9 +58,9 @@ Pascal's famous argument was a calculation: believe in God because the expected 
 Pascal's wager is valid, but he oversimplified the path to eternal rewards.
 
 Here is the real wager — the one the mission actually asks you to make.
+- **Will you give your life to something bigger** than yourself, knowing it will cost you?
 - Not: will you gain something by believing?
 - Not: will your life be better, easier, more blessed?
-- **Will you give your life to something bigger** than yourself, knowing it will cost you?
 
 The mission does not promise you a comfortable life. Jesus was crucified. The disciples were martyred. The prophets were ignored, exiled, killed. Paul was beaten, shipwrecked, imprisoned. None of them lived an easy life. None of them were rewarded with comfort. The "better life" that mainstream Christianity sells — earthly blessing, eternal security in exchange for Sunday attendance — is a sweet poison. It is the opposite of what the mission demands.
 
@@ -72,7 +72,7 @@ Abraham left everything familiar — not because it would make his life better, 
 
 That level of effort demonstrates faith. Not merely a verbal proclamation, but a life spent on others.
 
-And not without hope. The reward is real — it is just different from what mainstream Christianity advertises. The mission has always been generational, and the reward may not arrive in your lifetime. Abraham never saw the nation. Moses never entered the land. The prophets never saw the justice they demanded. They carried the mission knowing that future generations would inherit what they built. And the promise — the one that runs from Genesis through Revelation — is that the mission has an endpoint. Not a metaphorical one. A real one.
+And not without hope. The reward is real — it is just different from what mainstream Christianity advertises. The mission has always been generational, and the eternal reward may not arrive in your lifetime. Abraham never saw the nation. Moses never entered the land. The prophets never saw the justice they demanded. They carried the mission knowing that future generations would inherit what they built. And the promise — the one that runs from Genesis through Revelation — is that the mission has an endpoint. Not a metaphorical one. A real one.
 
 ## The victory conditions
 
