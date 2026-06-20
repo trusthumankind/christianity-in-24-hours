@@ -1,4 +1,4 @@
-# Hour 11: Jesus — Death and Resurrection
+# Hour 11: Death and Resurrection
 
 Q: Why did Jesus have to die?
 

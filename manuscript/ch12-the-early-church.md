@@ -134,4 +134,4 @@ The story has been told. The direction is set. All that's needed are people will
 
 ---
 
-[← Hour 11: Jesus — Death and Resurrection](ch11-jesus-death-resurrection.html) · [Table of Contents](../) · [Part III: The Life →](part3.html)
+[← Hour 11: Death and Resurrection](ch11-jesus-death-resurrection.html) · [Table of Contents](../) · [Part III: The Life →](part3.html)

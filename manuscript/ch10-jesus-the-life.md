@@ -140,4 +140,4 @@ That cost is the next chapter.
 
 ---
 
-[← Hour 9: The Prophets](ch09-the-prophets.html) · [Table of Contents](../) · [Hour 11: Jesus — Death and Resurrection →](ch11-jesus-death-resurrection.html)
+[← Hour 9: The Prophets](ch09-the-prophets.html) · [Table of Contents](../) · [Hour 11: Death and Resurrection →](ch11-jesus-death-resurrection.html)
