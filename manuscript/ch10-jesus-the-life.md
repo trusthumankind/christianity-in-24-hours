@@ -1,4 +1,4 @@
-# Hour 10: Jesus — The Life
+# Hour 10: Jesus
 
 Q: Who was Jesus?
 

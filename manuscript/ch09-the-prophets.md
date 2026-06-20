@@ -136,4 +136,4 @@ The Old Testament ends in waiting. The prophets have spoken. The silence has beg
 
 ---
 
-[← Hour 8: Moses and the Law](ch08-moses-and-the-law.html) · [Table of Contents](../) · [Hour 10: Jesus — The Life →](ch10-jesus-the-life.html)
+[← Hour 8: Moses and the Law](ch08-moses-and-the-law.html) · [Table of Contents](../) · [Hour 10: Jesus →](ch10-jesus-the-life.html)

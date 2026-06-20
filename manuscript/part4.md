@@ -4,7 +4,7 @@
 - Hour 20: [Hard Questions](ch20-hard-questions.html)
 - Hour 21: [Christianity and the World](ch21-christianity-and-the-world.html)
 - Hour 22: [Reading the Bible](ch22-reading-the-bible.html)
-- Hour 23: [Death and What Comes After](ch23-death-and-afterlife.html)
+- Hour 23: [What Comes After](ch23-death-and-afterlife.html)
 - Hour 24: [The Decision](ch24-the-decision.html)
 
 ---

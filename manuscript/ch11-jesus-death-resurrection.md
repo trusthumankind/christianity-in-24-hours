@@ -158,4 +158,4 @@ That handoff — from the one who proved it possible to the many who would try t
 
 ---
 
-[← Hour 10: Jesus — The Life](ch10-jesus-the-life.html) · [Table of Contents](../) · [Hour 12: The Early Church →](ch12-the-early-church.html)
+[← Hour 10: Jesus](ch10-jesus-the-life.html) · [Table of Contents](../) · [Hour 12: The Early Church →](ch12-the-early-church.html)
