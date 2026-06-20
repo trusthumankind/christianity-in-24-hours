@@ -1,4 +1,4 @@
-# Hour 23: Death and What Comes After
+# Hour 23: What Comes After
 
 Q: What happens when we die?
 

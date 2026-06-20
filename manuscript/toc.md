@@ -18,7 +18,7 @@ Preface
 - Hour 7: Creation to Abraham
 - Hour 8: Moses and the Law
 - Hour 9: The Prophets
-- Hour 10: Jesus — The Life
+- Hour 10: Jesus
 - Hour 11: Death and Resurrection
 - Hour 12: The Early Church
 
@@ -37,7 +37,7 @@ Preface
 - Hour 20: Hard Questions
 - Hour 21: Christianity and the World
 - Hour 22: Reading the Bible
-- Hour 23: Death and What Comes After
+- Hour 23: What Comes After
 - Hour 24: The Decision
 
 Epilogue: Now Go

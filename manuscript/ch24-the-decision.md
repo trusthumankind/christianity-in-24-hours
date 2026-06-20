@@ -137,4 +137,4 @@ Choose life. Today. And tomorrow. And the day after that.
 
 ---
 
-[← Hour 23: Death and What Comes After](ch23-death-and-afterlife.html) · [Table of Contents](../) · [Epilogue: Now Go →](epilogue.html)
+[← Hour 23: What Comes After](ch23-death-and-afterlife.html) · [Table of Contents](../) · [Epilogue: Now Go →](epilogue.html)
