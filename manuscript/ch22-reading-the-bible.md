@@ -24,7 +24,7 @@ Every book in the Bible fits somewhere in that arc:
 
 **Poetry and Wisdom (Job, Psalms, Proverbs, Ecclesiastes)** — The interior life. How do you pray when God seems silent? What does it mean to live well? How do you handle suffering? These books process the human experience within the arc.
 
-**Prophets (Isaiah through Malachi)** — God redirects. The prophets call Israel back to the mission when it drifts. Hour 9 covered this: they speak truth to power, they call out the gap between religious performance and actual justice.
+**Prophets (Isaiah through Malachi)** — God sends messengers. The prophets call Israel back to the mission when it drifts. Hour 9 covered this: they speak truth to power, they call out the gap between religious performance and actual justice.
 
 **Gospels (Matthew, Mark, Luke, John)** — Someone finally lives it. Jesus carries the mission without faltering. He shows what it looks like in a human life — and what it costs.
 
@@ -63,7 +63,7 @@ It is apocalyptic literature — a genre that uses highly symbolic, coded imager
 
 Modern readers, disconnected from that vocabulary, read Revelation as a literal prediction of future events. This has produced rapture theology, the Left Behind series, elaborate end-times charts, and a strain of Christianity more excited about the world ending than about the mission of making it better.
 
-Revelation is not a calendar. It is a letter to persecuted Christians, telling them that the empire crushing them will not last, that faithfulness matters even when it costs everything, and that the mission has an endpoint worth hoping for.
+Revelation is not a calendar. It is a letter to persecuted Christians, telling them that the empire crushing them can be overcome, that faithfulness matters even when it costs everything, and that the mission has an endpoint worth hoping for.
 
 The book ends not with destruction but with restoration:
 
