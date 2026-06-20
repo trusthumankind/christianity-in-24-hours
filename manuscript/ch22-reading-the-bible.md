@@ -63,7 +63,7 @@ It is apocalyptic literature — a genre that uses highly symbolic, coded imager
 
 Modern readers, disconnected from that vocabulary, read Revelation as a literal prediction of future events. This has produced rapture theology, the Left Behind series, elaborate end-times charts, and a strain of Christianity more excited about the world ending than about the mission of making it better.
 
-Revelation is not a calendar. It is a letter to persecuted Christians, telling them that the empire crushing them will not last, that faithfulness matters even when it costs everything, and that the mission has an endpoint worth hoping for.
+Revelation is not a calendar. It is a letter to persecuted Christians, telling them that the empire crushing them can be overcome, that faithfulness matters even when it costs everything, and that the mission has an endpoint worth hoping for.
 
 The book ends not with destruction but with restoration:
 
