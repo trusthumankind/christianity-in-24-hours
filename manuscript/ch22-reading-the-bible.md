@@ -24,7 +24,7 @@ Every book in the Bible fits somewhere in that arc:
 
 **Poetry and Wisdom (Job, Psalms, Proverbs, Ecclesiastes)** — The interior life. How do you pray when God seems silent? What does it mean to live well? How do you handle suffering? These books process the human experience within the arc.
 
-**Prophets (Isaiah through Malachi)** — God redirects. The prophets call Israel back to the mission when it drifts. Hour 9 covered this: they speak truth to power, they call out the gap between religious performance and actual justice.
+**Prophets (Isaiah through Malachi)** — God sends messengers. The prophets call Israel back to the mission when it drifts. Hour 9 covered this: they speak truth to power, they call out the gap between religious performance and actual justice.
 
 **Gospels (Matthew, Mark, Luke, John)** — Someone finally lives it. Jesus carries the mission without faltering. He shows what it looks like in a human life — and what it costs.
 
