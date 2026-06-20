@@ -89,7 +89,7 @@ Growing up may take longer for some than others. The door remains open.
 
 This does not eliminate accountability. A child who refuses to mature still faces consequences — lost opportunities, broken relationships, the pain of stagnation. The murderer faces the enormity of lives destroyed. But the parent does not stop being a parent. The invitation does not expire. The God who "desires all people to be saved" ([1 Timothy 2:4][7]) does not desire it passively.
 
-The version of hell preached most loudly — eternal torture for finite sins, decided in a single lifetime — is not the oldest Christian position. Origen and Gregory of Nyssa held universal restoration in the early centuries. And it is the position most consistent with a God whose defining characteristic, according to the Bible itself, is love ([1 John 4:8][9]).
+The version of hell preached most loudly — eternal torture for finite sins, decided in a single lifetime — is not the oldest Christian position. Origen and Gregory of Nyssa held universal restoration in the early centuries. And it is the position most consistent with a God whose defining characteristic is love ([1 John 4:8][9]).
 
 ## Resurrection, not escape
 
