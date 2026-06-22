@@ -9,6 +9,8 @@ title: Christianity in 24 Hours
 
 *The Bible tells one story. Humanity growing up.*
 
+**[Available on Amazon](https://www.amazon.com/dp/B0H38M7XWK)** — Paperback and Kindle
+
 ---
 
 [Preface](manuscript/preface.html)
@@ -27,8 +29,8 @@ title: Christianity in 24 Hours
 - Hour 7: [Creation to Abraham](manuscript/ch07-creation-to-abraham.html)
 - Hour 8: [Moses and the Law](manuscript/ch08-moses-and-the-law.html)
 - Hour 9: [The Prophets](manuscript/ch09-the-prophets.html)
-- Hour 10: [Jesus: The Life](manuscript/ch10-jesus-the-life.html)
-- Hour 11: [Jesus: Death and Resurrection](manuscript/ch11-jesus-death-resurrection.html)
+- Hour 10: [Jesus](manuscript/ch10-jesus-the-life.html)
+- Hour 11: [Death and Resurrection](manuscript/ch11-jesus-death-resurrection.html)
 - Hour 12: [The Early Church](manuscript/ch12-the-early-church.html)
 
 ### Part III: The Life
@@ -46,7 +48,7 @@ title: Christianity in 24 Hours
 - Hour 20: [Hard Questions](manuscript/ch20-hard-questions.html)
 - Hour 21: [Christianity and the World](manuscript/ch21-christianity-and-the-world.html)
 - Hour 22: [Reading the Bible](manuscript/ch22-reading-the-bible.html)
-- Hour 23: [Death and What Comes After](manuscript/ch23-death-and-afterlife.html)
+- Hour 23: [What Comes After](manuscript/ch23-death-and-afterlife.html)
 - Hour 24: [The Decision](manuscript/ch24-the-decision.html)
 
 [Epilogue: Now Go](manuscript/epilogue.html)
