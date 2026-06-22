@@ -10,7 +10,7 @@ Hour 10 ended with the cost. Jesus spent three years showing what faithfulness l
 
 This chapter is about what happened next. But before we get there, a framing that matters for everything that follows.
 
-Traditional Christianity teaches that Jesus died as a sacrifice: that God required a payment for humanity's sin, and Jesus was the payment. This is called substitutionary atonement, and it is the dominant framework in most churches. It says: you owed a debt you couldn't pay, Jesus paid it, and now you're free.
+Traditional Christianity teaches that Jesus died as a sacrifice: God required a payment for humanity's sin, and Jesus was the payment. This is called substitutionary atonement, and it is the dominant framework in most churches. It says: you owed a debt you couldn't pay, Jesus paid it, and now you're free.
 
 There is a different take.
 
@@ -20,7 +20,7 @@ Not because the sacrificial language isn't in the Bible. It is. But because with
 
 The final week of Jesus's life is the most detailed period in the Gospels. The writers slowed down here because everything they'd been building toward converges in these days.
 
-Jesus entered Jerusalem on a donkey, not a warhorse. A deliberate statement. The crowds shouted "Hosanna" and laid palm branches on the road. They expected a king. They got a prophet riding the humblest animal available.
+Jesus entered Jerusalem not on a warhorse, but on a donkey — a deliberate statement. The crowds shouted "Hosanna" and laid palm branches on the road. They expected a king. They got a prophet riding the humblest animal available.
 
 He went to the Temple and overturned the tables of the money changers:
 
@@ -50,7 +50,7 @@ After dinner, Jesus went to a garden called Gethsemane. And here is where the ch
 
 He asked God to take the cup from him. He asked three times. He did not want to die.
 
-This is the most important detail in the entire narrative. If Jesus simply accepted his death with divine serenity, if he walked to the cross the way someone walks through a door, it wouldn't mean anything. The test of faithfulness is only real if the alternative is real. Jesus could have walked away. He could have used his gifts to escape. He could have called down those twelve legions of angels. He had every option available to him, including walking away.
+This is the most important detail in the entire narrative. If Jesus simply accepted his death with divine serenity — if he walked to the cross the way someone walks through a door — it wouldn't mean anything. The test of faithfulness is only real if the alternative is real. Jesus could have walked away. He could have used his gifts to escape. He could have called down those twelve legions of angels. He had every option available to him, including walking away.
 
 He chose the mission.
 
@@ -61,7 +61,7 @@ This is Hour 5's definition of faith, taken to its absolute limit. Choosing to a
 
 ## The arrest and trial
 
-Judas betrayed him with a kiss. The disciples ran. Peter, who had sworn he would die before denying Jesus, denied him three times before dawn, exactly as Jesus had predicted.
+Judas betrayed him with a kiss. The disciples ran. Peter, who had sworn he would die before denying Jesus, denied Jesus three times before dawn, exactly as the prophet had predicted.
 
 The trial was a farce. The religious leaders had already decided the outcome. They needed a charge that would stick with the Roman authorities, so they went with sedition, claiming Jesus called himself a king. Pontius Pilate, the Roman governor, found no basis for the charge. He tried to release Jesus.
 
@@ -94,11 +94,11 @@ He died as he lived. Trusting God. Choosing the mission. Holding steadfast where
 
 ## Why this matters
 
-Here is the question the cross forces: if Jesus could have avoided it and chose not to, if this was a choice and not an obligation, what does the cross prove?
+Here is the question the cross forces: if Jesus could have avoided it and chose not to — if this was a choice, not an obligation — then what does the cross prove?
 
 It proves the mission is possible.
 
-Every chapter of Part II has been building a case for why humanity fails. The golden calf. The grumbling in the wilderness. The exile. David and Bathsheba. Four hundred years of prophets warning and being ignored. The evidence for Satan's pessimism, that humanity will always choose self over mission, is overwhelming.
+Every chapter of Part II has been building a case for why humanity fails. The golden calf. The grumbling in the wilderness. The exile. David and Bathsheba. Four hundred years of prophets warning and being ignored. The evidence for Satan's pessimism is overwhelming, that humanity will always choose self over mission.
 
 The cross is our reason for hope.
 
@@ -119,24 +119,24 @@ The resurrection is the most debated event in human history. Believers and skept
 
 God confirmed the answer.
 
-Jesus carried the mission to the cross. He held where everyone before him had broken. And God's response was to raise him, to say, in the most unmistakable way possible: this is the way. This is what faithfulness looks like. This life, this death, this refusal to choose self even when self-preservation was the only sane option — this is what I was looking for since Genesis 1.
+Jesus carried the mission to the cross. He held where everyone before him had broken. And God's response was to raise him — to say, in the most unmistakable way possible: this is the way. This is what faithfulness looks like. This life, this death, this refusal to choose self even when self-preservation was the only sane option — this is what I was looking for since Genesis 1.
 
 The resurrection is God's verdict on Jesus's life. Not a magic trick. Not a proof of divinity in the traditional sense. A confirmation. The mission can be carried. One person proved it. And because one person proved it, the question shifts from "is it possible?" to "will you?"
 
 ## After
 
-Jesus appeared to his disciples over a period of forty days. He ate with them. He let Thomas touch the wounds in his hands. He reinstated Peter, the one who had denied him three times, by asking him the same question three times: "Do you love me?" ([John 21:15-17][10]). No lecture. No demand for explanation. No penance. Just the question, repeated: do you love me? And each time Peter said yes, Jesus gave him work: "Feed my sheep." Three denials met with three chances to say yes, and three commissions to carry the mission forward.
+Jesus appeared to his disciples over a period of forty days. He ate with them. He let Thomas touch the wounds in his hands. He reinstated Peter, the one who had denied him three times, by asking Peter the same question three times: "Do you love me?" ([John 21:15-17][10]). No lecture. No demand for explanation. No penance. Just the question, repeated: do you love me? And each time Peter said yes, Jesus gave him work: "Feed my sheep." Three denials met with three chances to say yes, and three commissions to carry the mission forward.
 
 Then he gave them the mission:
 
 > "Go therefore and make disciples of all nations, baptizing them in the name of the Father and of the Son and of the Holy Spirit, teaching them to observe all that I have commanded you."
 — [Matthew 28:19-20 ESV][11]
 
-The mission that began in a garden, survived a flood, was carried through the wilderness, spoken by the prophets, and embodied by Jesus. That mission was now handed to ordinary people. Fishermen. Tax collectors. People who had run away when it cost them something. People who had denied him.
+The mission that began in a garden, survived a flood, was carried through the wilderness, spoken by the prophets, and embodied by Jesus. That mission was now handed to ordinary people. Fishermen. Tax collectors. People who had run away when it cost them something. People who had denied Jesus.
 
 Not perfect people. Willing people.
 
-That handoff, from the one who proved it possible to the many who would try to live it, is the next chapter.
+The next chapter covers that handoff, from the one who proved it possible to the many who would try to live it.
 
 ## Questions to sit with
 
