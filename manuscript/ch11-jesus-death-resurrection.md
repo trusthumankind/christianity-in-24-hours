@@ -119,7 +119,7 @@ The resurrection is the most debated event in human history. Believers and skept
 
 God confirmed the answer.
 
-Jesus carried the mission to the cross. He held where everyone before him had broken. And God's response was to raise him — to say, in the most unmistakable way possible: this is the way. This is what faithfulness looks like. This life, this death, this refusal to choose self even when self-preservation was the only sane option — this is what I was looking for since Genesis 1.
+Jesus carried the mission to the cross. He held where everyone before him had broken. And God's response was to raise him — to say, in the most unmistakable way possible: this is the way. This is what faithfulness looks like. This life, this death, this refusal to choose self even when self-preservation was the only sane option — this is what God was looking for since Genesis 1.
 
 The resurrection is God's verdict on Jesus's life. Not a magic trick. Not a proof of divinity in the traditional sense. A confirmation. The mission can be carried. One person proved it. And because one person proved it, the question shifts from "is it possible?" to "will you?"
 
