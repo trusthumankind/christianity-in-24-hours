@@ -67,7 +67,7 @@ Because the Law is not the cure. The Law is the diagnosis.
 > Through the law comes knowledge of sin.
 — [Romans 3:20 ESV][8]
 
-Without the law, sin can be vague: choosing self over mission. This definition is incredibly broad. The Law makes it specific. Don't murder. Don't steal. Don't covet what belongs to someone else. Don't lie under oath. Honor your parents. Rest one day in seven. Love the foreigner living among you as yourself ([Leviticus 19:34][9]).
+Without the Law, sin can be vague: choosing self over mission. This definition is incredibly broad. The Law makes it specific. Don't murder. Don't steal. Don't covet what belongs to someone else. Don't lie under oath. Honor your parents. Rest one day in seven. Love the foreigner living among you as yourself ([Leviticus 19:34][9]).
 
 The Law takes the mission and translates it into behavior. It gives Israel — and through them, eventually, the world — a concrete picture of what faithful living looks like. Think of it the way a parent raises a child: you start with explicit rules because the child doesn't yet have the judgment to navigate on their own. The rules aren't the goal. Internalization is the goal. Success is the child who grows up and does the right thing without being told. The Law is parenting on a civilizational scale.
 
