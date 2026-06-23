@@ -79,6 +79,6 @@
 
   <text x="2471" y="2255" text-anchor="middle" font-family="'Crimson Text', Georgia, serif" font-size="58" fill="#c49a3c">Marty Chang &amp; Coraline Chang</text>
 
-  <rect x="0" y="45" width="3267" height="12" fill="#c49a3c"/>
-  <rect x="0" y="2360" width="3267" height="12" fill="#c49a3c"/>
+  <rect x="0" y="0" width="3267" height="57" fill="#c49a3c"/>
+  <rect x="0" y="2360" width="3267" height="57" fill="#c49a3c"/>
 </svg>
