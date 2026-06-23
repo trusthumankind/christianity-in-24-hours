@@ -22,13 +22,13 @@ God's response to four centuries of slavery is not an army or a natural disaster
 > Then the LORD said, "I have surely seen the affliction of my people who are in Egypt and have heard their cry because of their taskmasters. I know their sufferings, and I have come down to deliver them."
 — [Exodus 3:7-8 ESV][2]
 
-Moses is eighty years old. He's a fugitive: he killed an Egyptian overseer decades earlier and fled to the wilderness. He's not a leader, not a priest, not a warrior. He has a stutter. When God tells him to go back to Egypt and demand Pharaoh release an entire nation of slaves, Moses does what most honest people would do: he argues.
+Moses is eighty years old. He's a fugitive who killed an Egyptian overseer decades earlier and fled to the wilderness. He's not a leader, not a priest, not a warrior. He has a stutter. When God tells him to go back to Egypt and demand Pharaoh release an entire nation of slaves, Moses does what most honest people would do: he argues.
 
 "Who am I that I should go to Pharaoh?" ([Exodus 3:11][3]). "What if they don't believe me?" ([Exodus 4:1][4]). "I am not eloquent... I am slow of speech" ([Exodus 4:10][5]).
 
 God doesn't accept any of it. The mission doesn't wait for you to feel ready. Moses goes.
 
-This is the same pattern as Abraham, a person who didn't choose the assignment, didn't feel qualified for it, and went anyway. Faith is not confidence. It's choosing to move forward when every instinct says you're not ready.
+This is the same pattern as Abraham — a person who didn't choose the assignment, didn't feel qualified for it, and went anyway. Faith is not confidence. It's choosing to move forward when every instinct says you're not ready.
 
 ## The Exodus
 
@@ -67,9 +67,9 @@ Because the Law is not the cure. The Law is the diagnosis.
 > Through the law comes knowledge of sin.
 — [Romans 3:20 ESV][8]
 
-Without the Law, sin is vague. It's "choosing self over mission." True, but abstract. The Law makes it specific. Don't murder. Don't steal. Don't covet what belongs to someone else. Don't lie under oath. Honor your parents. Rest one day in seven. Love the foreigner living among you as yourself ([Leviticus 19:34][9]).
+Without the law, sin can be vague: choosing self over mission. This definition is incredibly broad. The Law makes it specific. Don't murder. Don't steal. Don't covet what belongs to someone else. Don't lie under oath. Honor your parents. Rest one day in seven. Love the foreigner living among you as yourself ([Leviticus 19:34][9]).
 
-The Law takes the mission and translates it into behavior. It gives Israel — and through them, eventually, the world — a concrete picture of what faithful living looks like. Think of it the way a parent raises a child: you start with explicit rules because the child doesn't yet have the judgment to navigate on their own. The rules aren't the goal. Internalization is the goal. The child who grows up and does the right thing without being told: that's the success case. The Law is parenting on a civilizational scale.
+The Law takes the mission and translates it into behavior. It gives Israel — and through them, eventually, the world — a concrete picture of what faithful living looks like. Think of it the way a parent raises a child: you start with explicit rules because the child doesn't yet have the judgment to navigate on their own. The rules aren't the goal. Internalization is the goal. Success is the child who grows up and does the right thing without being told. The Law is parenting on a civilizational scale.
 
 Paul understood this:
 
@@ -104,7 +104,7 @@ Israel spends forty years in the wilderness between Egypt and the Promised Land.
 
 They wanted to go back to slavery. Let that sink in. They had seen the plagues. They had walked through a parted sea. They were eating food that appeared on the ground every morning. And when the next step required courage, they chose the chains they knew over the freedom they didn't.
 
-God's response: this generation will not enter the Promised Land. They will wander until the last of them dies, and their children, the ones who didn't choose fear, will be the ones who cross the Jordan.
+God's response: this generation will not enter the Promised Land. They will wander until the last of them dies. And their children — the ones moving past fear — will be the ones who cross the Jordan.
 
 The wilderness is not punishment for the sake of punishment. It is the consequence of the choice. You chose fear over faith. You chose slavery over mission. That choice has a cost, and the cost is that you don't get to see it through. Your children will.
 
@@ -121,7 +121,7 @@ The offense seems minor. At Meribah, God told Moses to speak to a rock and water
 
 This feels disproportionate. A lifetime of faithful service, and one moment of anger at a rock costs you everything?
 
-But that's the point. The standard is the standard. It doesn't bend for seniority. Moses, the greatest leader in the Old Testament, is held to the same accountability as the people he led. No one gets a pass. Not Abraham, who lied about his wife. Not Moses, who struck the rock. The Bible does not protect its heroes from the consequences of their choices.
+But that's the point. The standard is the standard. It doesn't bend for seniority. Moses — the greatest leader in the Old Testament — is held to the same accountability as the people he led. No one gets a pass. Not Abraham, who lied about his wife. Not Moses, who struck the rock. The Bible does not protect its heroes from the consequences of their choices.
 
 Moses sees the Promised Land from Mount Nebo. He dies there. Joshua leads the people across the Jordan.
 
@@ -137,7 +137,7 @@ This is what the Law teaches, not through its content but through Israel's failu
 
 Return to the analogy from earlier in this chapter. The Law is how a parent raises a child: explicit rules, clear consequences, constant supervision. The wilderness is adolescence: testing boundaries, failing, learning the hard way that the rules existed for a reason. Every rebellion, every golden calf, every "let's go back to Egypt" is the growing pain of a species that hasn't matured enough to carry the mission on its own.
 
-The Law was never the solution. It was the setup. It was the necessary stage of development, the long, painful education that would eventually make adulthood possible. And when adulthood arrives, it will have a name. That's still a few chapters away.
+The Law was never the solution. It was the setup. It was the necessary stage of development — the long, painful education that would eventually make adulthood possible. And when adulthood arrives, it will have a name. That's still a few chapters away.
 
 ## Questions to sit with
 
