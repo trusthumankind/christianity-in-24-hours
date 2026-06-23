@@ -53,6 +53,8 @@ for line in open('$REPO_ROOT/manuscript/Book.txt'):
 
 "
 
+echo "# Contents" > "$BUILD_DIR/_toc.md"
+
 echo "=== Building PDF with pandoc + typst ==="
 TYPST_FONT_PATHS=~/Library/Fonts pandoc \
   --pdf-engine=typst \
@@ -62,7 +64,7 @@ TYPST_FONT_PATHS=~/Library/Fonts pandoc \
   --file-scope \
   --section-divs \
   -o "$OUT" \
-  $(cat "$REPO_ROOT/manuscript/Book.txt" | sed "s|^|$BUILD_DIR/|" | tr '\n' ' ')
+  $(awk '/^part1\.md$/{print "_toc.md"} {print}' "$REPO_ROOT/manuscript/Book.txt" | sed "s|^|$BUILD_DIR/|" | tr '\n' ' ')
 
 PAGE_COUNT=$(pdfinfo "$OUT" 2>/dev/null | grep Pages | awk '{print $2}')
 echo ""

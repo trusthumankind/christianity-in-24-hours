@@ -1,14 +1,14 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 3267 2418" width="10.889in" height="8.060in">
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 3267 2417" width="10.889in" height="8.056in">
   <!--
     Full wrap cover for KDP paperback
-    Trim: 5.06 × 7.81 in | Pages: 221 | Paper: BW white (groundwood)
+    Trim: 5.06 × 7.81 in | Pages: 229 | Paper: BW white (groundwood)
     Spine: 0.519 in = 156px | Bleed: 0.125 in = 38px each side
-    Cover: 10.889 × 8.060 in = 3267 × 2418 px at 300 DPI
+    Cover: 10.889 × 8.056 in = 3267 × 2417 px at 300 DPI
     Back cover: x 0–1556 | Spine: x 1556–1712 | Front cover: x 1712–3267
     Font: back 50px uniform, front cover resized
   -->
 
-  <rect width="3267" height="2418" fill="#1a1a1a"/>
+  <rect width="3267" height="2417" fill="#1a1a1a"/>
 
   <!-- ═══ BACK COVER (x 0–1556, left-align 225) ═══ -->
 
@@ -54,9 +54,9 @@
 
   <!-- ═══ SPINE (x 1556–1712, center 1634) ═══ -->
 
-  <rect x="1556" y="0" width="156" height="2418" fill="#1a1a1a"/>
+  <rect x="1556" y="0" width="156" height="2417" fill="#1a1a1a"/>
 
-  <g transform="translate(1634, 1209) rotate(-90)">
+  <g transform="translate(1634, 1209) rotate(90)">
     <text x="0" y="0" text-anchor="middle" font-family="'Crimson Text', Georgia, serif" font-size="50" fill="#ffffff" letter-spacing="4">
       <tspan font-weight="bold">Christianity in 24 Hours</tspan>
       <tspan dx="48" fill="#c49a3c">Marty Chang &amp; Coraline Chang</tspan>
@@ -77,8 +77,8 @@
 
   <text x="2471" y="1210" text-anchor="middle" font-family="'Crimson Text', Georgia, serif" font-size="58" fill="#999999" letter-spacing="12" font-style="italic">One story. One decision.</text>
 
-  <text x="2471" y="2300" text-anchor="middle" font-family="'Crimson Text', Georgia, serif" font-size="58" fill="#c49a3c">Marty Chang &amp; Coraline Chang</text>
+  <text x="2471" y="2255" text-anchor="middle" font-family="'Crimson Text', Georgia, serif" font-size="58" fill="#c49a3c">Marty Chang &amp; Coraline Chang</text>
 
-  <rect x="0" y="0" width="3267" height="12" fill="#c49a3c"/>
-  <rect x="0" y="2406" width="3267" height="12" fill="#c49a3c"/>
+  <rect x="0" y="0" width="3267" height="57" fill="#c49a3c"/>
+  <rect x="0" y="2360" width="3267" height="57" fill="#c49a3c"/>
 </svg>
