@@ -16,9 +16,9 @@
 // State: which H1 are we on
 #let h1-count = state("h1-count", 0)
 // H1 indices that should NOT show page numbers:
-// 1=title, 2=copyright, 3=preface, 4=Part I, 11=Part II, 18=Part III,
-// 25=Part IV, 32=epilogue, 33=about-authors
-#let no-pagenum-headings = (0, 1, 2, 3, 4, 11, 18, 25, 32, 33)
+// 1=title, 2=copyright, 3=preface, 4=toc, 5=Part I, 12=Part II,
+// 19=Part III, 26=Part IV, 33=epilogue, 34=about-authors
+#let no-pagenum-headings = (0, 1, 2, 3, 4, 5, 12, 19, 26, 33, 34)
 
 #let conf(
   title: none,
@@ -74,6 +74,7 @@
     lang: lang,
     region: region,
     hyphenate: true,
+    fill: black,
   )
 
   // Paragraph spacing
@@ -88,12 +89,12 @@
   show link: set text(fill: black)
 
   // Counter for H1 headings
-  // Order: 1=title, 2=copyright, 3=preface,
-  //        4=Part I, 5-10=Ch1-6,
-  //        11=Part II, 12-17=Ch7-12,
-  //        18=Part III, 19-24=Ch13-18,
-  //        25=Part IV, 26-31=Ch19-24,
-  //        32=epilogue, 33=about-authors
+  // Order: 1=title, 2=copyright, 3=preface, 4=toc,
+  //        5=Part I, 6-11=Ch1-6,
+  //        12=Part II, 13-18=Ch7-12,
+  //        19=Part III, 20-25=Ch13-18,
+  //        26=Part IV, 27-32=Ch19-24,
+  //        33=epilogue, 34=about-authors
   show heading.where(level: 1): it => {
     h1-count.update(n => n + 1)
 
@@ -104,12 +105,13 @@
       if n == 1 {
 
         align(center + horizon)[
-          #text(size: 22pt, weight: "bold")[Christianity in 24 Hours]
+          #text(size: 22pt, weight: "bold", fill: black)[Christianity in 24 Hours]
           #v(0.5em)
-          #text(size: 13pt, style: "italic")[One story. One decision.]
+          #text(size: 13pt, style: "italic", fill: black)[One story. One decision.]
           #v(1em)
-          #text(size: 12pt)[Marty Chang & Coraline Chang]
+          #text(size: 12pt, fill: black)[Marty Chang & Coraline Chang]
         ]
+        pagebreak(to: "odd")
         return
       }
 
@@ -124,7 +126,7 @@
       // Preface (3rd H1) — no page number
       if n == 3 {
 
-        pagebreak(weak: true)
+        pagebreak(to: "odd")
         v(2em)
         set text(size: 18pt, weight: "bold")
         set align(center)
@@ -133,35 +135,34 @@
         return
       }
 
-      // Part pages — centered on page, no page number
-      // Insert TOC before Part I
-      if n == 4 or n == 11 or n == 18 or n == 25 {
+      // Table of Contents (4th H1) — separator page + auto-generated TOC
+      if n == 4 {
 
-        if n == 4 {
-          pagebreak(weak: true)
-          align(center + horizon, text(size: 20pt, weight: "bold")[Contents])
-          pagebreak(weak: true)
-          {
-            set text(size: 10.5pt)
-            outline(title: none, depth: 1)
-          }
-        }
-
-        // Part divider — always starts on a right-hand (recto) page
-        if n == 4 or n == 11 or n == 18 or n == 25 {
-
-          pagebreak(to: "odd")
-          align(center + horizon)[
-            #text(size: 20pt, weight: "bold")[#it.body]
-          ]
+        pagebreak(to: "odd")
+        align(center + horizon, text(size: 20pt, weight: "bold", fill: black)[Contents])
+        pagebreak(to: "odd")
+        {
+          set text(size: 10.5pt)
+          outline(title: none, depth: 1)
         }
         return
       }
 
-      // About the Authors (33rd) and Epilogue (32nd) — no page number
-      if n >= 32 {
+      // Part pages — centered on page, no page number
+      if n == 5 or n == 12 or n == 19 or n == 26 {
 
-        pagebreak(weak: true)
+        pagebreak(to: "odd")
+        align(center + horizon)[
+          #text(size: 20pt, weight: "bold", fill: black)[#it.body]
+        ]
+        pagebreak(to: "odd")
+        return
+      }
+
+      // Epilogue (33rd) and About the Authors (34th) — no page number
+      if n >= 33 {
+
+        pagebreak(to: "odd")
         v(2em)
         set text(size: 18pt, weight: "bold")
         set align(center)
@@ -201,8 +202,8 @@
   show outline.entry.where(level: 1): it => context {
     let all-h1s = query(heading.where(level: 1))
     let idx = all-h1s.position(h => h.location() == it.element.location())
-    if idx == none or idx < 3 { return }
-    let section-headings = (3, 10, 17, 24, 31, 32)
+    if idx == none or idx < 4 { return }
+    let section-headings = (4, 11, 18, 25, 32, 33)
     if idx in section-headings { it } else { pad(left: 1.5em, text(weight: "regular", it)) }
   }
 
