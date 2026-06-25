@@ -13,7 +13,7 @@ Peter asked Jesus the same question:
 
 Peter thought he was being generous. Jewish teaching at the time suggested forgiving someone three times. Peter doubled it and added one. Surely seven was enough.
 
-Jesus multiplied it out of range. Seventy-seven. Some translations say seventy times seven, 490. Either way, the number is not the point. The point is that forgiveness doesn't have a limit. The moment you set one, you've replaced forgiveness with accounting.
+Jesus multiplied it out of range. Seventy-seven. Some translations say seventy times seven or 490. Either way, the number is not the point. The point is that forgiveness doesn't have a limit. The moment you set one, you've replaced forgiveness with accounting.
 
 ## What forgiveness is
 
@@ -32,7 +32,7 @@ He said this while being executed. Not after. Not from a safe distance. Not once
 
 ## What forgiveness is not
 
-**Forgiveness is not excusing.** "It's fine" is not forgiveness. "They didn't mean it" is not forgiveness. "It wasn't that bad" is not forgiveness. These are minimizations: pretending the wound doesn't exist so you don't have to deal with it. Genuine forgiveness requires you to name exactly what was done and acknowledge that it was wrong. You cannot forgive what you refuse to see clearly.
+**Forgiveness is not excusing.** "It's fine" is not forgiveness. "They didn't mean it" is not forgiveness. "It wasn't that bad" is not forgiveness. These are minimizations, pretending the wound doesn't exist so you don't have to deal with it. Genuine forgiveness requires you to name exactly what was done and acknowledge that it was wrong. You cannot forgive what you refuse to see clearly.
 
 **Forgiveness is not forgetting.** "Forgive and forget" is a cultural saying, not a biblical one. The Bible never asks you to pretend something didn't happen. Remembering protects you from putting yourself in the same position again. You can forgive the person who betrayed your trust and still choose not to give them access to betray it again. Memory is not the same as a grudge.
 
@@ -49,7 +49,7 @@ Immediately after telling Peter to forgive without limit, Jesus told a story:
 > "Therefore the kingdom of heaven may be compared to a king who wished to settle accounts with his servants. When he began to settle, one was brought to him who owed him ten thousand talents."
 — [Matthew 18:23-24 ESV][1]
 
-Ten thousand talents was an absurd amount, millions in modern currency. The servant couldn't pay. The king forgave the entire debt. Then that same servant went out and found a fellow servant who owed him a hundred denarii, a few months' wages, and had him thrown in prison.
+Ten thousand talents was an absurd amount — millions in modern currency. The servant couldn't pay. The king forgave the entire debt. Then that same servant went out and found a fellow servant who owed him a few months' wages and had him thrown in prison.
 
 When the king heard about it, he was furious:
 
@@ -64,7 +64,7 @@ This is not about God keeping a cosmic ledger. It's about self-awareness. Honest
 
 Some wrongs feel like they cannot be forgiven. The abuse of a child. A betrayal that destroyed a family. Violence that took someone you loved. Systemic injustice that crushed entire communities. These are not small debts.
 
-This chapter will not tell you that you must forgive these things on a timeline. Forgiveness of this magnitude is a process, not a moment. It may take years. It may require professional help. It may come in stages: releasing one layer of bitterness while another still grips you.
+This chapter will not tell you that you must forgive these things on a timeline. Forgiveness of this magnitude is a process, not a moment. It may take years. It may require professional help. It may come in stages, releasing one layer of bitterness while another still grips you.
 
 What this chapter will say is that the alternative is its own form of destruction: carrying the wound as your identity, letting the offense define the rest of your life. The person who hurt you may never face justice. They may never apologize. They may never even understand what they did. Your forgiveness is not for them. It's for you. It's the decision that what happened to you will not be the final word on who you become.
 
@@ -94,7 +94,7 @@ The mission survives on forgiveness. A community that holds grudges, keeps score
 
 ## The daily practice
 
-Forgiveness is not a one-time event. It's a discipline: like prayer, like love, like every other practice in Part III.
+Forgiveness is not a one-time event. It's a discipline like prayer, like love, like every other practice in Part III.
 
 The Lord's Prayer puts it in the middle of the daily alignment: "Forgive us our debts, as we also have forgiven our debtors." Every day. Not once. Every day you examine what you're carrying, name it, and choose to let it go.
 
