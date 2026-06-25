@@ -8,7 +8,7 @@ A: You decide. That was always the point.
 
 Hour 1 opened with a question: why did God create humanity? The answer: to prove we can get this right. Twenty-three hours later, the question returns. And now it's personal: not whether humanity can get it right, but whether *you* will. 
 
-You've been through the full arc. God creates. Humanity stumbles. The Law provides guardrails. The prophets speak truth. Jesus lives the mission without faltering. The early church carries it forward, imperfectly. Then, the institution corrupts it: trading the mission for power, comfort, and control throughout the last two millennia.
+You've been through the full arc. God creates. Humanity stumbles. The Law provides guardrails. The prophets speak truth. Jesus lives the mission without faltering. The early church carries it forward, imperfectly. Then, the institution corrupts it, trading the mission for power, comfort, and control throughout the last two millennia.
 
 But here is what's different now: you can see it. You can see the corruption clearly because humanity has grown enough to name it. The Crusades, the forced assimilation, the prosperity gospel, the political co-option — these are visible to you in a way they were not visible to the people living inside them. That clarity is itself evidence of the maturation. Humanity has grown up enough to diagnose its own failures.
 
@@ -57,7 +57,7 @@ Pascal's famous argument was a calculation: believe in God because the expected 
 
 Pascal's wager is valid, but he oversimplified the path to eternal rewards.
 
-Here is the real wager: the one the mission actually asks you to make.
+Here is the real wager, the one the mission actually asks you to make.
 - **Will you give your life to something bigger** than yourself, knowing it will cost you?
 - Not: will you gain something by believing?
 - Not: will your life be better, easier, more blessed?
@@ -88,7 +88,7 @@ Not abstractions. Measurable conditions. Here is what "love your neighbor" looks
 
 **One country.** No borders. No passports. No artificial lines drawn to separate humanity into competing tribes. God created all people without favoring one ethnicity over another (Hour 20). Countries are human fabrications designed to concentrate power and define who is *not* your neighbor. Victory is a world where no Palestinian is trapped behind a wall, no refugee drowns crossing a sea, and no human being is illegal for standing on the wrong patch of earth. Free movement of all people, everywhere.
 
-**One currency.** No financial arbitrage. No system where one nation's money exploits another nation's labor. Currency differences are mechanisms of power: they allow the wealthy to extract value from the poor across invisible lines. Victory is a single global economy powered by _one_ currency — or no currency at all, where the free flow of goods and services is not gated by exchange rates.
+**One currency.** No financial arbitrage. No system where one nation's money exploits another nation's labor. Currency differences are mechanisms of power: they allow the wealthy to extract value from the poor across invisible lines. Victory is a single global economy powered by _one_ currency — or no currency at all — where the free flow of goods and services is not gated by exchange rates.
 
 **Food security for every human being.** The world already produces enough food to feed ten billion people. The problem is not scarcity; it is distribution blocked by profit motives. "I was hungry and you gave me food" ([Matthew 25:35][3]) is not a suggestion. Victory means zero hunger, not as charity but as a systemic guarantee. No one starves while food exists.
 
