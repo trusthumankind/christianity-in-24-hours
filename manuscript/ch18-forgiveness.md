@@ -13,15 +13,15 @@ Peter asked Jesus the same question:
 
 Peter thought he was being generous. Jewish teaching at the time suggested forgiving someone three times. Peter doubled it and added one. Surely seven was enough.
 
-Jesus multiplied it out of range. Seventy-seven. Some translations say seventy times seven — 490. Either way, the number is not the point. The point is that forgiveness doesn't have a limit. The moment you set one, you've replaced forgiveness with accounting.
+Jesus multiplied it out of range. Seventy-seven. Some translations say seventy times seven, 490. Either way, the number is not the point. The point is that forgiveness doesn't have a limit. The moment you set one, you've replaced forgiveness with accounting.
 
 ## What forgiveness is
 
-Forgiveness is a release. Not a feeling — a decision. You let go of the debt someone owes you. Not because they've earned it. Not because what they did was acceptable. Not because you've processed it emotionally and arrived at peace. You let go because holding onto it is destroying you from the inside — and pulling you away from the mission.
+Forgiveness is a release. Not a feeling — a decision. You let go of the debt someone owes you. Not because they've earned it. Not because what they did was acceptable. Not because you've processed it emotionally and arrived at peace. You let go because holding onto it is destroying you from the inside, pulling you away from the mission.
 
 Hour 14 introduced this in the practice of prayer: name the wound, and let it go. Not because the person who hurt you deserves release, but because carrying it is a weight you were not designed to bear. Forgiveness is what happens when you choose the mission over the grudge.
 
-This is hard. It should be. Forgiveness that costs nothing isn't forgiveness — it's indifference. Real forgiveness means acknowledging that you were genuinely wronged, that the pain is real, that justice was not served — and choosing to release the debt anyway. That choice is one of the most difficult things a human being can do.
+This is hard. It should be. Forgiveness that costs nothing isn't forgiveness — it's indifference. Real forgiveness means acknowledging that you were genuinely wronged, that the pain is real, that justice was not served, and choosing to release the debt anyway. That choice is one of the most difficult things a human being can do.
 
 Jesus demonstrated it on the cross:
 
@@ -32,11 +32,11 @@ He said this while being executed. Not after. Not from a safe distance. Not once
 
 ## What forgiveness is not
 
-**Forgiveness is not excusing.** "It's fine" is not forgiveness. "They didn't mean it" is not forgiveness. "It wasn't that bad" is not forgiveness. These are minimizations — pretending the wound doesn't exist so you don't have to deal with it. Genuine forgiveness requires you to name exactly what was done and acknowledge that it was wrong. You cannot forgive what you refuse to see clearly.
+**Forgiveness is not excusing.** "It's fine" is not forgiveness. "They didn't mean it" is not forgiveness. "It wasn't that bad" is not forgiveness. These are minimizations: pretending the wound doesn't exist so you don't have to deal with it. Genuine forgiveness requires you to name exactly what was done and acknowledge that it was wrong. You cannot forgive what you refuse to see clearly.
 
 **Forgiveness is not forgetting.** "Forgive and forget" is a cultural saying, not a biblical one. The Bible never asks you to pretend something didn't happen. Remembering protects you from putting yourself in the same position again. You can forgive the person who betrayed your trust and still choose not to give them access to betray it again. Memory is not the same as a grudge.
 
-**Forgiveness is not reconciliation.** This is the one most churches get wrong. Forgiveness is one-sided — it's something you do regardless of the other person's response. Reconciliation is two-sided — it requires repentance, changed behavior, and rebuilt trust. You can forgive someone who never apologizes. You should not reconcile with someone who hasn't changed.
+**Forgiveness is not reconciliation.** This is the one most churches get wrong. Forgiveness is one-sided: it's something you do regardless of the other person's response. Reconciliation is two-sided: it requires repentance, changed behavior, and rebuilt trust. You can forgive someone who never apologizes. You should not reconcile with someone who hasn't changed.
 
 An abused spouse can forgive their abuser and still leave. A person who was betrayed can release the bitterness and still set boundaries. Forgiveness frees you from the emotional prison. It does not obligate you to walk back into the situation that created it.
 
@@ -49,35 +49,35 @@ Immediately after telling Peter to forgive without limit, Jesus told a story:
 > "Therefore the kingdom of heaven may be compared to a king who wished to settle accounts with his servants. When he began to settle, one was brought to him who owed him ten thousand talents."
 — [Matthew 18:23-24 ESV][1]
 
-Ten thousand talents was an absurd amount — millions in modern currency. The servant couldn't pay. The king forgave the entire debt. Then that same servant went out and found a fellow servant who owed him a hundred denarii — a few months' wages — and had him thrown in prison.
+Ten thousand talents was an absurd amount, millions in modern currency. The servant couldn't pay. The king forgave the entire debt. Then that same servant went out and found a fellow servant who owed him a hundred denarii, a few months' wages, and had him thrown in prison.
 
 When the king heard about it, he was furious:
 
 > "You wicked servant! I forgave you all that debt because you pleaded with me. And should not you have had mercy on your fellow servant, as I had mercy on you?"
 — [Matthew 18:32-33 ESV][1]
 
-The parable is about proportion. Every person alive has been carried by someone else's forgiveness — a parent who overlooked your failures, a friend who gave you a second chance, a stranger who chose kindness when you didn't deserve it. The debts you owe are larger than the debts owed to you. Refusing to forgive a small debt while benefiting from large ones is the hypocrisy the parable exposes.
+The parable is about proportion. Every person alive has been carried by someone else's forgiveness: a parent who overlooked your failures, a friend who gave you a second chance, a stranger who chose kindness when you didn't deserve it. The debts you owe are larger than the debts owed to you. Refusing to forgive a small debt while benefiting from large ones is the hypocrisy the parable exposes.
 
-This is not about God keeping a cosmic ledger. It's about self-awareness. If you honestly examine your own life — the times you were selfish, cruel, negligent, cowardly — you'll find that you've been forgiven more than you realize. Extending that same grace to others is not an obligation imposed from above. It's the only honest response to how much grace you've already received.
+This is not about God keeping a cosmic ledger. It's about self-awareness. Honestly examine your own life: the times you were selfish, cruel, negligent, cowardly. You'll find that you've been forgiven more than you realize. Extending that same grace to others is not an obligation imposed from above. It's the only honest response to how much grace you've already received.
 
 ## Forgiving the unforgivable
 
 Some wrongs feel like they cannot be forgiven. The abuse of a child. A betrayal that destroyed a family. Violence that took someone you loved. Systemic injustice that crushed entire communities. These are not small debts.
 
-This chapter will not tell you that you must forgive these things on a timeline. Forgiveness of this magnitude is a process, not a moment. It may take years. It may require professional help. It may come in stages — releasing one layer of bitterness while another still grips you.
+This chapter will not tell you that you must forgive these things on a timeline. Forgiveness of this magnitude is a process, not a moment. It may take years. It may require professional help. It may come in stages: releasing one layer of bitterness while another still grips you.
 
-What this chapter will say is that the alternative — carrying the wound as your identity, letting the offense define the rest of your life — is its own form of destruction. The person who hurt you may never face justice. They may never apologize. They may never even understand what they did. Your forgiveness is not for them. It's for you. It's the decision that what happened to you will not be the final word on who you become.
+What this chapter will say is that the alternative is its own form of destruction: carrying the wound as your identity, letting the offense define the rest of your life. The person who hurt you may never face justice. They may never apologize. They may never even understand what they did. Your forgiveness is not for them. It's for you. It's the decision that what happened to you will not be the final word on who you become.
 
 Joseph — sold into slavery by his own brothers, imprisoned for years on false charges — eventually rose to power in Egypt. When his brothers appeared before him, terrified, he said:
 
 > "As for you, you meant evil against me, but God meant it for good, to bring it about that many people should be kept alive, as they are today."
 — [Genesis 50:20 ESV][3]
 
-Joseph didn't minimize what they did. He named it: "You meant evil." And he didn't claim the suffering was pleasant or deserved. But he chose to see what came after the suffering as more defining than the suffering itself. That's not a formula — it's a direction. Not every story resolves this neatly. But the direction matters.
+Joseph didn't minimize what they did. He named it: "You meant evil." And he didn't claim the suffering was pleasant or deserved. But he chose to see what came after the suffering as more defining than the suffering itself. That's not a formula. It's a direction. Not every story resolves this neatly. But the direction matters.
 
 ## Forgiveness and the mission
 
-The mission from Hour 1 — prove we can overcome our fears and vices — runs directly through forgiveness.
+The mission from Hour 1, to prove we can overcome our fears and vices, runs directly through forgiveness.
 
 Holding on to resentment and grudges is a vice. Letting past wrongs control your present choices puts you in emotional captivity. It shrinks your capacity for love, corrodes your relationships, and turns you inward when the mission needs you to face outward.
 
@@ -94,18 +94,18 @@ The mission survives on forgiveness. A community that holds grudges, keeps score
 
 ## The daily practice
 
-Forgiveness is not a one-time event. It's a discipline — like prayer, like love, like every other practice in Part III.
+Forgiveness is not a one-time event. It's a discipline: like prayer, like love, like every other practice in Part III.
 
 The Lord's Prayer puts it in the middle of the daily alignment: "Forgive us our debts, as we also have forgiven our debtors." Every day. Not once. Every day you examine what you're carrying, name it, and choose to let it go.
 
-Some days you'll succeed. Some days the old bitterness will return — the memory, the anger, the sense of injustice. That doesn't mean your forgiveness failed. It means you're human. The practice is in the returning. You let it go, it comes back, you let it go again. Seventy-seven times.
+Some days you'll succeed. Some days the old bitterness will return: the memory, the anger, the sense of injustice. That doesn't mean your forgiveness failed. It means you're human. The practice is in the returning. You let it go, it comes back, you let it go again. Seventy-seven times.
 
 The point is not perfection. The point is direction. Are you moving toward release or toward resentment? That direction — chosen daily, often against your own instincts — is what forgiveness looks like in practice.
 
 ## Questions to sit with
 
 * Who are you refusing to forgive right now? What is that refusal costing you — not them, you?
-* Have you confused forgiveness with reconciliation? Is there someone you've forgiven but need to maintain distance from — and is there someone you've cut off entirely when forgiveness might free you?
+* Have you confused forgiveness with reconciliation? Is there someone you've forgiven but need to maintain distance from? And is there someone you've cut off entirely when forgiveness might free you?
 * The parable of the unforgiving servant asks you to compare the debts you hold against others with the debts others have forgiven in you. How does that comparison look when you're honest about it?
 
 [1]: https://www.esv.org/Matthew+18/
