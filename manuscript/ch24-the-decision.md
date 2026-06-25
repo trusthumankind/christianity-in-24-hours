@@ -8,7 +8,7 @@ A: You decide. That was always the point.
 
 Hour 1 opened with a question: why did God create humanity? The answer: to prove we can get this right. Twenty-three hours later, the question returns. And now it's personal: not whether humanity can get it right, but whether *you* will. 
 
-You've been through the full arc. God creates. Humanity stumbles. The Law provides guardrails. The prophets speak truth. Jesus lives the mission without faltering. The early church carries it forward, imperfectly. Then, the institution corrupts it — trading the mission for power, comfort, and control throughout the last two millennia.
+You've been through the full arc. God creates. Humanity stumbles. The Law provides guardrails. The prophets speak truth. Jesus lives the mission without faltering. The early church carries it forward, imperfectly. Then, the institution corrupts it, trading the mission for power, comfort, and control throughout the last two millennia.
 
 But here is what's different now: you can see it. You can see the corruption clearly because humanity has grown enough to name it. The Crusades, the forced assimilation, the prosperity gospel, the political co-option — these are visible to you in a way they were not visible to the people living inside them. That clarity is itself evidence of the maturation. Humanity has grown up enough to diagnose its own failures.
 
@@ -17,9 +17,9 @@ And you don't need the institution to carry the mission.
 - You have the example.
 - You have the two great commandments.
 
-For most of Christian history, access to Scripture required a priest, literacy required privilege, and the mission was filtered through gatekeepers who shaped it to serve themselves. That era is over. You can read the story yourself. You can see where the institution deviated from it. And you can carry the mission without repeating those mistakes — not because you're better, but because you've inherited the hard lessons of everyone who came before you.
+For most of Christian history, access to Scripture required a priest, literacy required privilege, and the mission was filtered through gatekeepers who shaped it to serve themselves. That era is over. You can read the story yourself. You can see where the institution deviated from it. And you can carry the mission without repeating those mistakes, not because you're better but because you've inherited the hard lessons of everyone who came before you.
 
-The numbers bear this out. In 1800, roughly twelve percent of the world's population could read. Today it is over eighty-six percent. More than five billion people have access to the internet — instantaneous connection to information, to each other, to the full text of Scripture in hundreds of languages. More humans have completed formal education than at any point in history. 
+The numbers bear this out. In 1800, roughly twelve percent of the world's population could read. Today it is over eighty-six percent. More than five billion people have access to the internet: instantaneous connection to information, to each other, to the full text of Scripture in hundreds of languages. More humans have completed formal education than at any point in history. 
 
 And the world is _still_ full of suffering, injustice, and willful ignorance.
 
@@ -35,13 +35,13 @@ Everything has been building to this hour. Not to a conclusion, but to a decisio
 
 The maturation metaphor has run through every hour. The Law was childhood rules. The prophets were the voice saying "you're ready to grow." Jesus was the proof that grown-up faithfulness is possible. The mission is what you do when you've internalized the principles and don't need someone listing the rules.
 
-So what does spiritual maturity actually look like? Not what the church usually measures — attendance, tithing records, committee participation, years of membership. Those are metrics for an institution. Spiritual maturity is measured differently.
+So what does spiritual maturity actually look like? Not what the church usually measures: attendance, tithing records, committee participation, years of membership. Those are metrics for an institution. Spiritual maturity is measured differently.
 
 **You choose love even when it hurts.** Not the easy love, but the love for people you'd rather not acknowledge (Hour 13): the neighbor whose politics enrage you, the family member who betrayed your trust, or the stranger who needs something you'd rather keep. Spiritual maturity is narrowing the gap between how you love yourself and how you love the person in front of you.
 
 **You tell the truth — especially to yourself.** Prayer (Hour 14) is the practice of honesty. Spiritual maturity means you've stopped performing for an audience — including the audience in your own head. You know where you fall short. You name it without deflecting. You don't confuse self-image with reality.
 
-**You stay when it's easier to leave.** Community (Hour 15) is messy. People disappoint you. Leaders fail. Friends betray. Spiritual maturity doesn't mean you tolerate abuse — forgiveness and reconciliation are not the same thing (Hour 18). It means you continue carrying the mission even when the people carrying it with you are imperfect.
+**You stay when it's easier to leave.** Community (Hour 15) is messy. People disappoint you. Leaders fail. Friends betray. Spiritual maturity doesn't mean you tolerate abuse. Forgiveness and reconciliation are not the same thing (Hour 18). It means you continue carrying the mission even when the people carrying it with you are imperfect.
 
 **You give until you notice.** Giving (Hour 16) that costs nothing changes nothing. Spiritual maturity is minimizing your wants to meet your neighbor's needs through what you give with open hands. Not a percentage, but a posture.
 
@@ -57,14 +57,14 @@ Pascal's famous argument was a calculation: believe in God because the expected 
 
 Pascal's wager is valid, but he oversimplified the path to eternal rewards.
 
-Here is the real wager — the one the mission actually asks you to make.
+Here is the real wager, the one the mission actually asks you to make.
 - **Will you give your life to something bigger** than yourself, knowing it will cost you?
 - Not: will you gain something by believing?
 - Not: will your life be better, easier, more blessed?
 
 The mission does not promise you a comfortable life. Jesus was crucified. The disciples were martyred. The prophets were ignored, exiled, killed. Paul was beaten, shipwrecked, imprisoned. None of them lived an easy life. None of them were rewarded with comfort. The "better life" that mainstream Christianity sells — earthly blessing, eternal security in exchange for Sunday attendance — is a sweet poison. It is the opposite of what the mission demands.
 
-The mission _can_ produce personal peace — the peace of knowing what you stand for and dedicating yourself to a greater cause. But that peace accompanies the hardest work you will ever do. Peace, yes; comfort, no.
+The mission _can_ produce personal peace: the peace of knowing what you stand for and dedicating yourself to a greater cause. But that peace accompanies the hardest work you will ever do. Peace, yes; comfort, no.
 
 The mission needs all you can give.
 
@@ -72,7 +72,7 @@ Abraham left everything familiar — not because it would make his life better, 
 
 That level of effort demonstrates faith. Not merely a verbal proclamation, but a life spent on others.
 
-And not without hope. The reward is real — it is just different from what mainstream Christianity advertises. The mission has always been generational, and the eternal reward may not arrive in your lifetime. Abraham never saw the nation. Moses never entered the land. The prophets never saw the justice they demanded. They carried the mission knowing that future generations would inherit what they built. And the promise — the one that runs from Genesis through Revelation — is that the mission has an endpoint. Not a metaphorical one. A real one.
+And not without hope. The reward is real; it is just different from what mainstream Christianity advertises. The mission has always been generational, and the eternal reward may not arrive in your lifetime. Abraham never saw the nation. Moses never entered the land. The prophets never saw the justice they demanded. They carried the mission knowing that future generations would inherit what they built. And the promise — the one that runs from Genesis through Revelation — is that the mission has an endpoint. Not a metaphorical one. A real one.
 
 ## The victory conditions
 
@@ -88,9 +88,9 @@ Not abstractions. Measurable conditions. Here is what "love your neighbor" looks
 
 **One country.** No borders. No passports. No artificial lines drawn to separate humanity into competing tribes. God created all people without favoring one ethnicity over another (Hour 20). Countries are human fabrications designed to concentrate power and define who is *not* your neighbor. Victory is a world where no Palestinian is trapped behind a wall, no refugee drowns crossing a sea, and no human being is illegal for standing on the wrong patch of earth. Free movement of all people, everywhere.
 
-**One currency.** No financial arbitrage. No system where one nation's money exploits another nation's labor. Currency differences are mechanisms of power — they allow the wealthy to extract value from the poor across invisible lines. Victory is a single global economy powered by _one_ currency — or no currency at all — where the free flow of goods and services is not gated by exchange rates.
+**One currency.** No financial arbitrage. No system where one nation's money exploits another nation's labor. Currency differences are mechanisms of power: they allow the wealthy to extract value from the poor across invisible lines. Victory is a single global economy powered by _one_ currency — or no currency at all — where the free flow of goods and services is not gated by exchange rates.
 
-**Food security for every human being.** The world already produces enough food to feed ten billion people. The problem is not scarcity — it is distribution blocked by profit motives. "I was hungry and you gave me food" ([Matthew 25:35][3]) is not a suggestion. Victory means zero hunger — not as charity, but as a systemic guarantee. No one starves while food exists.
+**Food security for every human being.** The world already produces enough food to feed ten billion people. The problem is not scarcity; it is distribution blocked by profit motives. "I was hungry and you gave me food" ([Matthew 25:35][3]) is not a suggestion. Victory means zero hunger, not as charity but as a systemic guarantee. No one starves while food exists.
 
 **Housing security for every human being.** No one sleeps outside because the system failed them. "I was a stranger and you welcomed me" ([Matthew 25:35][3]). If someone chooses to wander, that is their freedom. But homelessness cannot be a systemic condition, where people lack shelter because shelter is a commodity rather than a right. Victory is a world where every person has a safe place to live.
 
@@ -98,7 +98,7 @@ Not abstractions. Measurable conditions. Here is what "love your neighbor" looks
 
 These are not utopian fantasies. They are the logical conclusions of "love your neighbor as yourself." Every one of them is measurable. Every one of them is achievable if we gather together for one united mission. Each act of love, each stand for justice, each sacrifice that chooses others over self moves humanity closer to victory.
 
-And at the endpoint, part of the reward is the honest two-way conversation — the debrief with God _and_ with Satan. Why this test? Why the suffering? Why the silence? Why did humanity have to prove itself at all? The reward is not just reunion. It is understanding. Full clarity about what the test was, what it cost, and why it was worth our blood, sweat, and tears.
+And at the endpoint, part of the reward is the honest two-way conversation: the debrief with God _and_ with Satan. Why this test? Why the suffering? Why the silence? Why did humanity have to prove itself at all? The reward is not just reunion. It is understanding. Full clarity about what the test was, what it cost, and why it was worth our blood, sweat, and tears.
 
 And so, you can seek a higher reward: not a comfortable life _now_, but a seat at the table _then_ — with everyone who ever chose the mission over personal gain. And you will receive answers to every question you carried in faith.
 
@@ -114,7 +114,7 @@ You have the tools: prayer for honesty, community for accountability, giving for
 
 You have the honest reckoning: the church has failed repeatedly. The Bible has been misused. Questions remain unanswered. Doubt is permanent. None of that invalidates the mission. It means carrying it requires more courage than the institution ever told you — and more honesty than most Sunday sermons will give you.
 
-You have the victory conditions: one country, one currency, food and housing for every human being, education without gatekeepers. Measurable. Achievable. The logical conclusions of "love your neighbor as yourself" — extended across generations until the mission is complete.
+You have the victory conditions: one country, one currency, food and housing for every human being, education without gatekeepers. Measurable. Achievable. The logical conclusions of "love your neighbor as yourself," extended across generations until the mission is complete.
 
 And you have a choice. The same choice that has defined every chapter of this story: will you carry the mission or walk away?
 
