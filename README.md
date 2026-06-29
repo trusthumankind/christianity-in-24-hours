@@ -1,4 +1,4 @@
-# Christianity in 24 Hours
+# Christianity Reconstructed in 24 Hours
 
 This living book (meaning never finished, always being challenged and refined) is modeled after the [Sams Teach Yourself][1] series, with the belief that Christianity shouldn't require a master's degree to understand.
 

@@ -1,6 +1,6 @@
 # Copyright {.copyright .unnumbered}
 
-Christianity in 24 Hours
+Christianity Reconstructed in 24 Hours
 
 Copyright © 2026 Marty Chang. All rights reserved.
 

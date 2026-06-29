@@ -1,4 +1,4 @@
-// Christianity in 24 Hours — Print template for pandoc + typst
+// Christianity Reconstructed in 24 Hours — Print template for pandoc + typst
 // Trim: 5.06 x 7.81 in — KDP paperback
 
 #let horizontalrule = line(start: (25%,0%), end: (75%,0%))
@@ -105,7 +105,7 @@
       if n == 1 {
 
         align(center + horizon)[
-          #text(size: 22pt, weight: "bold", fill: black)[Christianity in 24 Hours]
+          #text(size: 22pt, weight: "bold", fill: black)[Christianity Reconstructed in 24 Hours]
           #v(0.5em)
           #text(size: 13pt, style: "italic", fill: black)[One story. One decision.]
           #v(1em)
