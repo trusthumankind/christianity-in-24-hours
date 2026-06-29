@@ -4,7 +4,7 @@ In the summer of 2005, I joined AmeriCorps to deliver a literacy program for at-
 
 Soon my curiosity boiled over, and I asked, “Why don’t you use milk?” He shrugged back a simple answer, “I got used to water, 'cause my family couldn't afford milk.”
 
-I never forgot that conversation, etched in memory as a heartbreaking truth about the broken system we inhabit. I felt driven to fix what made this tragedy possible, but I knew I needed help. So, I thought to engage into a community I'd encountered growing up in America. I recalled a community that cared about peace, love, and justice: the Christian community.
+I never forgot that conversation, etched in memory as a heartbreaking truth about the broken system we inhabit. I felt driven to fix what made this tragedy possible, but I knew I needed help. So, I thought to engage a community I'd encountered growing up in America. I recalled a community that cared about peace, love, and justice: the Christian community.
 
 When I started visiting churches, I expected an organized movement making measurable advancement in social good. What I found were great intentions drowned in a toxic mixture of academia, mystery, and ignorance — potent enough to stifle any meaningful progress.
 
@@ -22,12 +22,6 @@ Can it be true? That God has an unknowable plan for all of us? That evil and inj
 Something didn't make sense. I started to understand why people were leaving religious organizations. But I either couldn't or didn't want to abandon a growing belief in a higher power that had our best interests in mind. So, I took to analyzing the Bible on my own, reconciling what I'd heard and read from religious authorities. 
 
 Eventually a story emerged, one that felt internally consistent with itself and externally consistent with the observable world. That story — that _mission_ — is presented between these covers.
-
-You may wonder what makes me qualified to write this book.
-
-I'm am mechanical engineer by education, a systems engineer by trade, and an operations leader by employment. I am profesionally conditioned and naturall inclined to _objectively_ identify and resolve root causes behind bugs that produce unwanted side effects. I have no bias toward any one religion, having grown up in an areligious household in an areligious country.
-
-Perhaps that makes me uniquely qualified to diagnose Christianity's problems with fresh eyes, then propose corrective changes.
 - The problem of suffering. Solved.
 - The problem of evil. Solved.
 - Original sin and substitutionary atonement. Solved.
