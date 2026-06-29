@@ -1,1 +1,1 @@
-# Christianity in 24 Hours {.halftitle .unnumbered}
+# Christianity Reconstructed in 24 Hours {.halftitle .unnumbered}

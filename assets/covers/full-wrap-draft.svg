@@ -58,7 +58,7 @@
 
   <g transform="translate(1634, 1209) rotate(90)">
     <text x="0" y="0" text-anchor="middle" font-family="'Crimson Text', Georgia, serif" font-size="50" fill="#ffffff" letter-spacing="4">
-      <tspan font-weight="bold">Christianity in 24 Hours</tspan>
+      <tspan font-weight="bold">Christianity Reconstructed in 24 Hours</tspan>
       <tspan dx="48" fill="#c49a3c">Marty Chang &amp; Coraline Chang</tspan>
     </text>
   </g>
@@ -67,9 +67,11 @@
 
   <text x="2471" y="1617" text-anchor="middle" font-family="'Crimson Text', Georgia, serif" font-size="1200" font-weight="bold" fill="#222222">24</text>
 
-  <text x="2471" y="670" text-anchor="middle" font-family="'Crimson Text', Georgia, serif" font-size="150" font-weight="bold" fill="#ffffff" letter-spacing="6">Christianity</text>
+  <text x="2471" y="620" text-anchor="middle" font-family="'Crimson Text', Georgia, serif" font-size="150" font-weight="bold" fill="#ffffff" letter-spacing="6">Christianity</text>
 
-  <text x="2471" y="790" text-anchor="middle" font-family="'Crimson Text', Georgia, serif" font-size="58" fill="#888888" letter-spacing="12" font-style="italic">in</text>
+  <text x="2471" y="720" text-anchor="middle" font-family="'Crimson Text', Georgia, serif" font-size="90" font-weight="bold" fill="#c49a3c" letter-spacing="8">Reconstructed</text>
+
+  <text x="2471" y="800" text-anchor="middle" font-family="'Crimson Text', Georgia, serif" font-size="58" fill="#888888" letter-spacing="12" font-style="italic">in</text>
 
   <text x="2471" y="980" text-anchor="middle" font-family="'Crimson Text', Georgia, serif" font-size="150" font-weight="bold" fill="#c49a3c" letter-spacing="6">24 Hours</text>
 

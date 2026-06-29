@@ -32,7 +32,7 @@ All variants link to the same resources:
 >
 > I know you're not religious, and that's exactly why I'm reaching out.
 >
-> I wrote a book called *Christianity in 24 Hours*. It's not what you'd expect. It argues that most of what people associate with Christianity (the politics, the judgment, the prosperity gospel) is a distortion of the actual message. The real mission is simpler and harder: reducing violence, ending poverty, fighting injustice, and building a world that's fair and equitable for everyone. You and I already share that goal. We just come at it from different starting points.
+> I wrote a book called *Christianity Reconstructed in 24 Hours*. It's not what you'd expect. It argues that most of what people associate with Christianity (the politics, the judgment, the prosperity gospel) is a distortion of the actual message. The real mission is simpler and harder: reducing violence, ending poverty, fighting injustice, and building a world that's fair and equitable for everyone. You and I already share that goal. We just come at it from different starting points.
 >
 > I'm starting a study group. One chapter a week for 24 weeks, starting July 6. You don't need to be a Christian. You don't need to believe anything. The group exists to test the book's arguments honestly, and skepticism is more useful than agreement.
 >
@@ -46,7 +46,7 @@ All variants link to the same resources:
 
 > Hey [Name] —
 >
-> I finished a book I've been working on for a while: *Christianity in 24 Hours*. Twenty-four chapters covering God, Scripture, sin, salvation, the church's history, and where the mission goes from here. It's a theological argument, not devotional reading. The book takes positions and defends them, and some of them (morality is objective, the Spirit isn't actively guiding individuals today, salvation is communal or it's nothing) will probably start arguments.
+> I finished a book I've been working on for a while: *Christianity Reconstructed in 24 Hours*. Twenty-four chapters covering God, Scripture, sin, salvation, the church's history, and where the mission goes from here. It's a theological argument, not devotional reading. The book takes positions and defends them, and some of them (morality is objective, the Spirit isn't actively guiding individuals today, salvation is communal or it's nothing) will probably start arguments.
 >
 > I'm putting together a study group. One chapter per week, 24 weeks, starting July 6. Small group on Discord. The format is async written discussion plus one live conversation per week. I want people who engage with ideas seriously, whether or not they agree with the conclusions.
 >
@@ -60,7 +60,7 @@ All variants link to the same resources:
 
 > Hey [Name] —
 >
-> You know I've been writing this book about faith. It's done: *Christianity in 24 Hours*. I'm proud of it, and I'd love for you to read it, but more than that, I'd love to talk about it with you.
+> You know I've been writing this book about faith. It's done: *Christianity Reconstructed in 24 Hours*. I'm proud of it, and I'd love for you to read it, but more than that, I'd love to talk about it with you.
 >
 > I'm starting a study group. One chapter a week for 24 weeks, starting July 6. Small group, about a dozen people. We meet on Discord (I'll help you set it up if you need). Each week there's a discussion thread and one live conversation.
 >

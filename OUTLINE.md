@@ -1,4 +1,4 @@
-# Christianity in 24 Hours — Outline
+# Christianity Reconstructed in 24 Hours — Outline
 
 This is the working outline for the book. Chapters marked with ✅ have drafts.
 The outline is a living document — expect it to evolve as content comes together

@@ -1,10 +1,10 @@
-# Christianity in 24 Hours — Study Group Invitation
+# Christianity Reconstructed in 24 Hours — Study Group Invitation
 
 Hey —
 
 I wrote a book about faith. Not the comfortable kind. It looks at what Christianity actually says when you strip away the institutional scaffolding, the political baggage, and the "God has a plan" platitudes.
 
-It's called *Christianity in 24 Hours*. Twenty-four chapters, each readable in under an hour. It covers everything: who God is, what the Bible actually says, why the church got so much wrong, and what it would take to get the mission back on track.
+It's called *Christianity Reconstructed in 24 Hours*. Twenty-four chapters, each readable in under an hour. It covers everything: who God is, what the Bible actually says, why the church got so much wrong, and what it would take to get the mission back on track.
 
 The full text is free online at [christianity.trusthumankind.org](https://christianity.trusthumankind.org). If you prefer a physical copy, the paperback is $4.99 on Amazon.
 

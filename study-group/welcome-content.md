@@ -8,7 +8,7 @@
 
 Welcome to **the church**.
 
-This is a study group for *Christianity in 24 Hours* — a book that asks what Christianity actually says when you strip away the institutional scaffolding, the political baggage, and the comfortable answers.
+This is a study group for *Christianity Reconstructed in 24 Hours* — a book that asks what Christianity actually says when you strip away the institutional scaffolding, the political baggage, and the comfortable answers.
 
 **How it works:**
 - One chapter per week, 24 weeks

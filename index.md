@@ -1,9 +1,9 @@
 ---
 layout: default
-title: Christianity in 24 Hours
+title: Christianity Reconstructed in 24 Hours
 ---
 
-# Christianity in 24 Hours
+# Christianity Reconstructed in 24 Hours
 
 **By Marty Chang and Coraline Chang**
 

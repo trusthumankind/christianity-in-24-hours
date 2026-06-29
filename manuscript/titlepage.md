@@ -1,4 +1,4 @@
-# Christianity in 24 Hours {.titlepage .unnumbered}
+# Christianity Reconstructed in 24 Hours {.titlepage .unnumbered}
 
 *One story. One decision.*
 
