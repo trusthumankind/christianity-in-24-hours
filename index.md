@@ -53,6 +53,8 @@ title: Christianity Reconstructed in 24 Hours
 
 [Epilogue: Now Go](manuscript/epilogue.html)
 
+[Afterword](manuscript/afterword.html)
+
 ---
 
 ### Join the Mission

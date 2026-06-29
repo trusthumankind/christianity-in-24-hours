@@ -16,4 +16,4 @@ This is an invitation.
 
 ---
 
-[← Hour 24: The Decision](ch24-the-decision.html) · [Table of Contents](../)
+[← Hour 24: The Decision](ch24-the-decision.html) · [Table of Contents](../) · [Afterword →](afterword.html)
