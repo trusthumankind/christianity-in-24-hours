@@ -1,18 +1,44 @@
 # Preface
 
-Nations arm themselves against one another while their own people go hungry. Technology meant to connect us has instead sorted us into tribes that can no longer agree on basic facts. How can we correct the course of human development?
+In the summer of 2005, I joined AmeriCorps to deliver a literacy program for at-risk youth in Cleveland. Every morning, my students gathered for breakfast. Cereal was the top choice, with milk as the natural pairing. But there was one student who always skipped the milk, pouring a glass of water on his cereal instead.
 
-**Faith** in God is the only sustainable solution to the biggest challenges facing humanity in the 21st century: economic inequality, war, the decay of truth. But faith is widely misunderstood.
+Soon my curiosity boiled over, and I asked, “Why don’t you use milk?” He shrugged back a simple answer, “I got used to water, 'cause my family couldn't afford milk.”
 
-Phrases like “God works in mysterious ways” and “God has a plan” exemplify how faith is often confused with misplaced hope in an unknowable manuscript in which our fates are predestined. And sadly, the prevailing behavior of many who profess faithfulness is to stop asking questions. Religious leaders would have you believe that the less you question God’s plan, the stronger your faith.
+I never forgot that conversation, etched in memory as a heartbreaking truth about the broken system we inhabit. I felt driven to fix what made this tragedy possible, but I knew I needed help. So, I thought to engage into a community I'd encountered growing up in America. I recalled a community that cared about peace, love, and justice: the Christian community.
 
-Ironically, faith is actually forged in the difficult answers to hard questions that religions ignore. And you shouldn't have to guess at the answers. Not in this day and age.
+When I started visiting churches, I expected an organized movement making measurable advancement in social good. What I found were great intentions drowned in a toxic mixture of academia, mystery, and ignorance — potent enough to stifle any meaningful progress.
 
-_Christianity in 24 Hours_ exists to explain what faith in God really means, over 24 chapters you can read in under 1 hour each. You will learn to distinguish a true believer from a cultural believer, and you will learn the reality of our mission along with your power to influence the outcome.
+There were many common dead ends.
+- "God has a plan." "Great! What is it?" ... Silence.
+- "The Holy Spirit will guide you." "Sounds good. How will I know?" ... Silence.
+- "Jesus is coming." "Okay. When?" ... Silence.
 
-Once you’ve read _this_ book, go read the Bible for yourself, from cover to cover. See whether you reach the same conclusions. See whether you can then spot the tactics some use to hide from many inconvenient truths.
+For years, I sought answers to these questions, hoping to unlock a secret that could help me better tap into the Christian community. I went from church to church, local and online, talking to pastors, elders, small group leaders. They'd smile and politely entertain my questions, but invariably the conversations yielded no satisfying conclusions.
 
-Like Neo meeting Morpheus for the first time in _The Matrix_, you can choose now to take the blue pill and toss this book in the trash. But if you’re willing to try the red pill, read on.
+It appeared that no one knew the answers. And some believed that no one ever would.
+
+Can it be true? That God has an unknowable plan for all of us? That evil and injustice are just facts of life, until one unpredictable day we are suddenly saved?
+
+Something didn't make sense. I started to understand why people were leaving religious organizations. But I either couldn't or didn't want to abandon a growing belief in a higher power that had our best interests in mind. So, I took to analyzing the Bible on my own, reconciling what I'd heard and read from religious authorities. 
+
+Eventually a story emerged, one that felt internally consistent with itself and externally consistent with the observable world. That story — that _mission_ — is presented between these covers.
+
+You may wonder what makes me qualified to write this book.
+
+I'm am mechanical engineer by education, a systems engineer by trade, and an operations leader by employment. I am profesionally conditioned and naturall inclined to _objectively_ identify and resolve root causes behind bugs that produce unwanted side effects. I have no bias toward any one religion, having grown up in an areligious household in an areligious country.
+
+Perhaps that makes me uniquely qualified to diagnose Christianity's problems with fresh eyes, then propose corrective changes.
+- The problem of suffering. Solved.
+- The problem of evil. Solved.
+- Original sin and substitutionary atonement. Solved.
+- The morality of eternal punishment. Solved.
+- Free will. Reinforced.
+
+I hope this book clarifies what the Roman Empire had corrupted. After you close the book, please tell me what you think. At worst, your feedback will help me refine the message. At best, you will join forces to _build_ peace on Earth together.
+
+In any case, thank you truly for reading.
+
+Marty...
 
 ---
 
