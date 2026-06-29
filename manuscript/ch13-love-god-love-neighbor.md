@@ -55,7 +55,7 @@ How do you love yourself? You feed yourself when you're hungry. You protect your
 
 Now do that for the person next to you.
 
-That is an impossible standard. And that's the point. The standard is not designed to be met perfectly — it's designed to be pursued relentlessly. The gap between how you love yourself and how you love your neighbor is the honest measure of where you are. Not where you think you are. Not where your church says you are. Where you actually are.
+That is an impossible standard. The standard is not designed to be met perfectly — it's designed to be pursued relentlessly. The gap between how you love yourself and how you love your neighbor is the honest measure of where you are. Not where you think you are. Not where your church says you are. Where you actually are.
 
 ## Who is your neighbor?
 

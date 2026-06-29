@@ -121,7 +121,7 @@ The offense seems minor. At Meribah, God told Moses to speak to a rock and water
 
 This feels disproportionate. A lifetime of faithful service, and one moment of anger at a rock costs you everything?
 
-But that's the point. The standard is the standard. It doesn't bend for seniority. Moses — the greatest leader in the Old Testament — is held to the same accountability as the people he led. No one gets a pass. Not Abraham, who lied about his wife. Not Moses, who struck the rock. The Bible does not protect its heroes from the consequences of their choices.
+But the standard is the standard. It doesn't bend for seniority. Moses — the greatest leader in the Old Testament — is held to the same accountability as the people he led. No one gets a pass. Not Abraham, who lied about his wife. Not Moses, who struck the rock. The Bible does not protect its heroes from the consequences of their choices.
 
 Moses sees the Promised Land from Mount Nebo. He dies there. Joshua leads the people across the Jordan.
 
