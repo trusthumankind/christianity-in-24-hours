@@ -30,4 +30,5 @@ ch22-reading-the-bible.md
 ch23-death-and-afterlife.md
 ch24-the-decision.md
 epilogue.md
+afterword.md
 about-authors.md
