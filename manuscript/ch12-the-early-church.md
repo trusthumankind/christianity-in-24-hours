@@ -19,7 +19,7 @@ Then the Spirit came.
 > And they were all filled with the Holy Spirit and began to speak in other tongues as the Spirit gave them utterance.
 — [Acts 2:4 ESV][2]
 
-Hour 6 covered this in detail: the Holy Spirit equipped the early church with abilities they didn't have on their own. Languages, healing, boldness. The Spirit was the launch equipment — the initial thrust that a small group of nobodies needed to build something from nothing against the full weight of the Roman Empire.
+They were speaking in languages they had never learned — and people from across the Roman Empire, gathered in Jerusalem for the festival, heard the message in their own tongues ([Acts 2:6-8][12]). Hour 6 covered this in detail: the Holy Spirit equipped the early church with abilities they didn't have on their own. The Spirit was the launch equipment — the initial thrust that a small group of nobodies needed to build something from nothing against the full weight of the Roman Empire.
 
 Peter — the same Peter who denied Jesus three times, who ran when the soldiers came — stood up and preached. Three thousand people believed that day ([Acts 2:41][3]).
 
@@ -42,7 +42,7 @@ It was not perfect. Ananias and Sapphira sold property, kept some of the money, 
 
 Then the story takes its most unlikely turn.
 
-Saul of Tarsus was a Pharisee. A zealot. He hunted Christians. He stood and watched while Stephen — the first Christian martyr — was stoned to death ([Acts 7:58][6]). He went house to house, dragging believers to prison ([Acts 8:3][7]). If there was a name the early church dreaded, it was Saul.
+Saul of Tarsus was a Pharisee — a member of the strictest sect of Jewish religious law, the same group Jesus confronted in Hour 10. He hunted Christians. He stood and watched while Stephen — a young believer who publicly accused the Jewish leaders of resisting God's messengers the same way their ancestors had resisted the prophets — was stoned to death ([Acts 7:51-58][6]). He went house to house, dragging believers to prison ([Acts 8:3][7]). If there was a name the early church dreaded, it was Saul.
 
 On the road to Damascus, headed to arrest more Christians, something happened:
 
@@ -55,7 +55,7 @@ Paul's conversion is significant for two reasons. First, it demonstrates that no
 
 ## The missionary journeys
 
-Paul traveled the Roman Empire for roughly thirty years — from the late 40s to the mid-60s AD. He established churches in modern-day Turkey, Greece, and Italy. He was beaten, shipwrecked, imprisoned, bitten by a snake, and stoned and left for dead. He kept going.
+The conversion was the beginning, not the end. Paul spent years in preparation — studying, preaching in local synagogues, learning how to articulate a mission he had spent his previous life trying to destroy. Then he traveled the Roman Empire for roughly thirty years — from the late 40s to the mid-60s AD. He established churches in modern-day Turkey, Greece, and Italy. He was beaten, shipwrecked, imprisoned, bitten by a snake, and stoned and left for dead. He kept going.
 
 His letters — Romans, Corinthians, Galatians, Ephesians, Philippians, and others — make up a substantial portion of the New Testament. They were written to specific communities facing specific problems: divisions, sexual ethics, the role of the Law, meat sacrificed to idols, the rights of women in worship, the return of Christ. They are not abstract theology. They are a pastor trying to hold together a scattered, struggling, arguing community of people who were trying to live the mission in a world that didn't want them to.
 
@@ -125,12 +125,13 @@ The story has been told. The direction is set. All that's needed are people will
 [3]: https://www.esv.org/Acts+2:41/
 [4]: https://www.esv.org/Acts+2/
 [5]: https://www.esv.org/Acts+5/
-[6]: https://www.esv.org/Acts+7/
+[6]: https://www.esv.org/Acts+7:51-58/
 [7]: https://www.esv.org/Acts+8/
 [8]: https://www.esv.org/Acts+9/
 [9]: https://www.esv.org/Romans+1/
 [10]: https://www.esv.org/Genesis+12:3/
 [11]: https://www.esv.org/Galatians+2/
+[12]: https://www.esv.org/Acts+2:6-8/
 
 ---
 
