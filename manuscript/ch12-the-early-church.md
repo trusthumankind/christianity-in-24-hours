@@ -19,7 +19,7 @@ Then the Spirit came.
 > And they were all filled with the Holy Spirit and began to speak in other tongues as the Spirit gave them utterance.
 — [Acts 2:4 ESV][2]
 
-They were speaking in languages they had never learned — and people from across the Roman Empire, gathered in Jerusalem for the festival, heard the message in their own tongues ([Acts 2:6-8][12]). Hour 6 covered this in detail: the Holy Spirit equipped the early church with abilities they didn't have on their own. The Spirit was the launch equipment — the initial thrust that a small group of nobodies needed to build something from nothing against the full weight of the Roman Empire.
+They were speaking in languages they had never learned. Devout Jews from every nation under heaven, in Jerusalem for the festival, each heard the message in their own native language ([Acts 2:6-8][12]). Hour 6 covered this in detail: the Holy Spirit equipped the early church with abilities they didn't have on their own. The Spirit was the launch equipment — the initial thrust that a small group of nobodies needed to build something from nothing against the full weight of the Roman Empire.
 
 Peter — the same Peter who denied Jesus three times, who ran when the soldiers came — stood up and preached. Three thousand people believed that day ([Acts 2:41][3]).
 
@@ -42,7 +42,9 @@ It was not perfect. Ananias and Sapphira sold property, kept some of the money, 
 
 Then the story takes its most unlikely turn.
 
-Saul of Tarsus was a Pharisee — a member of the strictest sect of Jewish religious law, the same group Jesus confronted in Hour 10. He hunted Christians. He stood and watched while Stephen — a young believer who publicly accused the Jewish leaders of resisting God's messengers the same way their ancestors had resisted the prophets — was stoned to death ([Acts 7:51-58][6]). He went house to house, dragging believers to prison ([Acts 8:3][7]). If there was a name the early church dreaded, it was Saul.
+Stephen was a young believer who stood before the Jewish leaders and accused them of resisting God's messengers the same way their ancestors had resisted the prophets.
+
+Saul of Tarsus was a Pharisee — a member of the strictest sect of Jewish religious law, the same group Jesus confronted in Hour 10. He watched Stephen's execution and approved of it ([Acts 7:51-58][6]). He went house to house, dragging believers to prison ([Acts 8:3][7]). If there was a name the early church dreaded, it was Saul.
 
 On the road to Damascus, headed to arrest more Christians, something happened:
 
