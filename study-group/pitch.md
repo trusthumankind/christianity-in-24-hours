@@ -6,7 +6,7 @@ I wrote a book about faith. Not the comfortable kind. It looks at what Christian
 
 It's called *Christianity Reconstructed in 24 Hours*. Twenty-four chapters, each readable in under an hour. It covers everything: who God is, what the Bible actually says, why the church got so much wrong, and what it would take to get the mission back on track.
 
-The full text is free online at [christianity.trusthumankind.org](https://christianity.trusthumankind.org). If you prefer a physical copy, the paperback is $4.99 on Amazon.
+The full text is free online at [christianity.trusthumankind.org](https://christianity.trusthumankind.org). If you prefer a physical copy, the paperback is $9.99 on Amazon.
 
 **I'm starting a study group.** One chapter per week, twenty-four weeks. Small group, around a dozen people. We'll meet on Discord at [thechurch.one](https://thechurch.one) for weekly async threads, with one live discussion.
 
