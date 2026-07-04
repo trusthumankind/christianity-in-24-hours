@@ -42,9 +42,9 @@ It was not perfect. Ananias and Sapphira sold property, kept some of the money, 
 
 Then the story takes its most unlikely turn.
 
-Stephen was a young believer who stood before the Jewish leaders and accused them of resisting God's messengers the same way their ancestors had resisted the prophets. The accusation enraged them. They rushed him, dragged him outside the city, and stoned him to death — the first Christian martyr ([Acts 7:51-58][6]).
+Stephen was a young believer who stood before the Jewish leaders and accused them of resisting God's messengers the same way their ancestors had resisted the prophets. The accusation enraged them. They dragged him outside the city and stoned him to death — the first Christian martyr ([Acts 7:51-58][6]).
 
-Among those standing by, watching the witnesses lay their coats at his feet before throwing the stones, was a young Pharisee named Saul of Tarsus — a member of the strictest sect of Jewish religious law, the same group Jesus confronted in Hour 10. Saul approved of the killing ([Acts 8:1][13]). He went house to house afterward, dragging believers to prison ([Acts 8:3][7]). If there was a name the early church dreaded, it was Saul.
+Among those witnessing the execution was a young Pharisee named Saul of Tarsus. Saul approved of the killing ([Acts 8:1][13]). He went house to house afterward, dragging believers to prison ([Acts 8:3][7]). If there was a name the early church dreaded, it was Saul.
 
 On the road to Damascus, headed to arrest more Christians, something happened:
 
