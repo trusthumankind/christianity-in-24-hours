@@ -4,7 +4,7 @@ The [pitch](pitch.md) is the general-purpose version. These variants adjust tone
 
 All variants link to the same resources:
 - Free online: [christianity.trusthumankind.org](https://christianity.trusthumankind.org)
-- Paperback: $4.99 on Amazon
+- Paperback: $9.99 on Amazon
 - Discord: [thechurch.one](https://thechurch.one)
 - Start date: **July 6, 2026**
 

@@ -76,4 +76,4 @@ Share your thoughts below. There are no wrong answers — the only expectation i
 
 ---
 
-*The full facilitation guide for each week is in the study-group/ directory (week-01-god.md through week-06-holy-spirit.md). The forum post is a condensed version — summary, questions, and an invitation to engage.*
+*The full facilitation guide for each week is in the study-group/ directory (week-01-god.md through week-24-the-decision.md). The forum post is a condensed version — summary, questions, and an invitation to engage.*
