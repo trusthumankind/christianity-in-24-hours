@@ -48,7 +48,7 @@ Quick orientation:
 - **#weekly-discussions** — this is where the study group happens, one thread per week
 - The book is free at christianity.trusthumankind.org
 
-We start **July 6** with Hour 1: God. No prep needed before then — just read the first chapter when you're ready.
+We'll kick off with Hour 1: God once the group's ready — I'll announce the date in #announcements. No prep needed before then — just read the first chapter when you're ready.
 
 If you have questions, #general is the place.
 
