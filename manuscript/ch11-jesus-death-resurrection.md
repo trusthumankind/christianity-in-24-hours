@@ -12,9 +12,15 @@ This chapter is about what happened next. But before we get there, a framing tha
 
 Traditional Christianity teaches that Jesus died as a sacrifice: God required a payment for humanity's sin, and Jesus was the payment. This is called substitutionary atonement, and it is the dominant framework in most churches. It says: you owed a debt you couldn't pay, Jesus paid it, and now you're free.
 
-There is a different take.
+The reasoning has biblical roots. The sacrificial imagery runs deep — from the Passover lamb to Isaiah's "he was pierced for our transgressions" ([Isaiah 53:5][12]) to Paul's "Christ died for our sins" ([1 Corinthians 15:3][13]). The emotional logic is clean: you were guilty, someone took your punishment, you're free. It is easy to see why this became the dominant reading.
 
-Not because the sacrificial language isn't in the Bible. It is. But because within the framework built across the last ten hours, the cross means something more specific than a cosmic transaction. Jesus was a prophet with gifts no one else had, who carried the mission without faltering where every prophet before him had broken. His death wasn't a payment. It was the final proof that carrying the mission faithfully is possible, even when the cost is everything.
+But that reading requires specific premises: that God's justice demands punishment, that only a divine sacrifice can absorb it, and that the cross is the moment the ledger balances. Within the framework built across the last ten hours, those premises don't hold.
+
+The God of Hour 1 is not a judge keeping score. The gap between where humanity stands and where the mission needs us to be is not a courtroom verdict — it is a developmental reality (Hour 8). And Jesus, as Hour 10 established, is not God walking the earth in human form. He is a human being with gifts no one else had, who carried the mission without faltering where every prophet before him had broken.
+
+That distinction changes what the cross means. If Jesus is a specially blessed human, his death is not a divine being offering itself as payment. It is a human being proving — at the highest possible cost — that the mission can be carried faithfully. The sacrificial language in the Bible is pointing at something real: Jesus gave everything. But "gave everything" is not the same as "paid a debt." One is the ultimate act of faithfulness. The other is a transaction.
+
+The cross is proof, not payment.
 
 ## The last days
 
@@ -155,6 +161,8 @@ The next chapter covers that handoff, from the one who proved it possible to the
 [9]: https://www.esv.org/Matthew+28/
 [10]: https://www.esv.org/John+21/
 [11]: https://www.esv.org/Matthew+28:19-20/
+[12]: https://www.esv.org/Isaiah+53:5/
+[13]: https://www.esv.org/1+Corinthians+15:3/
 
 ---
 
