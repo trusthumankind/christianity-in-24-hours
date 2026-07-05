@@ -12,7 +12,7 @@ This chapter is about what they did next. And why it matters that they did it im
 
 ## Pentecost
 
-Pentecost — the Jewish harvest festival held fifty days after Passover, one of the yearly feasts that drew pilgrims to Jerusalem from across the empire — had arrived. The disciples were gathered in the city. They were waiting — Jesus had told them to wait for the promise ([Acts 1:4][1]). They didn't know what they were waiting for.
+Pentecost was and still is the Jewish harvest festival held fifty days after Passover. Pentecost was one of the yearly feasts that drew pilgrims to Jerusalem from across the Roman Empire. When the festival arrived after Jesus's resurrection, the disciples were gathered in the city. Jesus had told them to wait for the promise ([Acts 1:4][1]), but the disciples didn't know what they were waiting for.
 
 Then the Spirit came.
 
@@ -72,7 +72,7 @@ To everyone. Not just Israel. Not just the covenant people. The mission that beg
 
 The early church was not a movement of saints. It was a movement of people, and people argue.
 
-The first major crisis was the question of Gentile inclusion. Did non-Jews (Gentiles) have to become Jewish first — circumcision (the ancient sign marking a man as part of God's covenant people), dietary laws, the full Law of Moses — before they could follow Jesus? This was not a trivial question. It was the question of whether the mission was for everyone or only for the people who already had the cultural prerequisites.
+The first major crisis was the question of Gentile inclusion. Did these Gentiles or non-Jews have to become Jewish first? Did Gentiles have to undergo circumcision (the ancient mark of God's covenant people), adopt the same dietary laws, and learn the full Law of Moses before they could follow Jesus? This was not a trivial question. It was the question of whether the mission was for everyone or only for the people who already had the cultural prerequisites.
 
 The Jerusalem Council (Acts 15) settled it: Gentiles did not need to become Jews. The mission was universal. But the debate was fierce, and echoes of it run through Paul's letters for years. Peter himself wavered — eating with Gentiles when no one was looking, then pulling back when Jewish Christians showed up. Paul confronted him publicly:
 
