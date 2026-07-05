@@ -4,6 +4,16 @@ These principles govern how we write. They emerged through editorial iteration a
 
 For the theological foundations behind these choices, see [Core Tenets](reference/core-tenets.md).
 
+## Target Reader
+
+We write for **doubters and seekers** — people questioning a faith they were raised in, and people exploring Christianity with no faith background at all. Not lifelong devout believers looking for devotional reinforcement, and not academic theologians.
+
+**Assume no prior church background, regardless of which of the two you're picturing.** A doubter and a seeker need different things challenged, but they don't need different amounts of scaffolding — write as if the reader has never set foot in a church, never read a Bible verse, and doesn't know what "the Gospel" or "the Fall" or "Pentecost" means until we explain it.
+
+**Why the lower bar, always:** the cost of getting this wrong is asymmetric. A reader who already knows what Genesis is skips an unnecessary sentence — mildly annoying, no real damage. A reader who doesn't know and isn't told loses the thread entirely and puts the book down. When in doubt about how much to explain, explain more.
+
+**How to apply:** before merging any chapter edit, check every proper noun, event, and piece of church vocabulary against this bar — would a reader with zero background follow it without stopping to look something up? If not, it needs a line of context, not a footnote assuming they'll go find it themselves.
+
 ## Voice
 
 **Be direct.** State positions as truths, not opinions about opinions. "Tithing is a myth" not "this book argues that tithing is a myth." Avoid "this book" self-references entirely.
