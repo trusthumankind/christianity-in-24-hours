@@ -21,7 +21,7 @@ He was a carpenter's son. He worked with his hands. He didn't emerge from a pala
 > The Spirit of the Lord is upon me, because he has anointed me to proclaim good news to the poor. He has sent me to proclaim liberty to the captives and recovering of sight to the blind, to set at liberty those who are oppressed.
 — [Luke 4:18 ESV][1]
 
-Those are Jesus's own words, reading Isaiah in his hometown synagogue — claiming the prophetic mantle. Anointed and sent, like Moses, like Elijah. The centuries of prophecy pointed to this man. But the distinction that matters for everything that follows: unlike every prophet before him, Jesus would carry the mission all the way without faltering. Moses struck the rock. David fell with Bathsheba. Solomon turned to other gods. Jesus held.
+Those are Jesus's own words spoken in his hometown synagogue, the local building where Jews gathered to worship and study Scripture. By reading Isaiah aloud there, Jesus claimed the prophetic mantle. Anointed and sent, like Moses, like Elijah. The centuries of prophecy pointed to this man. But the distinction that matters for everything that follows: unlike every prophet before him, Jesus would carry the mission all the way without faltering. Moses struck the rock. David fell with Bathsheba. Solomon turned to other gods. Jesus held.
 
 ## What he taught
 
@@ -54,6 +54,8 @@ When a rich young man asked what he must do to inherit eternal life, Jesus told 
 > Jesus said to his disciples, "Truly, I say to you, only with difficulty will a rich person enter the kingdom of heaven."
 — [Matthew 19:23 ESV][8]
 
+The "kingdom of heaven" isn't a place you go when you die. It's Jesus's shorthand for God's reign actually taking hold: people living the mission, here, now, whether or not any government or institution recognizes it.
+
 This is faith made visible. Not belief. Not ritual. A direction. A willingness to orient your life around the mission even when the cost is everything comfortable about your current one.
 
 ## The parables
@@ -68,7 +70,7 @@ These parables are not illustrations. They are the mission statement. Love the p
 
 ## Who he challenged
 
-Jesus reserved his sharpest criticism not for sinners but for the religious establishment.
+Jesus reserved his sharpest criticism not for sinners but for the religious establishment. This included the scribes: legal scholars who copied and interpreted Scripture. And this included the Pharisees (Hour 3).
 
 > Woe to you, scribes and Pharisees, hypocrites! For you tithe mint and dill and cumin, and have neglected the weightier matters of the law: justice and mercy and faithfulness.
 — [Matthew 23:23 ESV][11]
@@ -83,7 +85,7 @@ The religious leaders responded the way institutional power always does when con
 
 Equally important is what Jesus did not do.
 
-He did not establish an earthly kingdom. Israel expected a messiah who would overthrow Rome, restore the monarchy, and reign from David's throne. Jesus refused that role so consistently that people who followed him for the miracles and the food eventually left because he wouldn't be the political leader they wanted.
+He did not establish an earthly kingdom. Israel expected a messiah — a promised, anointed rescuer known as the "anointed one" — who would overthrow Rome, restore the monarchy, and reign from David's throne. Jesus refused that role so consistently that people who followed him for the miracles and the food eventually left because he wouldn't be the political leader they wanted.
 
 > Jesus answered, "My kingdom is not of this world. If my kingdom were of this world, my servants would have been fighting, that I might not be handed over to the Jews. But my kingdom is not from the world."
 — [John 18:36 ESV][12]
