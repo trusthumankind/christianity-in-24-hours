@@ -82,9 +82,13 @@ None of those responses address the hardest case: the suffering of the innocent.
 
 There is no theological answer that makes this okay. Any framework that claims to fully explain the suffering of the innocent is lying to you.
 
+A harder question follows close behind: if God can prevent suffering, why not stop just one clear case — one child's cancer — without unraveling anything else? The answer is there's no place to draw that line and mean it. Stop the worst case, and the next-worst case becomes the new worst case by comparison. Follow that logic and you end up needing to prevent everything — no real risk, no real choice, nothing actually at stake. God didn't step back partway. Stepping back was the whole move, not a dial God adjusts case by case.
+
 What can be said is this: the suffering of the innocent is not God's will, God's plan, or God's tool. It is the cost of a world that runs on its own laws. And the mission — the whole mission — is partly about building a world where that suffering is reduced. Every medical breakthrough, every act of care for the vulnerable, every system built to protect the powerless is humanity doing exactly what we were put here to do.
 
 You will encounter suffering you cannot explain. When you do, resist the urge to explain it. Sit with the people who are hurting. Do the practical work of reducing the damage. And carry the mission forward — not because suffering makes sense, but because the response to suffering is where the mission becomes real.
+
+You won't get the full explanation here, and this chapter won't pretend to have one. But the story isn't over. Hour 24 tells you what happens when it is.
 
 ## Questions to sit with
 
