@@ -98,7 +98,7 @@ Sin has an objective definition: choosing self over the mission God gave us. You
 
 **Sin is not about guilt.** Guilt without action is useless. Feeling bad about your choices while continuing to make them is not repentance — it's performance. The point of recognizing sin is to change direction, not to wallow.
 
-**Sin is not a ranking system.** The Pharisees loved to rank sins — to identify which transgressions were worse than others so they could feel superior to the people who committed the bigger ones. Jesus had zero patience for this.
+**Sin is not a ranking system.** The Pharisees — religious leaders in Jesus's time, respected for their strict devotion to the Law — loved to rank sins: identifying which transgressions were worse than others so they could feel superior to the people who committed the bigger ones. Jesus had zero patience for this.
 
 > Why do you see the speck that is in your brother's eye, but do not notice the log that is in your own eye?
 — [Matthew 7:3 ESV][7]

@@ -14,7 +14,7 @@ No. The test was never pass/fail on the first attempt. And the test may not be o
 
 ## What salvation means
 
-Strip away everything you've heard about salvation in church — the altar calls, the sinner's prayer, the "accept Jesus into your heart" formula — and ask the simplest possible question: saved from what?
+In many churches, salvation gets reduced to a single moment: walking to the front of a room during an altar call, reciting a specific prayer, "accepting Jesus into your heart." Strip away that ritual and ask the simplest possible question: saved from what?
 
 The standard Christian answer is: saved from hell. Saved from God's wrath. Saved from the eternal consequences of your sin.
 
@@ -56,7 +56,7 @@ Read that carefully. Not "after we cleaned ourselves up." Not "once we proved we
 
 Grace is not permission to keep failing. It is the assurance that the mission — the team — still wants you and needs you even when you falter. You'll fall off the path, and you can get back on. There is always an on-ramp for you just ahead.
 
-Peter denied Jesus three times the night before the crucifixion — after swearing he never would ([Luke 22:54-62][5]). After the resurrection, Jesus found Peter and asked him one question, three times: "Do you love me?" Three chances to reverse three denials. No lecture. No punishment. No probationary period. Just: do you love me? Yes? Then feed my sheep ([John 21:15-17][6]).
+Peter — one of Jesus's closest followers — denied Jesus three times the night before the crucifixion, after swearing he never would ([Luke 22:54-62][5]). After Jesus rose from death (the resurrection — Hour 11 tells that story in full), Jesus found Peter and asked him one question, three times: "Do you love me?" Three chances to reverse three denials. No lecture. No punishment. No probationary period. Just: do you love me? Yes? Then feed my sheep ([John 21:15-17][6]).
 
 That is grace. Not the absence of accountability — Peter had to face what he did. But Jesus refused to let failure be the final word.
 

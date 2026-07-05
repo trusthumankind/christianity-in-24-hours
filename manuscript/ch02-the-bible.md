@@ -23,6 +23,8 @@ The Bible is a library. Sixty-six books, written by roughly forty authors, acros
 
 "Breathed out by God" does not mean God dictated it word for word like a CEO sending a memo. The authors of the Bible were real people with real personalities, writing in specific historical contexts for specific audiences. Paul's letters, the Psalms, the Gospel of John, Leviticus, ... The difference in styles is a feature, not a flaw. The Bible's authors each brought their own voice, their own context, their own humanity to the page, and the resulting perspective of God is richer through that diversity.
 
+A quick map, since those names will keep recurring. Roughly the first three-quarters of the Bible's sixty-six books — the Old Testament — cover creation through the centuries before Jesus. The rest — the New Testament — cover Jesus's life and the movement that followed. A "Gospel" is one of four biography-style books about that life; the word itself means "good news," which is also what this book means whenever it says "the gospel" — not just the four books, but the core message they tell. Paul, quoted throughout this book, was a violent opponent of the early church before a conversion so complete he became its most prolific writer (Hour 12 tells that story).
+
 ## What the Bible is not
 
 **It is not a magic 8-ball.** You cannot flip to a random page, point at a verse, and call it God's personal message to you about whether to take that job or date that person. That's superstition dressed up as faith.

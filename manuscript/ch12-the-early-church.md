@@ -12,7 +12,7 @@ This chapter is about what they did next. And why it matters that they did it im
 
 ## Pentecost
 
-Fifty days after the resurrection, the disciples were gathered in Jerusalem. They were waiting — Jesus had told them to wait for the promise ([Acts 1:4][1]). They didn't know what they were waiting for.
+Pentecost — the Jewish harvest festival held fifty days after Passover, one of the yearly feasts that drew pilgrims to Jerusalem from across the empire — had arrived. The disciples were gathered in the city. They were waiting — Jesus had told them to wait for the promise ([Acts 1:4][1]). They didn't know what they were waiting for.
 
 Then the Spirit came.
 
@@ -72,12 +72,14 @@ To everyone. Not just Israel. Not just the covenant people. The mission that beg
 
 The early church was not a movement of saints. It was a movement of people, and people argue.
 
-The first major crisis was the question of Gentile inclusion. Did non-Jews have to become Jewish first — circumcision, dietary laws, the full Law of Moses — before they could follow Jesus? This was not a trivial question. It was the question of whether the mission was for everyone or only for the people who already had the cultural prerequisites.
+The first major crisis was the question of Gentile inclusion. Did non-Jews (Gentiles) have to become Jewish first — circumcision (the ancient sign marking a man as part of God's covenant people), dietary laws, the full Law of Moses — before they could follow Jesus? This was not a trivial question. It was the question of whether the mission was for everyone or only for the people who already had the cultural prerequisites.
 
 The Jerusalem Council (Acts 15) settled it: Gentiles did not need to become Jews. The mission was universal. But the debate was fierce, and echoes of it run through Paul's letters for years. Peter himself wavered — eating with Gentiles when no one was looking, then pulling back when Jewish Christians showed up. Paul confronted him publicly:
 
 > But when Cephas came to Antioch, I opposed him to his face, because he stood condemned.
 — [Galatians 2:11 ESV][11]
+
+(Cephas is Peter's other name — Aramaic for the same word Jesus used when he called him "the rock.")
 
 Peter, the rock on which Jesus said the church would be built, compromising the mission out of social pressure. Paul, the former persecutor, calling him out. The early church was messy, political, and human in every way. That is not a weakness of the narrative. It is the point.
 
