@@ -26,7 +26,7 @@ The cross is proof, not payment.
 
 The final week of Jesus's life is the most detailed period in the Gospels. The writers slowed down here because everything they'd been building toward converges in these days.
 
-Jesus entered Jerusalem not on a warhorse, but on a donkey — a deliberate statement. The crowds shouted "Hosanna," a Hebrew cry for rescue, and laid palm branches on the road. They expected a king. They got a prophet riding the humblest animal available.
+Jesus entered Jerusalem not on a warhorse, but on a donkey — a deliberate statement. The crowds shouted "Hosanna" — a Hebrew cry for salvation — and laid palm branches on the road. They expected a king. They got a prophet riding the humblest animal available.
 
 He went to the Temple and overturned the tables of the money changers:
 

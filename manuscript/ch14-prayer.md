@@ -99,7 +99,7 @@ Prayer changes you. Specifically, it does three things:
 
 Prayer is not a transaction. "God, if you heal my mother, I'll go to church every Sunday" is not prayer. It's a negotiation, and you don't have leverage.
 
-Prayer is not a formula. Repeating specific words in a specific order does not produce results. The rosary, a set of prayers said while counting beads, is not a spell. "In Jesus's name" is not a password. The early church prayed in their own words, from their own circumstances, about their own failures. You should do the same.
+Prayer is not a formula. Repeating specific words in a specific order does not produce results. Reciting canned statements while counting rosary beads is not a spell. "In Jesus's name" is not a password. The early church prayed in their own words, from their own circumstances, about their own failures. You should do the same.
 
 Prayer is not proof of faith. Some of the most faithful people in the Bible didn't pray elaborate prayers. They acted. The Good Samaritan didn't stop to pray before helping the wounded man — he just helped. Martha, while her sister Mary sat at Jesus's feet, was doing the practical work of hospitality ([Luke 10:38-42][7]). Jesus gently corrected her anxiety, not her service. Action and prayer are both expressions of orientation. Neither replaces the other.
 

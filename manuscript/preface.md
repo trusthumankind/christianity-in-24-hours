@@ -24,7 +24,7 @@ Something didn't make sense. I started to understand why people were leaving rel
 Eventually a story emerged, one that felt internally consistent with itself and externally consistent with the observable world. That story — that _mission_ — is presented between these covers.
 - The problem of suffering. Solved.
 - The problem of evil. Solved.
-- Original sin and substitutionary atonement (ideas you'll meet properly in Hours 3 and 4). Solved.
+- Original sin and substitutionary atonement. Solved.
 - The morality of eternal punishment. Solved.
 - Free will. Reinforced.
 

@@ -41,7 +41,7 @@ Jesus rejected worldly power as a satanic temptation. The church accepted it as 
 
 ## Colonialism and forced conversion
 
-European colonial expansion from the 15th through the 20th centuries was consistently justified by Christianity. A series of decrees from the Pope, the head of the Catholic Church, together formed the Doctrine of Discovery, which gave Christian nations the right to claim lands inhabited by non-Christians. Indigenous peoples across the Americas, Africa, Asia, and the Pacific were subjected to forced conversion, cultural destruction, and genocide, often with missionaries and soldiers working side by side.
+European colonial expansion from the 15th through the 20th centuries was consistently justified by Christianity. A series of decrees from the Pope, the head of the Catholic Church, together formed the Doctrine of Discovery. This doctrine gave Christian nations the right to claim lands inhabited by non-Christians. Indigenous peoples across the Americas, Africa, Asia, and the Pacific were subjected to forced conversion, cultural destruction, and genocide, often with missionaries and soldiers working side by side.
 
 The residential school systems in North America and Australia forcibly removed Indigenous children from their families to "civilize" them in Christian institutions. Languages were forbidden. Cultures were erased. Physical and sexual abuse was rampant. This happened not despite Christianity but in its name.
 

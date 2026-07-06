@@ -39,7 +39,7 @@ A quick map, since those names will keep recurring. Roughly the first three-quar
 
 **Read whole books, not verses.** A single verse is like a single sentence pulled from a novel. It might sound meaningful on its own, but you're missing the plot. When Paul writes "I can do all things through him who strengthens me" ([Philippians 4:13][4]), he's not promising that praying for a promotion will land you one. He's writing from prison, telling the Philippians he's learned to be content whether he has plenty or nothing. The verse is about endurance, not ambition.
 
-**Know who's talking, and to whom.** When God tells Joshua, the leader who succeeded Moses, to conquer the city of Jericho, that is not a standing order for you to go take what you want. When Jesus tells a rich young man to sell everything he owns ([Mark 10:21][5]), he's addressing a specific person's specific idol. When Paul tells women to be silent in church ([1 Corinthians 14:34][6]), he's writing to a specific congregation dealing with specific disruptions in a specific cultural context.
+**Know who's talking, and to whom.** When God tells the leader of Israel to conquer an entire city ([Joshua 6][8]), that is not a standing order for you to go take what you want. When Jesus tells a rich young man to sell everything he owns ([Mark 10:21][5]), he's addressing a specific person's specific idol. When Paul tells women to be silent in church ([1 Corinthians 14:34][6]), he's writing to a specific congregation dealing with specific disruptions in a specific cultural context.
 
 Does that mean those passages have nothing to say to you? No. But it means you have to think about *why* something was said before you decide *what* it means for your life. That requires effort. It requires humility. And it requires admitting you might have been missing the forest for the trees.
 
@@ -71,6 +71,7 @@ The mission is grounded in the Bible. It is the product of reading the whole thi
 [5]: https://www.esv.org/Mark+10/
 [6]: https://www.esv.org/1+Corinthians+14/
 [7]: https://www.esv.org/Hebrews+4/
+[8]: https://www.esv.org/Joshua+6/
 
 ---
 
