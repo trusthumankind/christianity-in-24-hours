@@ -21,7 +21,7 @@ A lawyer asked Jesus which commandment was the greatest. It was a trap — the L
 
 Every commandment. Every prophet. Every chapter of the Old Testament. Every lesson from Part II. All of it hangs on two sentences: love God, love your neighbor.
 
-This is not a simplification. It is a distillation. Jesus is not saying the rest doesn't matter — he's saying the rest is an elaboration of these two things. Don't murder? That's loving your neighbor. Don't steal? Loving your neighbor. Don't covet? Loving your neighbor. Honor the Sabbath? Loving God. Have no other gods? Loving God. The 613 laws are 613 specific applications of two principles.
+This is not a simplification. It is a distillation. Jesus is not saying the rest doesn't matter — he's saying the rest is an elaboration of these two things. Don't murder? That's loving your neighbor. Don't steal? Loving your neighbor. Don't covet? Loving your neighbor. Honor the Sabbath, the day of rest? Loving God. Have no other gods? Loving God. The 613 laws are 613 specific applications of two principles.
 
 The maturation metaphor from Part II lands here. The Law gave children 613 rules. Jesus gave adults two principles. The rules tell you what to do in specific situations. The principles tell you who to be in every situation. If you have internalized the principles, you don't need someone listing the rules.
 
@@ -78,7 +78,7 @@ Read that list again. Every item is an action or a restraint. Patient — a choi
 
 This matters because the modern world has turned love into a feeling — something that happens to you, something you "fall into," something that comes and goes like weather. Biblical love is nothing like that. It is a decision you make every day, often against your own preferences, often when you don't feel like it, often for people you wouldn't choose.
 
-Jesus loved the Pharisees who plotted to kill him. He loved Judas, knowing Judas would betray him. He loved the crowd that chose Barabbas. Love in the biblical sense does not require you to like someone. It requires you to treat them as though they matter — because they do.
+Jesus loved the Pharisees who plotted to kill him. He loved Judas, knowing Judas would betray him. He loved the crowd that condemned him to die by crucifixion. Love in the biblical sense does not require you to like someone. It requires you to treat them as though they matter — because they do.
 
 ## The failure test
 

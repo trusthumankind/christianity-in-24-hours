@@ -59,9 +59,9 @@ The genre that causes the most confusion is **apocalyptic** — the symbolic, vi
 
 The Book of Revelation was written by a man named John while exiled on the island of Patmos around 95 AD, during the persecution of Christians under Emperor Domitian.
 
-It is apocalyptic literature — a genre that uses highly symbolic, coded imagery. The genre existed before John wrote; his audience knew its conventions. When he described a beast with seven heads ([Revelation 13][3]), they recognized the seven hills of Rome. When he assigned the beast the number 666, many scholars believe the audience understood it as a numerical cipher for Nero Caesar. The "whore of Babylon" was Rome — the empire built on conquered peoples.
+It is apocalyptic literature — a genre that uses highly symbolic, coded imagery. The genre existed before John wrote; his audience knew its conventions. When he described a beast with seven heads ([Revelation 13][3]), they recognized the seven hills of Rome. When he assigned the beast the number 666, many scholars believe the audience understood it as a numerical cipher for Nero Caesar, the Roman emperor persecuting Christians at the time. The "whore of Babylon" was Rome — the empire built on conquered peoples.
 
-Modern readers, disconnected from that vocabulary, read Revelation as a literal prediction of future events. This has produced rapture theology, the Left Behind series, elaborate end-times charts, and a strain of Christianity more excited about the world ending than about the mission of making it better.
+Modern readers, disconnected from that vocabulary, read Revelation as a literal prediction of future events. This has produced rapture theology (the belief that believers will suddenly vanish before a coming tribulation), the *Left Behind* novels built on that belief, elaborate end-times charts, and a strain of Christianity more excited about the world ending than about the mission of making it better.
 
 Revelation is not a calendar. It is a letter to persecuted Christians, telling them that the empire crushing them can be overcome, that faithfulness matters even when it costs everything, and that the mission has an endpoint worth hoping for.
 
