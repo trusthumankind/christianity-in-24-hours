@@ -171,9 +171,9 @@
         return
       }
 
-      // Regular chapters — page numbers on
+      // Regular chapters — page numbers on, always start recto
 
-      pagebreak(weak: true)
+      pagebreak(to: "odd")
       v(2em)
       set text(size: 18pt, weight: "bold")
       set align(center)
