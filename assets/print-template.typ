@@ -155,7 +155,10 @@
         align(center + horizon)[
           #text(size: 20pt, weight: "bold", fill: black)[#it.body]
         ]
-        pagebreak(to: "odd")
+        // No trailing pagebreak here — the next H1 (a regular chapter)
+        // now forces its own pagebreak(to: "odd"), so adding one here
+        // too produced two extra blank pages before every chapter that
+        // opens a Part.
         return
       }
 
