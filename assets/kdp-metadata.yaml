@@ -55,6 +55,6 @@ pricing:
 format:
   trim: "5.06 x 7.81 inches"
   interior: "black and white interior, white paper"  # confirmed against live KDP dashboard 2026-07-05 — matches the cover SVG's assumption
-  pages: 251
+  pages: 243  # corrected after fixing the double-blank-page bug (was 251)
   isbn: "Free KDP ISBN (assigned at upload)"
 ---
