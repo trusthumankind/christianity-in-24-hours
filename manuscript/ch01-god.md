@@ -31,7 +31,7 @@ God created humanity with a mission, a test. Think of it this way: God has a vis
 
 Earth is our sacred domain. And "dominion" is not a trophy; it's a responsibility. You were made in the image of God — not to sit on a throne, but to steward what God built.
 
-What does that stewardship actually look like, day to day? The answer's at the end of this chapter.
+What does that stewardship actually look like, day to day? Taking responsibility for what God actually built and gave you: the earth, and the people living on it.
 
 ## Who is Satan, really?
 
@@ -72,7 +72,7 @@ Jesus answered this directly. No ambiguity, no fine print.
 
 Love God. Love other people. Everything else in the Bible hangs on those two commands.
 
-Loving God is not a feeling toward someone who has never spoken to you. If it were only that, the objection is fair: how do you love a God who stays silent while the world gets this cruel, and call it love with a straight face? But loving God has a concrete shape. It means caring for what God actually built and handed to you. That is the dominion from a few paragraphs ago. Not affection for someone distant. Responsibility for something real.
+Loving God is not a feeling toward someone who has never spoken to you. How do you love a God who stays silent while the world can be downright cruel? Then call it love with a straight face? You don't. What Jesus meant was stewardship over the earth that God created. In other words: take care of our environment, our planet. Loving God is not faking affection for someone distant but taking responsibility for something real.
 
 Whether we can take and hold that responsibility _is_ the test with Satan. By loving God and loving your neighbor at global scale, we prove Satan wrong. Failure would be either destroying our planet or pitting ourselves against each other in constant conflict with winners and losers.
 
