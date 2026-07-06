@@ -31,6 +31,8 @@ God created humanity with a mission, a test. Think of it this way: God has a vis
 
 Earth is our sacred domain. And "dominion" is not a trophy; it's a responsibility. You were made in the image of God — not to sit on a throne, but to steward what God built.
 
+What does that stewardship actually look like, day to day? Hold that question. This chapter answers it by the end, and the answer is simpler than the setup makes it sound.
+
 ## Who is Satan, really?
 
 Here's where things part ways with most of what you've heard.
@@ -68,7 +70,9 @@ Jesus answered this directly. No ambiguity, no fine print.
 > You shall love the Lord your God with all your heart and with all your soul and with all your mind. This is the great and first commandment. And a second is like it: You shall love your neighbor as yourself. On these two commandments depend all the Law and the Prophets.
 — [Matthew 22:37-40 ESV][5]
 
-Love God. Love other people. Everything else in the Bible hangs on those two commands. And notice: the mission — stewarding the earth, taking care of each other, proving we can do this — is really just a concrete expression of those two commandments lived out at scale.
+Love God. Love other people. Everything else in the Bible hangs on those two commands.
+
+Here is how that connects to everything else in this chapter. The test with Satan, the mission to steward the earth, proving that we can get this right — none of that is a separate goal from loving God and loving your neighbor. It's the same goal, described at two different scales. Loving God and loving your neighbor is what the mission actually looks like, moment to moment, choice by choice. You prove Satan wrong by loving well. That is the whole test.
 
 Simple to understand. Extraordinarily difficult to live. And that tension between understanding and living is what you'll explore in the coming chapters.
 
