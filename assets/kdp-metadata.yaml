@@ -44,17 +44,17 @@ keywords:
   - "Bible story overview Genesis to Revelation"
   - "is Christianity true"
 
-# Pricing (confirmed by Marty 2026-05-26)
+# Pricing (paperback corrected via PR #160, 2026-07-04 — was listed as $4.99)
 pricing:
   ebook: "$3.99"
-  paperback: "$4.99"
+  paperback: "$9.99"
   drm: true
   royalty_plan: "70%"  # requires $2.99-$9.99 range
 
 # Format specs
 format:
-  trim: "6 x 9 inches"
-  interior: "cream paper, black ink"
-  pages: 189
+  trim: "5.06 x 7.81 inches"
+  interior: "cream paper, black ink"  # unconfirmed against live KDP dashboard setting — see cover SVG comment, which says white
+  pages: 237
   isbn: "Free KDP ISBN (assigned at upload)"
 ---
