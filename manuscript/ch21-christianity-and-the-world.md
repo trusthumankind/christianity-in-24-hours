@@ -41,7 +41,7 @@ Jesus rejected worldly power as a satanic temptation. The church accepted it as 
 
 ## Colonialism and forced conversion
 
-European colonial expansion from the 15th through the 20th centuries was consistently justified by Christianity. A series of papal decrees together formed the Doctrine of Discovery, which gave Christian nations the right to claim lands inhabited by non-Christians. Indigenous peoples across the Americas, Africa, Asia, and the Pacific were subjected to forced conversion, cultural destruction, and genocide, often with missionaries and soldiers working side by side.
+European colonial expansion from the 15th through the 20th centuries was consistently justified by Christianity. A series of decrees from the Pope, the head of the Catholic Church, together formed the Doctrine of Discovery, which gave Christian nations the right to claim lands inhabited by non-Christians. Indigenous peoples across the Americas, Africa, Asia, and the Pacific were subjected to forced conversion, cultural destruction, and genocide, often with missionaries and soldiers working side by side.
 
 The residential school systems in North America and Australia forcibly removed Indigenous children from their families to "civilize" them in Christian institutions. Languages were forbidden. Cultures were erased. Physical and sexual abuse was rampant. This happened not despite Christianity but in its name.
 
@@ -49,7 +49,7 @@ The mission Jesus described in Luke 4:18 — "to proclaim good news to the poor.
 
 ## Slavery
 
-American slavery was explicitly defended from Christian pulpits. Slaveholders cited passages like Ephesians 6:5 ("Bondservants, obey your earthly masters") and the curse of Ham (Genesis 9:25) to argue that God endorsed the enslavement of Black people. Churches split over the issue. The Southern Baptist Convention was founded in 1845 specifically to defend slavery.
+American slavery was explicitly defended from Christian pulpits. Slaveholders cited passages like Ephesians 6:5 ("Bondservants, obey your earthly masters") and a badly misread verse called the curse of Ham (Genesis 9:25) to argue that God endorsed the enslavement of Black people. Churches split over the issue. The Southern Baptist Convention was founded in 1845 specifically to defend slavery.
 
 The abolition movement was also Christian. William Wilberforce, Harriet Beecher Stowe, Frederick Douglass, Sojourner Truth. All rooted their opposition to slavery in their faith. The same Bible that was used to justify slavery was used to dismantle it.
 

@@ -88,7 +88,7 @@ Paul wrote:
 > "Be kind to one another, tenderhearted, forgiving one another, as God in Christ forgave you."
 — [Ephesians 4:32 ESV][4]
 
-The early church was not a group of perfect people. It was a group of forgiven people who kept choosing to forgive each other. Peter denied Jesus three times and was restored. Paul persecuted the church and was welcomed into it. Mark abandoned Paul's missionary journey and was eventually reconciled ([2 Timothy 4:11][5]). Every one of those stories could have ended differently if someone had decided that the offense was unforgivable.
+The early church was not a group of perfect people. It was a group of forgiven people who kept choosing to forgive each other. Peter denied Jesus three times and was restored. Paul persecuted the church and was welcomed into it. John Mark, one of Paul's traveling companions, abandoned Paul midway through a missionary journey and was eventually reconciled ([2 Timothy 4:11][5]). Every one of those stories could have ended differently if someone had decided that the offense was unforgivable.
 
 The mission survives on forgiveness. A community that holds grudges, keeps score, and shuns people when they fail will collapse under the weight of accumulated resentment. And the mission requires community.
 
