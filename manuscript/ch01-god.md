@@ -31,7 +31,7 @@ God created humanity with a mission, a test. Think of it this way: God has a vis
 
 Earth is our sacred domain. And "dominion" is not a trophy; it's a responsibility. You were made in the image of God — not to sit on a throne, but to steward what God built.
 
-What does that stewardship actually look like, day to day? Hold that question. This chapter answers it by the end, and the answer is simpler than the setup makes it sound.
+What does that stewardship actually look like, day to day? The answer's at the end of this chapter.
 
 ## Who is Satan, really?
 
@@ -72,7 +72,9 @@ Jesus answered this directly. No ambiguity, no fine print.
 
 Love God. Love other people. Everything else in the Bible hangs on those two commands.
 
-Here is how that connects to everything else in this chapter. The test with Satan, the mission to steward the earth, proving that we can get this right — none of that is a separate goal from loving God and loving your neighbor. It's the same goal, described at two different scales. Loving God and loving your neighbor is what the mission actually looks like, moment to moment, choice by choice. You prove Satan wrong by loving well. That is the whole test.
+Loving God is not a feeling toward someone who has never spoken to you. If it were only that, the objection is fair: how do you love a God who stays silent while the world gets this cruel, and call it love with a straight face? But loving God has a concrete shape. It means caring for what God actually built and handed to you. That is the dominion from a few paragraphs ago. Not affection for someone distant. Responsibility for something real.
+
+Here is how that connects to everything else in this chapter. The test with Satan and the mission to steward the earth are not separate from loving God and loving your neighbor. They are the same goal. Proving that we can get this right is loving God and loving your neighbor, lived out at scale. You prove Satan wrong by loving well. That is the whole test.
 
 Simple to understand. Extraordinarily difficult to live. And that tension between understanding and living is what you'll explore in the coming chapters.
 
