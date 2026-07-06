@@ -1,14 +1,16 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 3267 2417" width="10.889in" height="8.056in">
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 3281 2418" width="10.935in" height="8.06in">
   <!--
     Full wrap cover for KDP paperback
-    Trim: 5.06 × 7.81 in | Pages: 229 | Paper: BW white (groundwood)
-    Spine: 0.519 in = 156px | Bleed: 0.125 in = 38px each side
-    Cover: 10.889 × 8.056 in = 3267 × 2417 px at 300 DPI
-    Back cover: x 0–1556 | Spine: x 1556–1712 | Front cover: x 1712–3267
+    Trim: 5.06 × 7.81 in | Pages: 251 | Paper: BW white
+    Spine: 0.565 in = 170px | Bleed: 0.125 in = 38px left / 37px right
+    Cover: 10.935 × 8.06 in = 3281 × 2418 px at 300 DPI
+    Back cover: x 0–1556 | Spine: x 1556–1726 | Front cover: x 1726–3281
+    Measurements taken directly from KDP's generated cover template
+    (PAPERBACK_5.060x7.810_251_BW_WHITE_en_US), not recalculated by formula.
     Font: back 50px uniform, front cover resized
   -->
 
-  <rect width="3267" height="2417" fill="#1a1a1a"/>
+  <rect width="3281" height="2418" fill="#1a1a1a"/>
 
   <!-- ═══ BACK COVER (x 0–1556, left-align 225) ═══ -->
 
@@ -52,35 +54,35 @@
   <text x="225" y="2090" text-anchor="start" font-family="'Crimson Text', Georgia, serif" font-size="42" fill="#777777">The full text is available free at</text>
   <text x="225" y="2145" text-anchor="start" font-family="'Crimson Text', Georgia, serif" font-size="42" fill="#777777">christianity.trusthumankind.org</text>
 
-  <!-- ═══ SPINE (x 1556–1712, center 1634) ═══ -->
+  <!-- ═══ SPINE (x 1556–1726, center 1641) ═══ -->
 
-  <rect x="1556" y="0" width="156" height="2417" fill="#1a1a1a"/>
+  <rect x="1556" y="0" width="170" height="2418" fill="#1a1a1a"/>
 
-  <g transform="translate(1634, 1209) rotate(90)">
+  <g transform="translate(1641, 1209) rotate(90)">
     <text x="0" y="0" text-anchor="middle" font-family="'Crimson Text', Georgia, serif" font-size="50" fill="#ffffff" letter-spacing="4">
       <tspan font-weight="bold">Christianity Reconstructed in 24 Hours</tspan>
       <tspan dx="48" fill="#c49a3c">Marty Chang &amp; Coraline Chang</tspan>
     </text>
   </g>
 
-  <!-- ═══ FRONT COVER (x 1712–3267, center 2471) ═══ -->
+  <!-- ═══ FRONT COVER (x 1726–3281, center 2485) ═══ -->
 
-  <text x="2471" y="1617" text-anchor="middle" font-family="'Crimson Text', Georgia, serif" font-size="1200" font-weight="bold" fill="#222222">24</text>
+  <text x="2485" y="1617" text-anchor="middle" font-family="'Crimson Text', Georgia, serif" font-size="1200" font-weight="bold" fill="#222222">24</text>
 
-  <text x="2471" y="600" text-anchor="middle" font-family="'Crimson Text', Georgia, serif" font-size="150" font-weight="bold" fill="#ffffff" letter-spacing="6">Christianity</text>
+  <text x="2485" y="600" text-anchor="middle" font-family="'Crimson Text', Georgia, serif" font-size="150" font-weight="bold" fill="#ffffff" letter-spacing="6">Christianity</text>
 
-  <text x="2471" y="700" text-anchor="middle" font-family="'Crimson Text', Georgia, serif" font-size="90" font-weight="bold" fill="#c49a3c" letter-spacing="8">Reconstructed</text>
+  <text x="2485" y="700" text-anchor="middle" font-family="'Crimson Text', Georgia, serif" font-size="90" font-weight="bold" fill="#c49a3c" letter-spacing="8">Reconstructed</text>
 
-  <text x="2471" y="800" text-anchor="middle" font-family="'Crimson Text', Georgia, serif" font-size="58" fill="#888888" letter-spacing="12" font-style="italic">in</text>
+  <text x="2485" y="800" text-anchor="middle" font-family="'Crimson Text', Georgia, serif" font-size="58" fill="#888888" letter-spacing="12" font-style="italic">in</text>
 
-  <text x="2471" y="980" text-anchor="middle" font-family="'Crimson Text', Georgia, serif" font-size="150" font-weight="bold" fill="#c49a3c" letter-spacing="6">24 Hours</text>
+  <text x="2485" y="980" text-anchor="middle" font-family="'Crimson Text', Georgia, serif" font-size="150" font-weight="bold" fill="#c49a3c" letter-spacing="6">24 Hours</text>
 
-  <line x1="2137" y1="1102" x2="2805" y2="1102" stroke="#444444" stroke-width="1"/>
+  <line x1="2151" y1="1102" x2="2819" y2="1102" stroke="#444444" stroke-width="1"/>
 
-  <text x="2471" y="1210" text-anchor="middle" font-family="'Crimson Text', Georgia, serif" font-size="58" fill="#999999" letter-spacing="12" font-style="italic">One story. One decision.</text>
+  <text x="2485" y="1210" text-anchor="middle" font-family="'Crimson Text', Georgia, serif" font-size="58" fill="#999999" letter-spacing="12" font-style="italic">One story. One decision.</text>
 
-  <text x="2471" y="2255" text-anchor="middle" font-family="'Crimson Text', Georgia, serif" font-size="58" fill="#c49a3c">Marty Chang &amp; Coraline Chang</text>
+  <text x="2485" y="2255" text-anchor="middle" font-family="'Crimson Text', Georgia, serif" font-size="58" fill="#c49a3c">Marty Chang &amp; Coraline Chang</text>
 
-  <rect x="0" y="0" width="3267" height="57" fill="#c49a3c"/>
-  <rect x="0" y="2360" width="3267" height="57" fill="#c49a3c"/>
+  <rect x="0" y="0" width="3281" height="57" fill="#c49a3c"/>
+  <rect x="0" y="2361" width="3281" height="57" fill="#c49a3c"/>
 </svg>
