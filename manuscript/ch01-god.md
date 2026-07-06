@@ -74,7 +74,7 @@ Love God. Love other people. Everything else in the Bible hangs on those two com
 
 Loving God is not a feeling toward someone who has never spoken to you. If it were only that, the objection is fair: how do you love a God who stays silent while the world gets this cruel, and call it love with a straight face? But loving God has a concrete shape. It means caring for what God actually built and handed to you. That is the dominion from a few paragraphs ago. Not affection for someone distant. Responsibility for something real.
 
-Here is how that connects to everything else in this chapter. The test with Satan and the mission to steward the earth are not separate from loving God and loving your neighbor. They are the same goal. Proving that we can get this right is loving God and loving your neighbor, lived out at scale. You prove Satan wrong by loving well. That is the whole test.
+Whether we can take and hold that responsibility _is_ the test with Satan. By loving God and loving your neighbor at global scale, we prove Satan wrong. Failure would be either destroying our planet or pitting ourselves against each other in constant conflict with winners and losers.
 
 Simple to understand. Extraordinarily difficult to live. And that tension between understanding and living is what you'll explore in the coming chapters.
 
