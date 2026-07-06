@@ -72,7 +72,7 @@ Jesus answered this directly. No ambiguity, no fine print.
 
 Love God. Love other people. Everything else in the Bible hangs on those two commands.
 
-Loving God is not a feeling toward someone who has never spoken to you. How do you love a God who stays silent while the world can be downright cruel? Then call it love with a straight face? You don't. Jesus was talking about stewardship over the earth that God created. In other words: take care of our environment, our planet. Loving God is not faking affection for someone distant but taking responsibility for something real.
+Loving God is not a feeling toward someone who has never spoken to you. How do you love a God who silently allows cruelty and injustice in the world? How can you say "I love God" with a straight face? Jesus was talking about stewardship over the earth that God created. In other words: take care of our environment, our planet. Loving God is not faking affection for someone distant but taking responsibility for something real.
 
 Whether we can take and hold that responsibility _is_ the test with Satan. By loving God and loving your neighbor at global scale, we prove Satan wrong. Failure would be either destroying our planet or pitting ourselves against each other in constant conflict with winners and losers.
 
