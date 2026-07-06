@@ -31,6 +31,8 @@ God created humanity with a mission, a test. Think of it this way: God has a vis
 
 Earth is our sacred domain. And "dominion" is not a trophy; it's a responsibility. You were made in the image of God — not to sit on a throne, but to steward what God built.
 
+What does that stewardship actually look like, day to day? Taking responsibility for what God actually built and gave you: the earth, and the people living on it.
+
 ## Who is Satan, really?
 
 Here's where things part ways with most of what you've heard.
@@ -68,7 +70,11 @@ Jesus answered this directly. No ambiguity, no fine print.
 > You shall love the Lord your God with all your heart and with all your soul and with all your mind. This is the great and first commandment. And a second is like it: You shall love your neighbor as yourself. On these two commandments depend all the Law and the Prophets.
 — [Matthew 22:37-40 ESV][5]
 
-Love God. Love other people. Everything else in the Bible hangs on those two commands. And notice: the mission — stewarding the earth, taking care of each other, proving we can do this — is really just a concrete expression of those two commandments lived out at scale.
+Love God. Love other people. Everything else in the Bible hangs on those two commands.
+
+Loving God is not a feeling toward someone who has never spoken to you. How do you love a God who silently allows cruelty and injustice in the world? How can you say "I love God" with a straight face? You don't. Jesus was talking about stewardship over the earth that God created. In other words: take care of our environment, our planet. Loving God is not faking affection for someone distant but taking responsibility for something real.
+
+Whether we can take and hold that responsibility _is_ the test with Satan. By loving God and loving your neighbor at global scale, we prove Satan wrong. Failure would be either destroying our planet or pitting ourselves against each other in constant conflict with winners and losers.
 
 Simple to understand. Extraordinarily difficult to live. And that tension between understanding and living is what you'll explore in the coming chapters.
 
