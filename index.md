@@ -59,6 +59,5 @@ title: Christianity Reconstructed in 24 Hours
 
 ### Join the Mission
 
-- [Join the community on Discord](https://discord.gg/2xdup499t)
+- [Join the mission at thechurch.one](https://thechurch.one)
 - [Support the mission](https://www.gofundme.com/f/open-source-society)
-- [thechurch.one](https://www.thechurch.one)
